@@ -1,0 +1,6 @@
+Toddler
+Preteen
+Adults
+Teen
+Children (6 to 10)
+Elders (65+)
