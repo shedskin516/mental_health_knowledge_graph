@@ -1,20 +1,19 @@
 import scrapy
 from bs4 import BeautifulSoup
 
-class MovieSpider(scrapy.Spider):
+class TherapistDetail(scrapy.Spider):
     name = "therapist_detail"
 
     # The range of crawling is line:[start, end) from filename
-    filename = 'data/url_unique.txt'
+    filename = 'data_therapist/url_unique.txt'
     start = 0
-    end = 9979
+    end = 10
     file = open(filename, 'r')
     lines = file.readlines()
     start_urls = []
     for i in range(start, end):
         if i >= start and i < end:
             start_urls.append(lines[i].strip())
-            print(lines[i].strip())
     # start_urls = ['https://www.psychologytoday.com/us/therapists/maureen-young-smith-corte-madera-ca/439519']
 
     def parse(self, response):
