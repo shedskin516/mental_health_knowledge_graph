@@ -3,3 +3,7 @@
 .scrapy
 
 **/__pycache__
+
+*.jsonl
+
+my.sh
