@@ -1,5 +1,13 @@
+# ignore Mac system file
 **/.DS_Store
 
-srawler/.scrapy
+# ignore vscode setting file
+.vscode
 
+# ignore crawl cache
+.scrapy
 **/__pycache__
+
+# ignore files for personal use
+*.jsonl
+my.sh

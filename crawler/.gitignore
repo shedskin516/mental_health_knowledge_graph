@@ -1,9 +1,0 @@
-**/.DS_Store
-
-.scrapy
-
-**/__pycache__
-
-*.jsonl
-
-my.sh
