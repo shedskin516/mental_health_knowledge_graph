@@ -1,0 +1,551 @@
+item,itemLabel,itemDescription,drugs,drugsLabel
+http://www.wikidata.org/entity/Q161790,Asperger syndrome,neurodevelopmental disorder affecting social interaction,http://www.wikidata.org/entity/Q409236,fluvoxamine
+http://www.wikidata.org/entity/Q161790,Asperger syndrome,neurodevelopmental disorder affecting social interaction,http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q161790,Asperger syndrome,neurodevelopmental disorder affecting social interaction,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q161790,Asperger syndrome,neurodevelopmental disorder affecting social interaction,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q161790,Asperger syndrome,neurodevelopmental disorder affecting social interaction,http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q161790,Asperger syndrome,neurodevelopmental disorder affecting social interaction,http://www.wikidata.org/entity/Q422112,methylphenidate
+http://www.wikidata.org/entity/Q161790,Asperger syndrome,neurodevelopmental disorder affecting social interaction,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q190564,Huntington's disease,"rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia",http://www.wikidata.org/entity/Q413050,tetrabenazine
+http://www.wikidata.org/entity/Q190564,Huntington's disease,"rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia",http://www.wikidata.org/entity/Q321285,ubidecarenone
+http://www.wikidata.org/entity/Q190564,Huntington's disease,"rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia",http://www.wikidata.org/entity/Q144085,pimozide
+http://www.wikidata.org/entity/Q190564,Huntington's disease,"rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia",http://www.wikidata.org/entity/Q423520,perphenazine
+http://www.wikidata.org/entity/Q190564,Huntington's disease,"rare neurodegenerative disorder of the central nervous system characterized by unwanted choreatic movements, behavioral and psychiatric disturbances and dementia",http://www.wikidata.org/entity/Q413717,(RS)-baclofen
+http://www.wikidata.org/entity/Q1331905,Lewy body dementia,type of dementia,http://www.wikidata.org/entity/Q411887,rivastigmine
+http://www.wikidata.org/entity/Q1331905,Lewy body dementia,type of dementia,http://www.wikidata.org/entity/Q7194603,pimavanserin
+http://www.wikidata.org/entity/Q1331905,Lewy body dementia,type of dementia,http://www.wikidata.org/entity/Q415081,donepezil
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q413050,tetrabenazine
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q3332124,mecamylamine
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q415752,pergolide
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q423520,perphenazine
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q144085,pimozide
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q205517,ziprasidone
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q251347,haloperidol
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q412221,clonidine
+http://www.wikidata.org/entity/Q1573307,Wernicke encephalopathy,"presence of neurological symptoms caused by biochemical lesions of the central nervous system after exhaustion of B-vitamin reserves,",http://www.wikidata.org/entity/Q83187,thiamine(1+) ion
+http://www.wikidata.org/entity/Q117121,Wilson disease,multisystem disease due to abnormal accumulation of copper,http://www.wikidata.org/entity/Q421239,D-penicillamine
+http://www.wikidata.org/entity/Q117121,Wilson disease,multisystem disease due to abnormal accumulation of copper,http://www.wikidata.org/entity/Q418386,triethylenetetramine
+http://www.wikidata.org/entity/Q174589,agoraphobia,phobic disorder involving the specific anxiety about being in a place or situation where escape is difficult or embarrassing or where help may be unavailable,http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q7331102,alcohol abuse,substance abuse that involves the recurring use of alcoholic beverages despite negative consequences,http://www.wikidata.org/entity/Q409587,naltrexone
+http://www.wikidata.org/entity/Q7331102,alcohol abuse,substance abuse that involves the recurring use of alcoholic beverages despite negative consequences,http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q7331102,alcohol abuse,substance abuse that involves the recurring use of alcoholic beverages despite negative consequences,http://www.wikidata.org/entity/Q409665,disulfiram
+http://www.wikidata.org/entity/Q7331102,alcohol abuse,substance abuse that involves the recurring use of alcoholic beverages despite negative consequences,http://www.wikidata.org/entity/Q178566,chlordiazepoxide
+http://www.wikidata.org/entity/Q7331102,alcohol abuse,substance abuse that involves the recurring use of alcoholic beverages despite negative consequences,http://www.wikidata.org/entity/Q410011,ondansetron
+http://www.wikidata.org/entity/Q2914873,alcohol withdrawal syndrome,A set of symptoms that can occur after a reduction in alcohol use after excessive use,http://www.wikidata.org/entity/Q413717,(RS)-baclofen
+http://www.wikidata.org/entity/Q4062508,alcoholic neuropathy,Human disease,http://www.wikidata.org/entity/Q83187,thiamine(1+) ion
+http://www.wikidata.org/entity/Q4062508,alcoholic neuropathy,Human disease,http://www.wikidata.org/entity/Q73972,hydroxocobalamin
+http://www.wikidata.org/entity/Q4062508,alcoholic neuropathy,Human disease,http://www.wikidata.org/entity/Q252251,cyanocobalamin
+http://www.wikidata.org/entity/Q11072,amnesia,"cognitive disorder where the memory is disturbed or lost and involves the loss of memories previously established, loss of the ability to create new memories, continuous high blood pressure and severe shock may also caused amnesia",http://www.wikidata.org/entity/Q412189,memantine
+http://www.wikidata.org/entity/Q11072,amnesia,"cognitive disorder where the memory is disturbed or lost and involves the loss of memories previously established, loss of the ability to create new memories, continuous high blood pressure and severe shock may also caused amnesia",http://www.wikidata.org/entity/Q410069,piracetam
+http://www.wikidata.org/entity/Q11072,amnesia,"cognitive disorder where the memory is disturbed or lost and involves the loss of memories previously established, loss of the ability to create new memories, continuous high blood pressure and severe shock may also caused amnesia",http://www.wikidata.org/entity/Q415081,donepezil
+http://www.wikidata.org/entity/Q131749,anorexia nervosa,type of eating disorder,http://www.wikidata.org/entity/Q7050955,norethandrolone
+http://www.wikidata.org/entity/Q131749,anorexia nervosa,type of eating disorder,http://www.wikidata.org/entity/Q190067,tetrahydrocannabinol
+http://www.wikidata.org/entity/Q118418,antisocial personality disorder,Personality disorder that involves a pervasive pattern of disregard for other people,http://www.wikidata.org/entity/Q208144,antipsychotics
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q408588,vilazodone
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q218842,zolpidem
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q210402,diazepam
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q412174,pregabalin
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q2419445,desvenlafaxine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q834280,bupropion
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q410352,gabapentin
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q421930,mirtazapine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q416992,lurasidone
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q412194,buspirone
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q410346,lamotrigine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q3563148,vortioxetine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q423364,propranolol
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q417240,atomoxetine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q205517,ziprasidone
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q423757,escitalopram
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q421937,(RS)-hydroxyzine
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q251347,haloperidol
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q408265,lorazepam
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q2924764,brexpiprazole
+http://www.wikidata.org/entity/Q154430,anxiety,"unpleasant complex combination of emotions that includes fear, apprehension and worry, and is often accompanied by physical sensations such as palpitations, nausea, chest pain and/or shortness of breath",http://www.wikidata.org/entity/Q411457,trazodone
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q418361,maprotiline
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q418850,clorazepic acid
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q5641126,halazepam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q421930,mirtazapine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q412194,buspirone
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q4926102,bromodiphenhydramine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q178566,chlordiazepoxide
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q423364,propranolol
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q210402,diazepam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q415850,amobarbital
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q417204,levomepromazine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q421937,(RS)-hydroxyzine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q61387,nortriptyline
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q423071,midazolam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q409236,fluvoxamine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q423757,escitalopram
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q418351,meprobamate
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q416791,cidoxepin
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q414796,temazepam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q408265,lorazepam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q2149443,prazepam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q5102983,chlormezanone
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q407972,chlorpromazine
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q412299,oxazepam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q412174,pregabalin
+http://www.wikidata.org/entity/Q544006,anxiety disorder,"cognitive disorder with an excessive, irrational dread of everyday situations",http://www.wikidata.org/entity/Q2359690,prochlorperazine
+http://www.wikidata.org/entity/Q46545345,apathy-aboulia syndrome,"psychopathological syndrome, characterised by apathy and aboulia, occurring in schizophrenia or after a brain damage",http://www.wikidata.org/entity/Q905058,mesocarb
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q419008,pemoline
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q1706418,dextroamphetamine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q417240,atomoxetine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q58396,imipramine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q422112,methylphenidate
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q179452,DL-amphetamine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q5613599,guanfacine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q423288,desipramine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q191924,D-methamphetamine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q410441,modafinil
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q402633,(±)-deprenyl
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q1207210,dexmethylphenidate
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q834280,bupropion
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q61387,nortriptyline
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q412221,clonidine
+http://www.wikidata.org/entity/Q181923,attention deficit hyperactivity disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q2506823,(R)-amphetamine
+http://www.wikidata.org/entity/Q38404,autism,neurodevelopmental condition,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q38404,autism,neurodevelopmental condition,http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q38404,autism,neurodevelopmental condition,http://www.wikidata.org/entity/Q418928,(RS)-fenfluramine
+http://www.wikidata.org/entity/Q38404,autism,neurodevelopmental condition,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q4915474,bipolar I disorder,bipolar disorder that is characterized by at least one manic or mixed episode,http://www.wikidata.org/entity/Q50824517,"(R,R)-asenapine"
+http://www.wikidata.org/entity/Q4915474,bipolar I disorder,bipolar disorder that is characterized by at least one manic or mixed episode,http://www.wikidata.org/entity/Q2938837,cariprazine
+http://www.wikidata.org/entity/Q4915474,bipolar I disorder,bipolar disorder that is characterized by at least one manic or mixed episode,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q410346,lamotrigine
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q152763,lithium compounds
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q240642,valproic acid
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q221174,topiramate
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q27278051,transclopenthixol
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q410412,carbamazepin
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q907219,tiagabine
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q221361,clozapine
+http://www.wikidata.org/entity/Q131755,bipolar disorder,human mental illness characterized by mood changes,http://www.wikidata.org/entity/Q410352,gabapentin
+http://www.wikidata.org/entity/Q208166,borderline personality disorder,personality disorder characterized by variability of moods and unstable relationships,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q208166,borderline personality disorder,personality disorder characterized by variability of moods and unstable relationships,http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q208166,borderline personality disorder,personality disorder characterized by variability of moods and unstable relationships,http://www.wikidata.org/entity/Q410346,lamotrigine
+http://www.wikidata.org/entity/Q208166,borderline personality disorder,personality disorder characterized by variability of moods and unstable relationships,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q180913,bulimia,eating disorder,http://www.wikidata.org/entity/Q418361,maprotiline
+http://www.wikidata.org/entity/Q180913,bulimia,eating disorder,http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q180913,bulimia,eating disorder,http://www.wikidata.org/entity/Q418928,(RS)-fenfluramine
+http://www.wikidata.org/entity/Q944473,cataplexy,sudden muscle weakness,http://www.wikidata.org/entity/Q7553347,sodium oxybate
+http://www.wikidata.org/entity/Q19001109,chronic depressive disorder,Human disease,http://www.wikidata.org/entity/Q423520,perphenazine
+http://www.wikidata.org/entity/Q18967121,chronic schizophrenia,Human disease,http://www.wikidata.org/entity/Q3905512,piperacetazine
+http://www.wikidata.org/entity/Q3743188,cocaine dependence,drug dependence that is a psychological dependency on the regular use of cocaine,http://www.wikidata.org/entity/Q418361,maprotiline
+http://www.wikidata.org/entity/Q3065932,cognitive disorder,"disease of mental health that affects cognitive functions including memory processing, perception and problem solving",http://www.wikidata.org/entity/Q419559,phenibut
+http://www.wikidata.org/entity/Q596474,conduct disorder,specific developmental disorder marked by a pattern of repetitive behavior wherein the rights of others or social norms are violated,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q596474,conduct disorder,specific developmental disorder marked by a pattern of repetitive behavior wherein the rights of others or social norms are violated,http://www.wikidata.org/entity/Q152763,lithium compounds
+http://www.wikidata.org/entity/Q160796,delirium,"severe confusion that develops quickly, and often fluctuates in intensity, neurocognitive disorder",http://www.wikidata.org/entity/Q251347,haloperidol
+http://www.wikidata.org/entity/Q160796,delirium,"severe confusion that develops quickly, and often fluctuates in intensity, neurocognitive disorder",http://www.wikidata.org/entity/Q411457,trazodone
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q411887,rivastigmine
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q5276428,dihydroergocristine
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q7194603,pimavanserin
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q423520,perphenazine
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q415081,donepezil
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q421076,tacrine
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q412690,galantamine
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q905717,dihydro-α-ergocryptine
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q412189,memantine
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q225957,dysarthria,motor speech disorder,http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q373822,eating disorder,"habit of eating either insufficient or excessive food, to the detriment of health",http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q373822,eating disorder,"habit of eating either insufficient or excessive food, to the detriment of health",http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q373822,eating disorder,"habit of eating either insufficient or excessive food, to the detriment of health",http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q3448862,enuresis,repeated inability to control urination,http://www.wikidata.org/entity/Q241006,desmopressin
+http://www.wikidata.org/entity/Q184674,erectile dysfunction,Erectile dysfunction  (ED) is a common type of male sexual dysfunction. It is when a man has trouble getting or keeping an erection. ED becomes more common as you get older. But it's not a natural part of aging.,http://www.wikidata.org/entity/Q421768,methyltestosterone
+http://www.wikidata.org/entity/Q184674,erectile dysfunction,Erectile dysfunction  (ED) is a common type of male sexual dysfunction. It is when a man has trouble getting or keeping an erection. ED becomes more common as you get older. But it's not a natural part of aging.,http://www.wikidata.org/entity/Q27126379,sildenafil citrate
+http://www.wikidata.org/entity/Q184674,erectile dysfunction,Erectile dysfunction  (ED) is a common type of male sexual dysfunction. It is when a man has trouble getting or keeping an erection. ED becomes more common as you get older. But it's not a natural part of aging.,http://www.wikidata.org/entity/Q424161,vardenafil
+http://www.wikidata.org/entity/Q184674,erectile dysfunction,Erectile dysfunction  (ED) is a common type of male sexual dysfunction. It is when a man has trouble getting or keeping an erection. ED becomes more common as you get older. But it's not a natural part of aging.,http://www.wikidata.org/entity/Q412226,yohimbine
+http://www.wikidata.org/entity/Q184674,erectile dysfunction,Erectile dysfunction  (ED) is a common type of male sexual dysfunction. It is when a man has trouble getting or keeping an erection. ED becomes more common as you get older. But it's not a natural part of aging.,http://www.wikidata.org/entity/Q191521,sildenafil
+http://www.wikidata.org/entity/Q184674,erectile dysfunction,Erectile dysfunction  (ED) is a common type of male sexual dysfunction. It is when a man has trouble getting or keeping an erection. ED becomes more common as you get older. But it's not a natural part of aging.,http://www.wikidata.org/entity/Q20817212,ginseng
+http://www.wikidata.org/entity/Q184674,erectile dysfunction,Erectile dysfunction  (ED) is a common type of male sexual dysfunction. It is when a man has trouble getting or keeping an erection. ED becomes more common as you get older. But it's not a natural part of aging.,http://www.wikidata.org/entity/Q410374,papaverine
+http://www.wikidata.org/entity/Q21504884,fentanyl toxicity,overdose of fentanyl,http://www.wikidata.org/entity/Q282902,naloxone
+http://www.wikidata.org/entity/Q1049021,gender dysphoria,mental distress resulting from mismatch between gender identity and biological gender assigned at birth,http://www.wikidata.org/entity/Q15748953,sex reassignment therapy
+http://www.wikidata.org/entity/Q1049021,gender dysphoria,mental distress resulting from mismatch between gender identity and biological gender assigned at birth,http://www.wikidata.org/entity/Q1053501,sex reassignment surgery
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q412174,pregabalin
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q845224,generalized anxiety disorder,anxiety disorder that is characterized by long-lasting anxiety that is not focused on any one object or situation,http://www.wikidata.org/entity/Q423757,escitalopram
+http://www.wikidata.org/entity/Q18558272,heroin dependence,opiate dependence that involves the continued use of heroin despite problems related to use of the substance,http://www.wikidata.org/entity/Q407721,buprenorphine
+http://www.wikidata.org/entity/Q1788847,high-functioning autism,"people with autism who are deemed to be cognitively ""higher functioning"" (with an IQ of 70 or greater) than other people with autism",http://www.wikidata.org/entity/Q76560,antidepressant
+http://www.wikidata.org/entity/Q1788847,high-functioning autism,"people with autism who are deemed to be cognitively ""higher functioning"" (with an IQ of 70 or greater) than other people with autism",http://www.wikidata.org/entity/Q211036,stimulant
+http://www.wikidata.org/entity/Q1788847,high-functioning autism,"people with autism who are deemed to be cognitively ""higher functioning"" (with an IQ of 70 or greater) than other people with autism",http://www.wikidata.org/entity/Q208144,antipsychotics
+http://www.wikidata.org/entity/Q751641,hypersomnia,excessive sleep,http://www.wikidata.org/entity/Q410441,modafinil
+http://www.wikidata.org/entity/Q751641,hypersomnia,excessive sleep,http://www.wikidata.org/entity/Q7553347,sodium oxybate
+http://www.wikidata.org/entity/Q751641,hypersomnia,excessive sleep,http://www.wikidata.org/entity/Q422112,methylphenidate
+http://www.wikidata.org/entity/Q751641,hypersomnia,excessive sleep,http://www.wikidata.org/entity/Q418913,armodafinil
+http://www.wikidata.org/entity/Q303555,hypoactive sexual desire disorder,sexual dysfunction,http://www.wikidata.org/entity/Q412226,yohimbine
+http://www.wikidata.org/entity/Q1201835,impulse control disorder,disease of mental health that involves a failure to resist an impulsive act or behaviour that may be harmful to self or others,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q410352,gabapentin
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q145052,zaleplon
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q423390,doxylamine
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q415850,amobarbital
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q3927403,quazepam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q413486,diphenhydramine
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q3085140,ethchlorvynol
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q421930,mirtazapine
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q417689,ramelteon
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q413184,eszopiclone
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q410225,ethinamate
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q414788,secobarbital
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q906220,thiobutabarbital
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q408265,lorazepam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q7650517,suvorexant
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q218842,zolpidem
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q411457,trazodone
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q418998,flurazepam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q411940,aprobarbital
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q7250328,propiomazine
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q416791,cidoxepin
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q3045264,estazolam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q414796,temazepam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q7553347,sodium oxybate
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q409558,methyprylon
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q210402,diazepam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q414236,glutethimide
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q58397,amitriptyline
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q410608,butabarbital
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q412143,triazolam
+http://www.wikidata.org/entity/Q1869874,insomnia,inability to sleep peacefully,http://www.wikidata.org/entity/Q4926102,bromodiphenhydramine
+http://www.wikidata.org/entity/Q18671,intermittent explosive disorder,Mood disorder identified by frequent episodes of anger and rage,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q192579,jet lag,physiological condition caused by travel across time zones,http://www.wikidata.org/entity/Q180912,melatonin
+http://www.wikidata.org/entity/Q718263,logorrhea,"extreme and overwhelming prolixity, wordiness",http://www.wikidata.org/entity/Q208144,antipsychotics
+http://www.wikidata.org/entity/Q718263,logorrhea,"extreme and overwhelming prolixity, wordiness",http://www.wikidata.org/entity/Q568,lithium
+http://www.wikidata.org/entity/Q28130306,low-functioning autism,controversial term applied to people with autism who have an intellectual disability and/or high support needs,http://www.wikidata.org/entity/Q211036,stimulant
+http://www.wikidata.org/entity/Q28130306,low-functioning autism,controversial term applied to people with autism who have an intellectual disability and/or high support needs,http://www.wikidata.org/entity/Q76560,antidepressant
+http://www.wikidata.org/entity/Q28130306,low-functioning autism,controversial term applied to people with autism who have an intellectual disability and/or high support needs,http://www.wikidata.org/entity/Q208144,antipsychotics
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q334477,selective serotonin reuptake inhibitor
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q418361,maprotiline
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q243547,ketamine
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q2273909,serotonin–norepinephrine reuptake inhibitor
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q72513765,Bupropion
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q395229,agomelatine
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q1452256,levosulpiride
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q2622367,mood stabilizer
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q6535779,levomilnacipran
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q208144,antipsychotics
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q58356,amoxapine
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q238544,oxitriptan
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q27139037,vilazodone hydrochloride
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q47522126,Zoloft
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q411251,melitracen
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q27164953,flupentixol
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q4363230,pipofezine
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q416632,nefazodone
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q418909,rubidium chloride
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q243547,ketamine
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q412107,dibenzepin
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q23118,lysergic acid diethylamide
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q221361,clozapine
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q410346,lamotrigine
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q423292,paliperidone
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q12135,mental disorder,distressing thought or behavior pattern,http://www.wikidata.org/entity/Q251347,haloperidol
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q410346,lamotrigine
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q416992,lurasidone
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q410412,carbamazepin
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q176301,oxcarbazepine
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q5462983,flutoprazepam
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q188638,mood disorders,disorders characterised by disturbance in an individual's mood,http://www.wikidata.org/entity/Q221174,topiramate
+http://www.wikidata.org/entity/Q1529983,mucopolysaccharidosis II,mucopolysaccharidosis characterized by a deficiency of the lysosomal enzyme iduronate sulfatase,http://www.wikidata.org/entity/Q415801,Idursulfase
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q1747559,phenelzine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q421304,pramipexole
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q58356,amoxapine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q58396,imipramine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q61387,nortriptyline
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q420885,tranylcypromine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q412194,buspirone
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q414796,temazepam
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q402633,(±)-deprenyl
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q408432,protriptyline
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q416791,cidoxepin
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q409595,isocarboxazid
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q416632,nefazodone
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q423288,desipramine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q423757,escitalopram
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q422112,methylphenidate
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q411457,trazodone
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q421930,mirtazapine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q409236,fluvoxamine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q423498,trimipramine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q58397,amitriptyline
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q152763,lithium compounds
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q58713,clomipramine
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q418361,maprotiline
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q834280,bupropion
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q413918,isoflurane
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q408265,lorazepam
+http://www.wikidata.org/entity/Q18553444,nicotine dependence,state of dependence upon nicotine,http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q18553444,nicotine dependence,state of dependence upon nicotine,http://www.wikidata.org/entity/Q12144,nicotine
+http://www.wikidata.org/entity/Q18553444,nicotine dependence,state of dependence upon nicotine,http://www.wikidata.org/entity/Q834280,bupropion
+http://www.wikidata.org/entity/Q318005,nocturnal enuresis,disease,http://www.wikidata.org/entity/Q905058,mesocarb
+http://www.wikidata.org/entity/Q182413,non-controlled substance abuse,abuse of chemical substances and/or abuse of any licit substances,http://www.wikidata.org/entity/Q25048068,buprenorphine/naloxone
+http://www.wikidata.org/entity/Q182413,non-controlled substance abuse,abuse of chemical substances and/or abuse of any licit substances,http://www.wikidata.org/entity/Q409587,naltrexone
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q58713,clomipramine
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q423757,escitalopram
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q409236,fluvoxamine
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q408265,lorazepam
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q178190,obsessive-compulsive disorder,"anxiety disorder that involves unwanted and repeated thoughts, feelings, ideas, sensations (obsessions), or behaviors that make them feel driven to do something (compulsions)",http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q18555117,opiate dependence,drug dependence that involves the continued use of opiate drugs despite despite problems related to use of the substance,http://www.wikidata.org/entity/Q409587,naltrexone
+http://www.wikidata.org/entity/Q18555117,opiate dependence,drug dependence that involves the continued use of opiate drugs despite despite problems related to use of the substance,http://www.wikidata.org/entity/Q27287577,levomethadyl
+http://www.wikidata.org/entity/Q18555117,opiate dependence,drug dependence that involves the continued use of opiate drugs despite despite problems related to use of the substance,http://www.wikidata.org/entity/Q407721,buprenorphine
+http://www.wikidata.org/entity/Q18555117,opiate dependence,drug dependence that involves the continued use of opiate drugs despite despite problems related to use of the substance,http://www.wikidata.org/entity/Q4353252,nalmefene
+http://www.wikidata.org/entity/Q18555117,opiate dependence,drug dependence that involves the continued use of opiate drugs despite despite problems related to use of the substance,http://www.wikidata.org/entity/Q411799,levomethadyl acetate
+http://www.wikidata.org/entity/Q18555117,opiate dependence,drug dependence that involves the continued use of opiate drugs despite despite problems related to use of the substance,http://www.wikidata.org/entity/Q179996,(RS)-methadone
+http://www.wikidata.org/entity/Q18555117,opiate dependence,drug dependence that involves the continued use of opiate drugs despite despite problems related to use of the substance,http://www.wikidata.org/entity/Q27292429,clonidine hydrochloride
+http://www.wikidata.org/entity/Q18555117,opiate dependence,drug dependence that involves the continued use of opiate drugs despite despite problems related to use of the substance,http://www.wikidata.org/entity/Q282902,naloxone
+http://www.wikidata.org/entity/Q17154378,opioid overdose,acute medical condition due to excessive use of opioids and related substance,http://www.wikidata.org/entity/Q282902,naloxone
+http://www.wikidata.org/entity/Q1639178,opioid use disorder,substance abuse disorder that involves the recurring use of opioid drugs despite negative consequences,http://www.wikidata.org/entity/Q407721,buprenorphine
+http://www.wikidata.org/entity/Q1328833,oppositional defiant disorder,human disorder involving hostility and defiance,http://www.wikidata.org/entity/Q27292429,clonidine hydrochloride
+http://www.wikidata.org/entity/Q1328833,oppositional defiant disorder,human disorder involving hostility and defiance,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q1328833,oppositional defiant disorder,human disorder involving hostility and defiance,http://www.wikidata.org/entity/Q407972,chlorpromazine
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q414796,temazepam
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q418361,maprotiline
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q3180288,nordazepam
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q423364,propranolol
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q58396,imipramine
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q409236,fluvoxamine
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q210402,diazepam
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q58713,clomipramine
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q741713,panic disorder,Anxiety disorder characterized by reoccurring unexpected panic attacks,http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q2606101,paranoid schizophrenia,"schizophrenia that involves delusions or auditory hallucinations of persecution or being plotted against without thought disorder, disorganized behavior, or affective flattening",http://www.wikidata.org/entity/Q423809,(E)-chlorprothixene
+http://www.wikidata.org/entity/Q270673,personality disorder,maladaptive patterns of behavior,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q270673,personality disorder,maladaptive patterns of behavior,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q270673,personality disorder,maladaptive patterns of behavior,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q6691991,pervasive developmental disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q410346,lamotrigine
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q221174,topiramate
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q410412,carbamazepin
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q152763,lithium compounds
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q416632,nefazodone
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q420885,tranylcypromine
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q898407,venlafaxine
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q425296,prazosin
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q423757,escitalopram
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q422244,fluoxetine
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q409672,(RS)-citalopram
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q202387,post-traumatic stress disorder,mental disorder that developed after experiencing or witnessig a terrifying or life-threatening event,http://www.wikidata.org/entity/Q2936421,Cannabis indica
+http://www.wikidata.org/entity/Q3508787,postencephalitic Parkinson disease,"A disease believed to be caused by a viral illness that triggers degeneration of the nerve cells in the substantia nigra. Overall, this degeneration leads to clinical parkinsonism.",http://www.wikidata.org/entity/Q337188,L-scopolamine
+http://www.wikidata.org/entity/Q935129,postpartum depression,"endogenous depression that involves intense, sustained and sometimes disabling depression experienced by women after giving birth",http://www.wikidata.org/entity/Q411932,(S)-duloxetine
+http://www.wikidata.org/entity/Q935129,postpartum depression,"endogenous depression that involves intense, sustained and sometimes disabling depression experienced by women after giving birth",http://www.wikidata.org/entity/Q407617,sertraline
+http://www.wikidata.org/entity/Q319312,premature ejaculation,ejaculation and climax soon after initiating sexual activity,http://www.wikidata.org/entity/Q27290682,dapoxetine hydrochloride
+http://www.wikidata.org/entity/Q18554007,psychologic dyspareunia,Human disease,http://www.wikidata.org/entity/Q7107372,ospemifene
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q251347,haloperidol
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q2924764,brexpiprazole
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q205517,ziprasidone
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q416545,asenapine
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q58356,amoxapine
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q7194603,pimavanserin
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q423292,paliperidone
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q416992,lurasidone
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q27284615,clospirazine hydrochloride
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q221361,clozapine
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q210402,diazepam
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q170082,psychosis,abnormal condition of the mind that involves a loss of contact with reality,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q416545,asenapine
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q251347,haloperidol
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q568,lithium
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q416992,lurasidone
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q205517,ziprasidone
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q221361,clozapine
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q423292,paliperidone
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q2924764,brexpiprazole
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q410174,lithium carbonate
+http://www.wikidata.org/entity/Q834047,schizoaffective disorder,mental disorder,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q144085,pimozide
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q411188,aripiprazole
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q50824517,"(R,R)-asenapine"
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q567927,pipotiazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q423292,paliperidone
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q58375,thioridazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q423520,perphenazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q418785,(RS)-amisulpride
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q27164953,flupentixol
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q410412,carbamazepin
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q1452256,levosulpiride
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q2938837,cariprazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q2924764,brexpiprazole
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q593166,(±)-molindone
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q205517,ziprasidone
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q27278051,transclopenthixol
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q251347,haloperidol
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q4199443,iloperidone
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q407841,reserpine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q423809,(E)-chlorprothixene
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q226905,zotepine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q6821618,mesoridazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q2608288,(Z)-thiothixene
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q1752915,trifluoperazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q58376,fluphenazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q418192,bexarotene
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q407972,chlorpromazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q58614,loxapine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q221361,clozapine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q418913,armodafinil
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q5045786,carphenazine
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q41112,schizophrenia,psychotic disorder characterized by emotional responsiveness and disintegration of thought process,http://www.wikidata.org/entity/Q4673284,acetophenazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q423809,(E)-chlorprothixene
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q58376,fluphenazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q510494,triflupromazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q593166,(±)-molindone
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q2359690,prochlorperazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q58614,loxapine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q1752915,trifluoperazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q4673284,acetophenazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q174259,droperidol
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q408265,lorazepam
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q407972,chlorpromazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q251347,haloperidol
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q2608288,(Z)-thiothixene
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q144085,pimozide
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q221361,clozapine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q419822,promazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q423520,perphenazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q6821618,mesoridazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q58375,thioridazine
+http://www.wikidata.org/entity/Q2157462,schizophreniform disorder,psychotic disorder that involves schizophrenia symptoms over time period of one month,http://www.wikidata.org/entity/Q410412,carbamazepin
+http://www.wikidata.org/entity/Q1137463,sexual dysfunction,difficulty experienced by humans during any stage of normal sexual activity,http://www.wikidata.org/entity/Q424156,tadalafil
+http://www.wikidata.org/entity/Q213600,sleep apnea,sleep disorder characterized by repeated cessation and commencing of breathing that disrupts sleep,http://www.wikidata.org/entity/Q5165502,continuous positive airway pressure
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q419559,phenibut
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q3927403,quazepam
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q5462983,flutoprazepam
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q218842,zolpidem
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q27260239,perlapine
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q407241,phenobarbital
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q415972,melperone
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q27124198,(R)-zopiclone
+http://www.wikidata.org/entity/Q177190,sleep disorder,disease of mental health that involves disruption of sleep patterns,http://www.wikidata.org/entity/Q220426,zopiclone
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q418913,armodafinil
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q408535,quetiapine
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q319877,alprazolam
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q412143,triazolam
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q210402,diazepam
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q417689,ramelteon
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q7553347,sodium oxybate
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q413184,eszopiclone
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q412443,risperidone
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q186969,ibuprofen
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q408265,lorazepam
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q410352,gabapentin
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q218842,zolpidem
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q414796,temazepam
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q7650517,suvorexant
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q421930,mirtazapine
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q201872,olanzapine
+http://www.wikidata.org/entity/Q54972453,sleep-wake disorder,,http://www.wikidata.org/entity/Q411457,trazodone
+http://www.wikidata.org/entity/Q281928,social anxiety disorder,anxiety disorder associated with social situations,http://www.wikidata.org/entity/Q410352,gabapentin
+http://www.wikidata.org/entity/Q281928,social anxiety disorder,anxiety disorder associated with social situations,http://www.wikidata.org/entity/Q408471,paroxetine
+http://www.wikidata.org/entity/Q18557988,subacute delirium,Human disease,http://www.wikidata.org/entity/Q424342,paraldehyde
+http://www.wikidata.org/entity/Q18557988,subacute delirium,Human disease,http://www.wikidata.org/entity/Q422740,propofol
+http://www.wikidata.org/entity/Q7632070,substance use disorder,"mental disorder involving the abuse or dependence on a substance that is ingested in order to produce a high, alter one's senses, or otherwise affect functioning",http://www.wikidata.org/entity/Q737743,doxapram
+http://www.wikidata.org/entity/Q7632070,substance use disorder,"mental disorder involving the abuse or dependence on a substance that is ingested in order to produce a high, alter one's senses, or otherwise affect functioning",http://www.wikidata.org/entity/Q423288,desipramine
+http://www.wikidata.org/entity/Q18558279,tertiary neurosyphilis,tertiary syphilis that results in infection located in brain or located in spinal cord,http://www.wikidata.org/entity/Q900898,probenecid
+http://www.wikidata.org/entity/Q2184304,transient tic disorder,"tic disorder that consists of multiple motor and/or phonic tics with duration of at least 4 weeks, but less than 12 months",http://www.wikidata.org/entity/Q144085,pimozide
+http://www.wikidata.org/entity/Q2184304,transient tic disorder,"tic disorder that consists of multiple motor and/or phonic tics with duration of at least 4 weeks, but less than 12 months",http://www.wikidata.org/entity/Q407988,clonazepam
+http://www.wikidata.org/entity/Q583908,vascular dementia,dementia that involves impairments in cognitive function caused by problems in blood vessels that feed the brain,http://www.wikidata.org/entity/Q415081,donepezil
+http://www.wikidata.org/entity/Q583908,vascular dementia,dementia that involves impairments in cognitive function caused by problems in blood vessels that feed the brain,http://www.wikidata.org/entity/Q412189,memantine
+http://www.wikidata.org/entity/Q583908,vascular dementia,dementia that involves impairments in cognitive function caused by problems in blood vessels that feed the brain,http://www.wikidata.org/entity/Q420288,vinpocetine
+http://www.wikidata.org/entity/Q18556468,vasculogenic impotence,human disease,http://www.wikidata.org/entity/Q191521,sildenafil
+http://www.wikidata.org/entity/Q18556468,vasculogenic impotence,human disease,http://www.wikidata.org/entity/Q416331,pentoxifylline
+http://www.wikidata.org/entity/Q18556468,vasculogenic impotence,human disease,http://www.wikidata.org/entity/Q579348,alprostadil
+http://www.wikidata.org/entity/Q4420149,withdrawal symptom,"substance-related disorder that occurs upon the abrupt discontinuation/separation or a decrease in dosage of the intake of medications, recreational drugs, and alcohol",http://www.wikidata.org/entity/Q25048068,buprenorphine/naloxone
+http://www.wikidata.org/entity/Q4420149,withdrawal symptom,"substance-related disorder that occurs upon the abrupt discontinuation/separation or a decrease in dosage of the intake of medications, recreational drugs, and alcohol",http://www.wikidata.org/entity/Q423751,loperamide
