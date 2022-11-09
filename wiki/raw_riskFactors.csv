@@ -1,0 +1,25 @@
+item,itemLabel,itemDescription,riskFactors,riskFactorsLabel
+http://www.wikidata.org/entity/Q1331905,Lewy body dementia,type of dementia,http://www.wikidata.org/entity/Q662860,smoking
+http://www.wikidata.org/entity/Q191779,Tourette syndrome,neurodevelopmental condition,http://www.wikidata.org/entity/Q662860,smoking
+http://www.wikidata.org/entity/Q5173263,cortical deafness,agnosia that is a loss of the ability to perceive any auditory information but whose hearing is intact,http://www.wikidata.org/entity/Q662860,smoking
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q1778765,social isolation
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q4340209,mental depression
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q1349358,sedentary lifestyle
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q41861,arterial hypertension
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q662860,smoking
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q131123,air pollution
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q12206,diabetes
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q7331102,alcohol abuse
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q2920572,trauma craneal
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q12174,obesity
+http://www.wikidata.org/entity/Q83030,dementia,"long-term brain disorder causing personality changes and impaired memory, reasoning, and social function",http://www.wikidata.org/entity/Q12133,deafness
+http://www.wikidata.org/entity/Q3505252,drug overdose,ingestion or application of a drug or other substance in quantities greater than recommended amount,http://www.wikidata.org/entity/Q3184856,substance abuse
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q2857712,family history
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q3184856,substance abuse
+http://www.wikidata.org/entity/Q42844,major depressive disorder,"all-encompassing low mood accompanied by low self-esteem, and by loss of interest or pleasure in normally enjoyable activities",http://www.wikidata.org/entity/Q383126,chronic condition
+http://www.wikidata.org/entity/Q4340209,mental depression,"state of low mood and aversion to activity, which can affect a person's thoughts, behavior, motivation, feelings, and sense of well-being",http://www.wikidata.org/entity/Q662860,smoking
+http://www.wikidata.org/entity/Q19000444,neurotic disorder,anxiety disorder that involves distress but neither delusions nor hallucinations,http://www.wikidata.org/entity/Q662860,smoking
+http://www.wikidata.org/entity/Q17154378,opioid overdose,acute medical condition due to excessive use of opioids and related substance,http://www.wikidata.org/entity/Q1088113,chronic pain
+http://www.wikidata.org/entity/Q17154378,opioid overdose,acute medical condition due to excessive use of opioids and related substance,http://www.wikidata.org/entity/Q1639178,opioid use disorder
+http://www.wikidata.org/entity/Q17154378,opioid overdose,acute medical condition due to excessive use of opioids and related substance,http://www.wikidata.org/entity/Q6817452,mental distress
+http://www.wikidata.org/entity/Q1077139,tic disorder,range of neurodevelopmental conditions,http://www.wikidata.org/entity/Q662860,smoking
