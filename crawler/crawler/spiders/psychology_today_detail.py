@@ -2,12 +2,12 @@ import scrapy
 from bs4 import BeautifulSoup
 
 class TherapistDetail(scrapy.Spider):
-    name = "therapist_detail"
+    name = "threpist_detail"
 
     # The range of crawling is line:[start, end) from filename
     filename = 'data_therapist/url_unique.txt'
     start = 0
-    end = 10
+    end = 9979
     file = open(filename, 'r')
     lines = file.readlines()
     start_urls = []
@@ -36,8 +36,8 @@ class TherapistDetail(scrapy.Spider):
             'postalcode': response.xpath('//div[@itemprop="address"]/span[@itemprop="postalcode"]/text()').get(),
             'about': ' '.join(response.xpath('//div[@class="statementPara"]/text()').getall()),
             'website': response.xpath('//a[@data-event-label="website"]/@href').get(),
-            'specialties': ', '.join([s.strip() for s in response.xpath('//ul[@class="attribute-list specialties-list"]/li/text()').getall()]),
-            'issues': ', '.join([s.strip() for s in response.xpath('//div[@class="spec-list attributes-issues"]/div/ul/li/text()').getall()]),
+            'specialties': '~'.join([s.strip() for s in response.xpath('//ul[@class="attribute-list specialties-list"]/li/text()').getall()]),
+            'issues': '~'.join([s.strip() for s in response.xpath('//div[@class="spec-list attributes-issues"]/div/ul/li/text()').getall()]),
             'mental_health': ', '.join([s.strip() for s in response.xpath('//div[@class="spec-list attributes-mental-health"]/div/ul/li/text()').getall()]),
             'ethnicity': ' '.join(_.strip() for _ in response.xpath('//div[@class="spec-subcat attributes-ethnicity-focus"]/descendant-or-self::*/text()').getall()),
             'age': ', '.join([s.strip() for s in response.xpath('//div[@class="spec-list attributes-age-focus"]/div/ul/li/text()').getall()]),
