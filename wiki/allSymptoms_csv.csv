@@ -1,0 +1,286 @@
+,symptoms,symptomsLabel
+0,http://www.wikidata.org/entity/Q622427,petoze
+1,http://www.wikidata.org/entity/Q1640924,hyperfocus
+2,http://www.wikidata.org/entity/Q3316140,emotional dysregulation
+3,http://www.wikidata.org/entity/Q67135693,rejection sensitive dysphoria
+4,http://www.wikidata.org/entity/Q5419936,executive dysfunction
+5,http://www.wikidata.org/entity/Q6028924,daydream
+6,http://www.wikidata.org/entity/Q2074059,oculomotor apraxia
+7,http://www.wikidata.org/entity/Q2076329,optic ataxia
+8,http://www.wikidata.org/entity/Q2046811,simultanagnosia
+9,http://www.wikidata.org/entity/Q18968158,hyperemesis
+10,http://www.wikidata.org/entity/Q4059558,akinetic-rigid syndrome
+11,http://www.wikidata.org/entity/Q906492,dystonia
+12,http://www.wikidata.org/entity/Q143790,Alien hand syndrome
+13,http://www.wikidata.org/entity/Q116275,myoclonus
+14,http://www.wikidata.org/entity/Q2836,aphasia
+15,http://www.wikidata.org/entity/Q109673442,limb apraxia
+16,http://www.wikidata.org/entity/Q1282114,speech disorder
+17,http://www.wikidata.org/entity/Q742672,dyscalculia
+18,http://www.wikidata.org/entity/Q24863599,visuospatial deficit
+19,http://www.wikidata.org/entity/Q83030,dementia
+22,http://www.wikidata.org/entity/Q1077823,somnolence
+23,http://www.wikidata.org/entity/Q3591816,twilight state
+24,http://www.wikidata.org/entity/Q213373,ataxia
+26,http://www.wikidata.org/entity/Q1076421,choreatic disease
+27,http://www.wikidata.org/entity/Q3525894,personality changes
+28,http://www.wikidata.org/entity/Q718113,weight loss
+30,http://www.wikidata.org/entity/Q4483652,fixation amnesia
+31,http://www.wikidata.org/entity/Q1082351,confabulation
+32,http://www.wikidata.org/entity/Q1790393,cryptomnesia
+33,http://www.wikidata.org/entity/Q27924344,pseudoreminiscence
+34,http://www.wikidata.org/entity/Q5445,anemia
+36,http://www.wikidata.org/entity/Q130741,hallucination
+37,http://www.wikidata.org/entity/Q1531991,parkinsonian syndrome
+38,http://www.wikidata.org/entity/Q2841504,Alacrima
+39,http://www.wikidata.org/entity/Q56565097,Impaired oropharyngeal swallow response
+40,http://www.wikidata.org/entity/Q30150991,Decreased CSF albumin
+41,http://www.wikidata.org/entity/Q1367706,osteopenia
+42,http://www.wikidata.org/entity/Q56565058,abnormal sudomotor regulation
+43,http://www.wikidata.org/entity/Q178436,constipation
+44,http://www.wikidata.org/entity/Q56565037,Reduced brain glutamine level by MRS
+45,http://www.wikidata.org/entity/Q2448873,elevated transaminases
+46,http://www.wikidata.org/entity/Q6279182,seizure
+47,http://www.wikidata.org/entity/Q3317827,disability affecting intellectual abilities
+48,http://www.wikidata.org/entity/Q56565041,Reduced brain glutamate level by MRS
+49,http://www.wikidata.org/entity/Q10295810,hypocholesterolemia
+50,http://www.wikidata.org/entity/Q29643234,Multifocal epileptiform discharges
+51,http://www.wikidata.org/entity/Q30151297,High myoinositol in brain by MRS
+52,http://www.wikidata.org/entity/Q1753547,hypotonia
+53,http://www.wikidata.org/entity/Q29647492,Delayed skeletal maturation
+54,http://www.wikidata.org/entity/Q29643939,abnormality of retinal pigmentation
+55,http://www.wikidata.org/entity/Q56565048,Reduced brain gamma-aminobutyric acid level by MRS
+56,http://www.wikidata.org/entity/Q955454,coxa valga
+57,http://www.wikidata.org/entity/Q1671598,intrauterine growth restriction
+58,http://www.wikidata.org/entity/Q620918,lagophthalmos
+59,http://www.wikidata.org/entity/Q1755487,neonatal jaundice
+60,http://www.wikidata.org/entity/Q30150765,Reduced factor IX activity
+61,http://www.wikidata.org/entity/Q623289,dysphagia
+62,http://www.wikidata.org/entity/Q1129121,splenomegaly
+63,http://www.wikidata.org/entity/Q29643793,Elevated brain choline level by MRS
+65,http://www.wikidata.org/entity/Q29019704,abnormal facial shape
+66,http://www.wikidata.org/entity/Q174857,scoliosis
+67,http://www.wikidata.org/entity/Q56564973,abnormal liver storage
+68,http://www.wikidata.org/entity/Q30150966,Mixed demyelinating and axonal polyneuropathy
+69,http://www.wikidata.org/entity/Q2608695,movement disorders
+70,http://www.wikidata.org/entity/Q29643776,Abnormal metabolic brain imaging by MRS
+71,http://www.wikidata.org/entity/Q769595,meibomian cyst
+72,http://www.wikidata.org/entity/Q29019841,Abnormal auditory evoked potentials
+73,http://www.wikidata.org/entity/Q29647501,joint hypermobility
+74,http://www.wikidata.org/entity/Q3629049,optic atrophy
+75,http://www.wikidata.org/entity/Q56565032,Reduced brain N-acetyl aspartate level by MRS
+76,http://www.wikidata.org/entity/Q29019857,Abnormal brain imaging
+77,http://www.wikidata.org/entity/Q29643693,brain atrophy
+78,http://www.wikidata.org/entity/Q56565094,Impaired oral bolus formation
+79,http://www.wikidata.org/entity/Q29647375,Decreased resting energy expenditure
+80,http://www.wikidata.org/entity/Q30150680,Reduced factor XI activity
+81,http://www.wikidata.org/entity/Q2556242,exotropia
+83,http://www.wikidata.org/entity/Q30151275,Decreased CSF total protein
+84,http://www.wikidata.org/entity/Q6058862,fatty liver disease
+85,http://www.wikidata.org/entity/Q11361883,involuntary movement
+86,http://www.wikidata.org/entity/Q29642554,facial hypotonia
+87,http://www.wikidata.org/entity/Q25312637,global developmental delay
+88,http://www.wikidata.org/entity/Q30150846,Reduced prothrombin activity
+89,http://www.wikidata.org/entity/Q2720759,esotropia
+90,http://www.wikidata.org/entity/Q29643842,Decreased CSF biopterin level
+91,http://www.wikidata.org/entity/Q179951,strabismus
+92,http://www.wikidata.org/entity/Q470427,refractive error
+93,http://www.wikidata.org/entity/Q29019700,short foot
+94,http://www.wikidata.org/entity/Q56565070,Corneal scarring
+95,http://www.wikidata.org/entity/Q1628473,corneal ulcer
+96,http://www.wikidata.org/entity/Q56564983,Elevetated blood lactate
+98,http://www.wikidata.org/entity/Q29019794,electroencephalography abnormalities
+99,http://www.wikidata.org/entity/Q431643,microcephaly
+100,http://www.wikidata.org/entity/Q945238,peripheral neuropathy
+101,http://www.wikidata.org/entity/Q29643060,functional motor deficit
+102,http://www.wikidata.org/entity/Q1266519,corneal neovascularization
+103,http://www.wikidata.org/entity/Q56565019,impaired daily living skills
+104,http://www.wikidata.org/entity/Q209583,tachycardia
+105,http://www.wikidata.org/entity/Q29019862,small hand
+106,http://www.wikidata.org/entity/Q10295815,Hypofibrinogenemia
+107,http://www.wikidata.org/entity/Q1419356,hyporeflexia
+108,http://www.wikidata.org/entity/Q30150985,Decreased CSF/serum albumin ratio
+109,http://www.wikidata.org/entity/Q1362864,hepatomegaly
+110,http://www.wikidata.org/entity/Q2227392,sucking reflex
+111,http://www.wikidata.org/entity/Q192692,nightmare
+112,http://www.wikidata.org/entity/Q4340209,mental depression
+113,http://www.wikidata.org/entity/Q215127,sexual arousal
+114,http://www.wikidata.org/entity/Q3108583,anterior segment mesenchymal dysgenesis
+115,http://www.wikidata.org/entity/Q773370,phocomelia
+116,http://www.wikidata.org/entity/Q7502090,short stature
+117,http://www.wikidata.org/entity/Q57859955,cognitive dysfunction
+118,http://www.wikidata.org/entity/Q111693701,ambiguous genitalia
+120,http://www.wikidata.org/entity/Q16035842,hearing loss
+122,http://www.wikidata.org/entity/Q183560,intellectual disability
+123,http://www.wikidata.org/entity/Q41571,epilepsy
+126,http://www.wikidata.org/entity/Q896643,brachydactyly
+127,http://www.wikidata.org/entity/Q738538,tic
+128,http://www.wikidata.org/entity/Q1497481,failure to thrive
+129,http://www.wikidata.org/entity/Q595010,hypertrichosis
+130,http://www.wikidata.org/entity/Q16874615,supravalvular aortic stenosis
+132,http://www.wikidata.org/entity/Q4930124,blue nails
+133,http://www.wikidata.org/entity/Q133244,jaundice
+134,http://www.wikidata.org/entity/Q20706838,face of the giant panda sign
+135,http://www.wikidata.org/entity/Q152234,edema
+136,http://www.wikidata.org/entity/Q181754,heart failure
+138,http://www.wikidata.org/entity/Q1544416,lissencephaly
+140,http://www.wikidata.org/entity/Q183425,abdominal pain
+141,http://www.wikidata.org/entity/Q68639544,hyperlipoproteinemia
+143,http://www.wikidata.org/entity/Q1145668,hemolytic anemia
+144,http://www.wikidata.org/entity/Q19357654,indecision
+147,http://www.wikidata.org/entity/Q682208,polyneuritis
+150,http://www.wikidata.org/entity/Q186889,nausea
+151,http://www.wikidata.org/entity/Q5467536,Forced normalization
+152,http://www.wikidata.org/entity/Q1895873,disorientation
+154,http://www.wikidata.org/entity/Q189643,delusion
+155,http://www.wikidata.org/entity/Q11072,amnesia
+156,http://www.wikidata.org/entity/Q58184039,perplexity
+157,http://www.wikidata.org/entity/Q989365,memory loss
+158,http://www.wikidata.org/entity/Q734611,anti-social behaviour
+159,http://www.wikidata.org/entity/Q29299,irritability
+160,http://www.wikidata.org/entity/Q124490,violence
+161,http://www.wikidata.org/entity/Q28813,fraud
+162,http://www.wikidata.org/entity/Q1549918,impulsivity
+165,http://www.wikidata.org/entity/Q127076,vomiting
+166,http://www.wikidata.org/entity/Q10686316,vertigo
+167,http://www.wikidata.org/entity/Q83177,depersonalization
+169,http://www.wikidata.org/entity/Q1199997,derealization
+170,http://www.wikidata.org/entity/Q609066,avolition
+171,http://www.wikidata.org/entity/Q671776,muteness
+172,http://www.wikidata.org/entity/Q48143,meningitis
+173,http://www.wikidata.org/entity/Q7799616,thymic hypoplasia
+179,http://www.wikidata.org/entity/Q107231,paralysis
+180,http://www.wikidata.org/entity/Q751641,hypersomnia
+181,http://www.wikidata.org/entity/Q666985,sincerity
+182,http://www.wikidata.org/entity/Q15780353,stimming
+185,http://www.wikidata.org/entity/Q67135649,autistic special interest
+186,http://www.wikidata.org/entity/Q937353,echolalia
+187,http://www.wikidata.org/entity/Q72423832,autistic meltdown
+188,http://www.wikidata.org/entity/Q1097541,toe walking
+189,http://www.wikidata.org/entity/Q3540887,sensory processing disorder
+190,http://www.wikidata.org/entity/Q4353073,social communication disorder
+191,http://www.wikidata.org/entity/Q12133,deafness
+192,http://www.wikidata.org/entity/Q189561,narcolepsy
+193,http://www.wikidata.org/entity/Q622527,self-injury
+194,http://www.wikidata.org/entity/Q3592817,avoidance coping
+195,http://www.wikidata.org/entity/Q2303219,binge eating
+196,http://www.wikidata.org/entity/Q267907,hypersexuality
+197,http://www.wikidata.org/entity/Q1869874,insomnia
+198,http://www.wikidata.org/entity/Q7933601,mood swing
+199,http://www.wikidata.org/entity/Q9690,fatigue
+201,http://www.wikidata.org/entity/Q394129,psychomotor agitation
+202,http://www.wikidata.org/entity/Q185935,mania
+205,http://www.wikidata.org/entity/Q545365,anhedonia
+207,http://www.wikidata.org/entity/Q188611,hypomania
+210,http://www.wikidata.org/entity/Q290620,dysphoria
+212,http://www.wikidata.org/entity/Q1339094,regulation of emotion
+213,http://www.wikidata.org/entity/Q79871,anger
+216,http://www.wikidata.org/entity/Q684868,dental attrition
+219,http://www.wikidata.org/entity/Q4419847,Pavlov's symptom
+220,http://www.wikidata.org/entity/Q460263,waxy flexibility
+221,http://www.wikidata.org/entity/Q4419854,psychological pillow
+222,http://www.wikidata.org/entity/Q1642611,negativism
+223,http://www.wikidata.org/entity/Q57769952,catatonic excitement
+224,http://www.wikidata.org/entity/Q918193,catalepsy
+225,http://www.wikidata.org/entity/Q3919140,cenesthopathy
+227,http://www.wikidata.org/entity/Q154430,anxiety
+228,http://www.wikidata.org/entity/Q1640582,fight-or-flight response
+231,http://www.wikidata.org/entity/Q1938569,flashback
+232,http://www.wikidata.org/entity/Q2723947,somatization
+234,http://www.wikidata.org/entity/Q194101,dwarfism
+235,http://www.wikidata.org/entity/Q545403,hh blood group
+236,http://www.wikidata.org/entity/Q166231,infection
+237,http://www.wikidata.org/entity/Q31110,obscenity
+238,http://www.wikidata.org/entity/Q3030775,distraction
+239,http://www.wikidata.org/entity/Q3072083,memory disorder
+241,http://www.wikidata.org/entity/Q1188698,thought disorder
+242,http://www.wikidata.org/entity/Q177190,sleep disorder
+244,http://www.wikidata.org/entity/Q170082,psychosis
+245,http://www.wikidata.org/entity/Q28455110,emotional lability
+246,http://www.wikidata.org/entity/Q397554,agrypnia excitata
+248,http://www.wikidata.org/entity/Q105434,hypochondriasis
+250,http://www.wikidata.org/entity/Q199602,itch
+251,http://www.wikidata.org/entity/Q939378,abrasion
+255,http://www.wikidata.org/entity/Q1997867,hypothymia
+256,http://www.wikidata.org/entity/Q17077617,reading disorder and écrites disorder
+257,http://www.wikidata.org/entity/Q255241,anxious
+260,http://www.wikidata.org/entity/Q41861,arterial hypertension
+261,http://www.wikidata.org/entity/Q38933,fever
+263,http://www.wikidata.org/entity/Q696490,panic attack
+264,http://www.wikidata.org/entity/Q175854,phobia
+265,http://www.wikidata.org/entity/Q845224,generalized anxiety disorder
+266,http://www.wikidata.org/entity/Q332154,ageing
+268,http://www.wikidata.org/entity/Q1529977,muscle rigidity
+269,http://www.wikidata.org/entity/Q857667,pulmonary edema
+270,http://www.wikidata.org/entity/Q16873382,wooden chest
+271,http://www.wikidata.org/entity/Q21504931,gastric hypomotility
+272,http://www.wikidata.org/entity/Q105688,hypoxia
+273,http://www.wikidata.org/entity/Q596899,miosis
+274,http://www.wikidata.org/entity/Q217111,bradycardia
+275,http://www.wikidata.org/entity/Q178061,shock
+276,http://www.wikidata.org/entity/Q738153,ileus
+277,http://www.wikidata.org/entity/Q574360,spasm
+278,http://www.wikidata.org/entity/Q11820606,eye irritation
+279,http://www.wikidata.org/entity/Q5062120,central nervous system depression
+280,http://www.wikidata.org/entity/Q1641494,hypoventilation
+281,http://www.wikidata.org/entity/Q275419,hypotension
+282,http://www.wikidata.org/entity/Q185089,acidosis
+283,http://www.wikidata.org/entity/Q18558125,intracranial hypertension
+285,http://www.wikidata.org/entity/Q3774744,respiratory arrest
+286,http://www.wikidata.org/entity/Q159557,coma
+287,http://www.wikidata.org/entity/Q1150070,change
+288,http://www.wikidata.org/entity/Q1815366,behavioral disorder
+289,http://www.wikidata.org/entity/Q567576,anomic aphasia
+290,http://www.wikidata.org/entity/Q18767,primary progressive aphasia
+292,http://www.wikidata.org/entity/Q10469820,language disorder
+294,http://www.wikidata.org/entity/Q16342771,motor disorder
+295,http://www.wikidata.org/entity/Q11460,clothing
+298,http://www.wikidata.org/entity/Q720026,brain damage
+299,http://www.wikidata.org/entity/Q4420149,withdrawal symptom
+300,http://www.wikidata.org/entity/Q320011,coprophagia
+301,http://www.wikidata.org/entity/Q1759560,microtia
+302,http://www.wikidata.org/entity/Q1641128,hypertelorism
+303,http://www.wikidata.org/entity/Q222634,cleft lip and cleft palate
+305,http://www.wikidata.org/entity/Q86,headache
+309,http://www.wikidata.org/entity/Q683498,arthralgia
+310,http://www.wikidata.org/entity/Q10916362,dizziness
+311,http://www.wikidata.org/entity/Q223907,tremor
+312,http://www.wikidata.org/entity/Q775940,diplopia
+315,http://www.wikidata.org/entity/Q42844,major depressive disorder
+316,http://www.wikidata.org/entity/Q12174,obesity
+318,http://www.wikidata.org/entity/Q270421,muscle weakness
+319,http://www.wikidata.org/entity/Q308978,pressure ulcer
+325,http://www.wikidata.org/entity/Q1276947,exaltation
+334,http://www.wikidata.org/entity/Q767485,respiratory failure
+335,http://www.wikidata.org/entity/Q189331,heart arrhythmia
+337,http://www.wikidata.org/entity/Q127724,cataract
+338,http://www.wikidata.org/entity/Q3749492,sterility
+339,http://www.wikidata.org/entity/Q1557686,muscle atrophy
+340,http://www.wikidata.org/entity/Q847583,cardiomyopathy
+342,http://www.wikidata.org/entity/Q415844,acanthocyte
+344,http://www.wikidata.org/entity/Q827017,gait abnormality
+345,http://www.wikidata.org/entity/Q281490,urinary incontinence
+346,http://www.wikidata.org/entity/Q4736316,altered level of consciousness
+347,http://www.wikidata.org/entity/Q1671614,intrusive thought
+349,http://www.wikidata.org/entity/Q6048309,obsession
+350,http://www.wikidata.org/entity/Q266332,compulsive behavior
+351,http://www.wikidata.org/entity/Q1123260,palpitation
+353,http://www.wikidata.org/entity/Q69901129,Paranoid Behavior
+354,http://www.wikidata.org/entity/Q3043347,paranoid delusion
+358,http://www.wikidata.org/entity/Q15637420,lethargy
+359,http://www.wikidata.org/entity/Q445036,periodic limb movement
+360,http://www.wikidata.org/entity/Q1260186,hepatosplenomegaly
+361,http://www.wikidata.org/entity/Q213449,eating
+365,http://www.wikidata.org/entity/Q58490799,chronic postsurgical or post traumatic pain
+368,http://www.wikidata.org/entity/Q824292,hyponatremia
+372,http://www.wikidata.org/entity/Q3311991,microarousal
+374,http://www.wikidata.org/entity/Q3557657,social anxiety
+382,http://www.wikidata.org/entity/Q29643762,cerebellar atrophy
+383,http://www.wikidata.org/entity/Q154709,cerebellar ataxia
+384,http://www.wikidata.org/entity/Q3054130,low frustration tolerance
+385,http://www.wikidata.org/entity/Q1198115,stereotypy
+386,http://www.wikidata.org/entity/Q101991,inflammation
+387,http://www.wikidata.org/entity/Q1638131,hyperesthesia
+388,http://www.wikidata.org/entity/Q769220,paresthesia
+389,http://www.wikidata.org/entity/Q184674,erectile dysfunction
+391,http://www.wikidata.org/entity/Q466475,trance
