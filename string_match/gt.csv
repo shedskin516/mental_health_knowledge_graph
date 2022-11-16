@@ -1,0 +1,295 @@
+today.ID,wiki.ID,today.name,wiki.name,confidence,label
+1292,Q2802231,aging issues,Subcortical dementia,-0.175,0
+3503,Q245590,and cultural adjustment,cyclothymia,-0.108695652173913,0
+108,Q18967153,family trauma,mixed disorder as reaction to stress,-0.0902777777777777,0
+791,Q55784975,childhood trauma - adults,progressive spondyloepimetaphyseal dysplasia-short stature-short fourth metatarsals-intellectual disability syndrome,-0.084051724137931,0
+2050,Q40103033,impact of cultural/psychologic norms,hemimegalencephaly,-0.0833333333333333,0
+2909,Q2647480,support for loved ones struggeling with sud,alcoholism in adolescence,-0.0813953488372093,0
+118,Q4927796,child abuse/neglect,blood fetishism,-0.0526315789473684,0
+2548,Q998273,betrayal from partner or spouse,Smith-Lemli-Opitz syndrome,-0.0241935483870967,0
+829,Q7187290,military culture,phonological dyslexia,-0.0119047619047619,0
+2367,Q1201835,christian counseling - seventh-day adventist,impulse control disorder,-0.0113636363636363,0
+3280,Q102293401,sleep or insomnia,speech-language disorder-1,-0.0096153846153846,0
+2122,Q875992,organizational conflict,Phocomelia due to thalidomide,0.0172413793103448,0
+2427,Q5420055,partner betrayal trauma,Exercise bulimia,0.0326086956521739,0
+1183,Q30897648,applied sports & health psychology,psychopathological symptom,0.0441176470588235,0
+40,Q2506540,academic issues,sneaker fetishism,0.0588235294117647,0
+200,Q29871326,putting others' needs before your own,cluster A personality disorders,0.0675675675675675,0
+2398,Q11790691,leadership,trench neurosis,0.0833333333333333,0
+2707,Q7238040,pandemic stress,Prairie madness,0.2,0
+2965,Q1069110,child custody evaluations,Cotard delusion,0.2,0
+3884,Q1009193,intersecting social identities,counting disorders associated with genetic disease,0.2,0
+2842,Q25407066,medical illness,ictal psychosis,0.2,0
+2459,Q3306095,adjustment disor,mentism,0.203125,0
+1366,Q5283757,zen questions,diurnal enuresis,0.203125,0
+644,Q117121,dissociative disorders,Wilson disease,0.2045454545454545,0
+2088,Q95422809,late-life depression,body-focused obsession,0.2045454545454545,0
+2561,Q42755841,imposter syndrome for mandarin speakers,"cardiocranial syndrome, Pfeiffer type",0.2051282051282051,0
+277,Q1076421,crisis assessment,choreatic disease,0.2058823529411764,0
+1516,Q17030626,medical & health issues,Homicidal ideation,0.2065217391304347,0
+1972,Q18592,professional women,frontotemporal dementia,0.2065217391304347,0
+293,Q106996443,insomnia,Bell's mania,0.2083333333333333,0
+3449,Q3065932,erectile issues,cognitive disorder,0.2083333333333333,0
+431,Q373822,incarceration ptsd,eating disorder,0.2083333333333333,0
+2555,Q2140711,vaginal pain,Dancing mania,0.2115384615384615,0
+2976,Q110493745,personal development,Veronal poisoning,0.2125,0
+2509,Q1413869,multicultural issues,medical fetishism,0.2125,0
+1047,Q565650,specializing in sexuality concerns,seeing pink elephants,0.213235294117647,0
+2226,Q6129341,sex & relationships,revendication neurosis,0.2159090909090909,0
+1396,Q8354911,near death experiences,reactive depression,0.2159090909090909,0
+3216,Q2705600,couples therapy,dysorthography,0.2166666666666666,0
+2716,Q377402,racial and ethnic issues,transvestic fetishism,0.21875,0
+2792,Q18388539,self-harming,digital hoarding,0.21875,0
+3956,Q2580627,single parenting,Masked depression,0.2205882352941176,0
+1973,Q21504884,asexual identity,fentanyl toxicity,0.2205882352941176,0
+832,Q653027,eco-grief/depression,encopresis,0.225,0
+1470,Q388722,dissociative identy disorders,childhood disintegrative disease,0.2265625,0
+281,Q18971674,recovery from religion,reactive confusion,0.2272727272727272,0
+1143,Q7256456,school performance,psychoorganic syndrome,0.2272727272727272,0
+280,Q7240522,parenting young children,prenatal cocaine exposure,0.23,0
+2782,Q9341414,eating disorders,Organic dissociative disorder,0.2327586206896551,0
+1750,Q1419434,neurodivergence,oneirophrenia,0.2333333333333333,0
+437,Q72423832,shut down,autistic meltdown,0.2352941176470588,0
+3527,Q28092948,isolation,smoking addiction,0.2352941176470588,0
+4004,Q12373588,incorporate mindful meditation,Severe mental retardation,0.2416666666666666,0
+3834,Q19936090,female empowerment,presenile dementia,0.25,0
+3066,Q4713257,anxiety and eating,Alcohol and weight,0.25,0
+467,Q15640367,depth psychology,infective psychosis,0.25,0
+228,Q28092948,sexual orientation,smoking addiction,0.2638888888888889,0
+3544,Q7311344,immigration evaluations,religious delusion,0.2717391304347826,0
+3408,Q5254902,broad sexual education,Delusional intuition,0.2727272727272727,0
+2880,Q3141344,elderly persons disorders,medical students' disease,0.28,0
+1595,Q2514100,abortion,verbigeration,0.2884615384615384,0
+1219,Q12859193,somatic symptom disorders,Nightmare disorder,0.29,0
+203,Q6691991,dissociative identity disorder/osdd,pervasive developmental disorder,0.2928571428571428,0
+738,Q25407067,interview skills,interictal psychosis,0.3,0
+2629,Q377402,toxic relationships,transvestic fetishism,0.3095238095238095,0
+2057,Q12135,generalized anxiety disorder,mental disorder,0.3125,0
+2863,Q18587,authentic parenting,semantic dementia,0.3157894736842105,0
+3850,Q11323359,coping skills,clothing fetish,0.3333333333333333,0
+638,Q2914153,organizational improvement,amotivational syndrome,0.3461538461538461,0
+2578,Q4183896,parenting special needs children,mental retardation in children,0.359375,0
+104,Q56014553,impulse control disorders,alcohol-related disorders,0.4,0
+2979,Q177190,adjustment disorders,sleep disorder,0.4,0
+2979,Q741713,adjustment disorders,panic disorder,0.4,0
+2758,Q4915474,tic disorders,bipolar I disorder,0.4027777777777778,0
+3776,Q107389455,ocd/panic disorder,GRIN disorder,0.4027777777777778,0
+3521,Q20494879,peak performance,performance anxiety,0.4078947368421052,0
+343,Q511454,coronavirus anxiety,stranger anxiety,0.4078947368421052,0
+1748,Q320719,developmental disorders,dependent personality disorder,0.4083333333333333,0
+1194,Q3497292,phobias,scopophobia,0.4090909090909091,1
+2695,Q8075299,smith-magenis syndrome,CHIME syndrome,0.4090909090909091,0
+644,Q2667685,dissociative disorders,chronic tic disorder,0.4090909090909091,0
+104,Q12046440,impulse control disorders,emotional disorder,0.41,0
+2057,Q1329584,generalized anxiety disorder,reactive attachment disorder,0.4107142857142857,0
+2770,Q3072083,feeding disorders,memory disorder,0.4117647058823529,0
+2770,Q18553616,feeding disorders,sexual disorder,0.4117647058823529,0
+1513,Q4358147,attachment disorders,rumination disorder,0.4125,0
+2478,Q56014365,down syndrome,Holmes-Gang syndrome,0.4125,0
+72,Q270673,attachment disorder,personality disorder,0.4125,0
+3465,Q130555,tourette syndrome,Norman–Roberts syndrome,0.4130434782608695,0
+875,Q281928,social cognitive issues,social anxiety disorder,0.4130434782608695,0
+3827,Q493965,c-ptsd/childhood trauma,childhood amnesia,0.4130434782608695,1
+2111,Q4134457,binge eating disorder,substance-related disorder,0.4134615384615384,0
+3251,Q2268045,misophonia,aichmophobia,0.4166666666666667,0
+1961,Q53704153,personal identity issues,mixed personality disorders,0.4166666666666667,0
+909,Q955922,racial identity,moral insanity,0.4166666666666667,0
+1393,Q447482,adolescent speciality,object sexuality,0.4166666666666667,0
+2719,Q373822,psychotic disorders,eating disorder,0.4210526315789473,0
+228,Q108598184,sexual orientation,visual hallucination,0.425,0
+2694,Q1642611,creatives,negativism,0.425,0
+1691,Q12859193,tobacco use disorder,Nightmare disorder,0.425,0
+1419,Q4358147,gender identity disorder,rumination disorder,0.4270833333333333,0
+1507,Q438896,past life regression/therapy,Late life depression,0.4285714285714285,0
+591,Q2914583,chronic worry and depression,psychotic depression,0.4285714285714285,0
+1136,Q66124080,covid19 related issues,cocaine-related disorders,0.43,0
+273,Q66124080,neurological disorders,cocaine-related disorders,0.43,0
+3609,Q1124410,imposter syndrome,Jerusalem syndrome,0.4305555555555556,0
+1890,Q19365224,emotional wellness,serious mental illness,0.4318181818181818,0
+608,Q2721459,social phobia,highway  phobia,0.4333333333333333,0
+3489,Q25389052,sexuality and,sexual aversion,0.4333333333333333,0
+745,Q19000750,attachement and intimacy dissorder,transient organic mental disorder,0.4338235294117647,0
+2425,Q188638,cognitive disorders,mood disorders,0.4342105263157895,0
+3091,Q5097985,childhood stress,childhood phobia,0.4375,0
+1661,Q6410625,spending,Kindling,0.4375,0
+3527,Q205972,isolation,intoxication,0.4375,0
+3609,Q1308944,imposter syndrome,hypnic jerk syndrome,0.4375,0
+3465,Q7205365,tourette syndrome,Plum syndrome,0.4411764705882353,0
+3341,Q96077699,traumatic recovery,traumatic stress disorders,0.4423076923076923,0
+608,Q16554457,social phobia,leporiphobia,0.4423076923076923,0
+3718,Q97696569,disability,reading disability,0.4444444444444444,0
+2356,Q12046440,emotional health,emotional disorder,0.4444444444444444,1
+685,Q1269174,emotion regulation,erotic lactation,0.4444444444444444,0
+272,Q544006,thinking disorders,anxiety disorder,0.4444444444444444,0
+72,Q4358147,attachment disorder,rumination disorder,0.4473684210526316,0
+2825,Q3063847,food and eating disorders,emotional and behavioral disorders,0.4485294117647059,0
+168,Q281928,social anxiety & agoraphobia,social anxiety disorder,0.4553571428571428,1
+1749,Q1246099,post traumatic stress disorder,posttraumatic stress disorder in children and teens,0.4558823529411764,1
+3695,Q16979375,anxiety/depression,Retarded depression,0.4605263157894737,0
+2400,Q5988100,generational trauma,Ideational apraxia,0.4605263157894737,0
+752,Q1820442,social anxiety disorder,substance-induced anxiety disorder,0.4632352941176471,0
+1847,Q18554889,psychoanalysis,drug psychosis,0.4642857142857143,0
+3398,Q1809353,cannabis abuse,laxative abuse,0.4642857142857143,0
+3640,Q935129,post-partum challenges,postpartum depression,0.4659090909090909,0
+2612,Q5063259,agoraphobia,cephalgiaphobia,0.4666666666666667,0
+2936,Q170102,creative,scrapie,0.46875,0
+2458,Q207334,changes,hangover,0.46875,0
+124,Q174651,impostor syndrome,Bálint's syndrome,0.4705882352941176,0
+3465,Q574741,tourette syndrome,Dubowitz syndrome,0.4705882352941176,0
+72,Q10469820,attachment disorder,language disorder,0.4736842105263157,0
+832,Q2914583,eco-grief/depression,psychotic depression,0.475,0
+1042,Q1154399,video game addiction,television addiction,0.475,0
+577,Q935129,postpartum issues,postpartum depression,0.4761904761904761,1
+3669,Q209522,intimacy disorder,binge-eating disorder,0.4761904761904761,0
+3465,Q9390445,tourette syndrome,Toriello-Carey syndrome,0.4782608695652174,0
+901,Q3519556,ecoanxiety,death anxiety,0.4807692307692308,0
+1871,Q114714864,complex trauma,sexual trauma,0.4821428571428571,0
+2641,Q3297888,mood disorders,pain disorder,0.4821428571428571,0
+3609,Q852094,imposter syndrome,Couvade syndrome,0.4852941176470588,0
+124,Q2680381,impostor syndrome,Godot's syndrome,0.4852941176470588,0
+2758,Q5178783,tic disorders,courtship disorder,0.4861111111111111,0
+2782,Q1815366,eating disorders,behavioral disorder,0.4868421052631579,0
+1748,Q51718774,developmental disorders,Other pervasive developmental disorders,0.4871794871794871,0
+3173,Q16979375,anxiety - depression,Retarded depression,0.4875,0
+2257,Q19277644,asperger's syndrome,Crane-Heise syndrome,0.4875,0
+273,Q721073,neurological disorders,delusional disorder,0.4886363636363636,0
+2310,Q1087811,chronic health issues,chronic wasting disease,0.5,0
+3020,Q18971674,creative professionals,reactive confusion,0.5,0
+1524,Q130727,addiction,sugar addiction,0.5,0
+2786,Q83977449,abuse and anxiety,nuclear anxiety,0.5,0
+1696,Q117121,lyme disease,Wilson disease,0.5,0
+124,Q1035100,impostor syndrome,helper syndrome,0.5,0
+406,Q427810,intimacy disorders,dysthymic disorder,0.5,0
+711,Q169922,fears of change,fear of needles,0.5,0
+892,Q7239873,parenting,pregaming,0.5,0
+311,Q1189255,process addictions,computer addiction,0.5,0
+865,Q26897870,boundary setting in relationships,inability to maintain relationships,0.5,0
+3320,Q430947,personal growth & development,personality development disorder,0.5078125,0
+1234,Q2667685,personality disorders,chronic tic disorder,0.5119047619047619,0
+3173,Q2580627,anxiety - depression,Masked depression,0.5125,0
+2257,Q55789813,asperger's syndrome,arena syndrome,0.5131578947368421,0
+3695,Q4340209,anxiety/depression,mental depression,0.5138888888888888,0
+1756,Q12046440,somatic disorders,emotional disorder,0.5138888888888888,0
+3465,Q17042115,tourette syndrome,Myhre syndrome,0.5147058823529411,0
+2612,Q22162415,agoraphobia,phallophobia,0.5208333333333334,0
+985,Q17992586,adolescent and family,Adolescent paranoia,0.5238095238095238,0
+721,Q671776,queerness,muteness,0.5277777777777778,0
+293,Q917061,insomnia,monomania,0.5277777777777778,0
+272,Q69906769,thinking disorders,Elimination Disorders,0.5357142857142857,0
+511,Q427810,adjustment disorder,dysthymic disorder,0.5394736842105263,0
+986,Q10611388,erectile dysfunction,orgasmic dysfunction,0.55,0
+3214,Q3540868,attachment wounds,attachment disorder,0.5526315789473685,0
+794,Q741713,learning disorders,panic disorder,0.5555555555555556,0
+2608,Q741713,bipolar disorder,panic disorder,0.5625,0
+2782,Q787420,eating disorders,automation disorder,0.5657894736842105,0
+1194,Q514686,phobias,aphonia,0.5714285714285714,0
+124,Q16944551,impostor syndrome,Biemond syndrome,0.5735294117647058,0
+2257,Q911160,asperger's syndrome,Ganser syndrome,0.5789473684210527,0
+1756,Q373822,somatic disorders,eating disorder,0.5882352941176471,0
+2478,Q18411789,down syndrome,Fried syndrome,0.5892857142857143,0
+2425,Q2627467,cognitive disorders,dissociative disorder,0.5952380952380952,0
+3871,Q10701324,eating disorder,trance disorder,0.6,0
+3472,Q3541786,porn dependency,drug dependence,0.6,0
+3871,Q12135,eating disorder,mental disorder,0.6,0
+1073,Q83977449,general anxiety,nuclear anxiety,0.6,0
+1204,Q7575316,autism spectrum discorder,spectrum disorder,0.6,0
+1748,Q6691991,developmental disorders,pervasive developmental disorder,0.6015625,0
+834,Q2745489,racial discrimination,spatial disorientation,0.6022727272727273,0
+2911,Q16068890,relationship distress,relationship addiction,0.6022727272727273,0
+2332,Q3306774,antisocial personality,addictive personality,0.6022727272727273,0
+3609,Q8075299,imposter syndrome,CHIME syndrome,0.6029411764705882,0
+3669,Q741713,intimacy disorder,panic disorder,0.6029411764705882,0
+1576,Q55346076,williams syndrome,CAMOS syndrome,0.6029411764705882,0
+1234,Q747735,personality disorders,paranoid personality disorder,0.603448275862069,0
+1234,Q5643617,personality disorders,Haltlose personality disorder,0.603448275862069,0
+2313,Q1815366,behavioral medicine,behavioral disorder,0.6052631578947368,1
+2799,Q3540868,attachment injuries,attachment disorder,0.6052631578947368,0
+2008,Q1137463,executive dysfunction,sexual dysfunction,0.6071428571428571,0
+2412,Q514686,phobia,aphonia,0.6071428571428571,0
+3394,Q5419936,sexual dysfunction,executive dysfunction,0.6071428571428571,0
+2545,Q2735540,meth/sex addiction,sexual addiction,0.6111111111111112,1
+794,Q7261223,learning disorders,Purging disorder,0.6111111111111112,0
+794,Q5282510,learning disorders,writing disorder,0.6111111111111112,0
+1691,Q7632070,tobacco use disorder,substance use disorder,0.6136363636363636,0
+836,Q15520396,anxiety and depression,Antenatal depression,0.6136363636363636,0
+2612,Q18757595,agoraphobia,Lalophobia,0.6136363636363636,0
+3513,Q1436063,bipolar spectrum disorders,autism spectrum disorder,0.6153846153846154,0
+3985,Q102245543,love addiction,opium addiction,0.6166666666666667,0
+2846,Q102245543,porn addiction,opium addiction,0.6166666666666667,0
+544,Q3377828,childhood abuse,childhood fear,0.6166666666666667,0
+1756,Q1374020,somatic disorders,somatization disorder,0.6190476190476191,1
+2248,Q2627467,dissociative identity disorder,dissociative disorder,0.625,
+3020,Q8354911,creative professionals,reactive depression,0.625,0
+3302,Q1087232,dyslexia,dyslalia,0.625,0
+2404,Q1319971,pornography and love addiction,pornography addiction,0.625,1
+3173,Q15520396,anxiety - depression,Antenatal depression,0.625,0
+2782,Q7261223,eating disorders,Purging disorder,0.625,0
+2088,Q15520396,late-life depression,Antenatal depression,0.625,0
+2782,Q209522,eating disorders,binge-eating disorder,0.6309523809523809,0
+1253,Q3540868,attachment issues,attachment disorder,0.631578947368421,1
+1296,Q111208379,sex addiction,music addiction,0.6333333333333333,0
+2057,Q2300749,generalized anxiety disorder,separation anxiety disorder,0.6339285714285714,0
+1748,Q17009018,developmental disorders,developmental regression,0.6354166666666666,0
+1419,Q17028947,gender identity disorder,identity disorder,0.6354166666666666,0
+2088,Q108582207,late-life depression,maternal depression,0.6375,0
+2425,Q2914540,cognitive disorders,cognitive distortion,0.6375,0
+2088,Q8354911,late-life depression,reactive depression,0.6375,0
+2719,Q2667685,psychotic disorders,chronic tic disorder,0.6375,0
+2257,Q838018,asperger's syndrome,Capgras syndrome,0.6447368421052632,0
+2782,Q7310715,eating disorders,relational disorder,0.6447368421052632,0
+3609,Q7617360,imposter syndrome,Stimmler syndrome,0.6470588235294118,0
+265,Q17142111,pre menstrual dysphoric disorder,Interictal dysphoric disorder,0.6484375,0
+108,Q56063104,family trauma,racial trauma,0.6538461538461539,0
+2758,Q107389455,tic disorders,GRIN disorder,0.6538461538461539,0
+2478,Q360035,down syndrome,dhat syndrome,0.6538461538461539,0
+608,Q944108,social phobia,animal phobia,0.6538461538461539,0
+1512,Q41184,clinical hypnotherapy,clinical lycanthropy,0.6547619047619048,0
+1004,Q1328833,oppositional defiance (odd),oppositional defiant disorder,0.6551724137931034,1
+534,Q6691991,neurodevelopmental disorders,pervasive developmental disorder,0.65625,0
+1703,Q12081209,astrology,battology,0.6666666666666666,0
+3138,Q195941,compulsive overeating,compulsive hoarding,0.6666666666666666,0
+3972,Q2728811,pmdd premenstrual dysphoric disorder & pme,premenstrual dysphoric disorder,0.6726190476190477,1
+3676,Q1426787,death anxiety,test anxiety,0.6730769230769231,0
+2478,Q7376681,down syndrome,Rud syndrome,0.6730769230769231,0
+2104,Q1076421,chronic disease,choreatic disease,0.6764705882352942,0
+2606,Q111966757,political anxiety,Spatial anxiety,0.6764705882352942,0
+1756,Q1482034,somatic disorders,combat disorder,0.6764705882352942,0
+2828,Q17142111,premenstrual dysphoric disorder,Interictal dysphoric disorder,0.6774193548387096,0
+795,Q860740,learning difficulty,learning disability,0.6842105263157895,1
+1759,Q16068890,relationship disconnect,relationship addiction,0.6847826086956522,0
+2993,Q175854,phobia's,phobia,0.6875,1
+2564,Q113360747,substance abuse,oral substance abuse,0.6875,1
+2396,Q3519556,dating anxiety,death anxiety,0.6964285714285714,0
+2478,Q587795,down syndrome,Anton syndrome,0.6964285714285714,0
+581,Q1077139,panic disorder,tic disorder,0.7142857142857143,0
+650,Q178190,obsessive-compulsive (ocd),obsessive-compulsive disorder,0.7155172413793104,1
+2612,Q3328200,agoraphobia,agoraphilia,0.7272727272727273,1
+3871,Q3297888,eating disorder,pain disorder,0.7333333333333333,0
+3871,Q5282510,eating disorder,writing disorder,0.734375,0
+3609,Q7243682,imposter syndrome,Primrose syndrome,0.7352941176470589,0
+2332,Q1229331,antisocial personality,dyssocial personality,0.7386363636363636,1
+2261,Q477502,complex post traumatic stress disorder - cptsd,complex post-traumatic stress disorder,0.75,1
+811,Q1436063,adult autism spectrum disorder,autism spectrum disorder,0.75,1
+958,Q17030626,suicidal ideation,Homicidal ideation,0.7638888888888888,0
+3021,Q5419936,executive functioning,executive dysfunction,0.7857142857142857,1
+986,Q5419936,erectile dysfunction,executive dysfunction,0.7976190476190477,0
+2459,Q317158,adjustment disor,adjustment disorder,0.8026315789473685,1
+2608,Q4086956,bipolar disorder,bipolar ll disorder,0.8026315789473685,1
+1834,Q48990236,brain bringerompers syndrome,Bainbridge Ropers Syndrome,0.8035714285714286,1
+3538,Q3316140,emotional regulation,emotional dysregulation,0.8369565217391305,0
+2608,Q4915474,bipolar disorder,bipolar I disorder,0.8611111111111112,1
+2257,Q161790,asperger's syndrome,Asperger syndrome,0.868421052631579,1
+1470,Q18657,dissociative identy disorders,dissociative identity disorder,0.9083333333333332,1
+2088,Q438896,late-life depression,Late life depression,0.925,1
+1234,Q270673,personality disorders,personality disorder,0.9404761904761904,1
+644,Q2627467,dissociative disorders,dissociative disorder,0.9431818181818182,1
+1748,Q3087172,developmental disorders,developmental disorder,0.9456521739130436,1
+509,Q1316515,school refusal,school refusal,1.0,1
+3959,Q377493,selective mutism,selective mutism,1.0,1
+3031,Q584560,dysgraphia,dysgraphia,1.0,1
+1315,Q41112,schizophrenia,schizophrenia,1.0,1
+2641,Q188638,mood disorders,mood disorders,1.0,1
+3676,Q3519556,death anxiety,death anxiety,1.0,1
+1869,Q114714864,sexual trauma,sexual trauma,1.0,1
+2368,Q38404,autism,autism,1.0,1
+2008,Q5419936,executive dysfunction,executive dysfunction,1.0,1
