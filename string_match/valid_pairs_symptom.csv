@@ -1,0 +1,62 @@
+today.ID,wiki.ID,today.name,wiki.name,confidence,result
+13,Q696490,panic attacks,panic attack,0.9846153846153848,True
+31,Q183560,intellectual disability,intellectual disability,1.0,True
+45,Q67135693,rejection sensitivity dysphoria (rsd),rejection sensitive dysphoria,0.9158833710557848,True
+59,Q170082,psychosis,psychosis,1.0,True
+109,Q41571,epilepsy,epilepsy,1.0,True
+194,Q28455110,emotional intimacy,emotional lability,0.92,True
+266,Q1815366,behavioral issues,behavioral disorder,0.9120743034055728,True
+271,Q623289,dyspraxia,dysphagia,0.9111111111111112,True
+293,Q1869874,insomnia,insomnia,1.0,True
+351,Q266332,compulsive behavior,compulsive behavior,1.0,True
+380,Q215127,sexual assault,sexual arousal,0.9261904761904762,True
+402,Q12174,obesity,obesity,1.0,True
+685,Q3316140,emotion regulation,emotional dysregulation,0.9231884057971016,True
+733,Q3316140,emotion dysregulation,emotional dysregulation,0.9349896480331265,True
+751,Q1549918,impulsivity,impulsivity,1.0,True
+752,Q3557657,social anxiety disorder,social anxiety,0.9217391304347826,True
+813,Q3316140,emotional disturbance,emotional dysregulation,0.9145908248883078,True
+854,Q213449,cheating,eating,0.9166666666666666,True
+935,Q154430,anxiety,anxiety,1.0,True
+986,Q184674,erectile dysfunction,erectile dysfunction,1.0,True
+1194,Q175854,phobias,phobia,0.9714285714285714,True
+1251,Q2303219,binge eating,binge eating,1.0,True
+1329,Q3316140,emotional eating,emotional dysregulation,0.9141304347826088,True
+1450,Q178436,consultation,constipation,0.9133333333333332,True
+1560,Q1188698,thought disorders,thought disorder,0.9882352941176472,True
+1575,Q83030,dementia,dementia,1.0,True
+1805,Q6048309,obsessions,obsession,0.98,True
+1872,Q12133,deafness,deafness,1.0,True
+1906,Q845224,generalized anxiety,generalized anxiety disorder,0.9357142857142856,True
+2008,Q5419936,executive dysfunction,executive dysfunction,1.0,True
+2045,Q1199997,derealization,derealization,1.0,True
+2057,Q845224,generalized anxiety disorder,generalized anxiety disorder,1.0,True
+2065,Q19357654,indecisive,indecision,0.92,True
+2069,Q28455110,emotional vulnerability,emotional lability,0.9565217391304348,True
+2094,Q332154,aging,ageing,0.9555555555555556,True
+2111,Q2303219,binge eating disorder,binge eating,0.9142857142857144,True
+2158,Q718113,weight loss,weight loss,1.0,True
+2172,Q4419854,psychological,psychological pillow,0.93,True
+2287,Q3316140,emotion disregulation,emotional dysregulation,0.9243892339544514,True
+2311,Q79871,anger,anger,1.0,True
+2334,Q86,headaches,headache,0.9777777777777776,True
+2409,Q266332,compulsive behaviors,compulsive behavior,0.99,True
+2412,Q175854,phobia,phobia,1.0,True
+2458,Q1150070,changes,change,0.9714285714285714,True
+2464,Q192692,nightmares,nightmare,0.98,True
+2524,Q622527,self injury,self-injury,0.9636363636363636,True
+2628,Q1671614,intrusive thoughts,intrusive thought,0.9888888888888888,True
+2839,Q738538,tics,tic,0.9416666666666668,True
+2971,Q266332,compulsive eating,compulsive behavior,0.9120743034055728,True
+2993,Q175854,phobia's,phobia,0.95,True
+3021,Q5419936,executive functioning,executive dysfunction,0.9428571428571428,True
+3031,Q623289,dysgraphia,dysphagia,0.9248148148148148,True
+3100,Q6279182,seizures,seizure,0.975,True
+3208,Q83177,depersonalization,depersonalization,1.0,True
+3260,Q9690,fatigue,fatigue,1.0,True
+3535,Q3316140,emotional dysregulation,emotional dysregulation,1.0,True
+3538,Q3316140,emotional regulation,emotional dysregulation,0.9739130434782608,True
+3561,Q1150070,change,change,1.0,True
+3785,Q3557657,social anxiety,social anxiety,1.0,True
+3817,Q308978,pressure,pressure ulcer,0.9142857142857144,True
+3887,Q3072083,memory disorders,memory disorder,0.9875,True
