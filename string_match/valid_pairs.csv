@@ -1,0 +1,205 @@
+today.ID,wiki.ID,today.name,wiki.name,confidence,result
+13,Q696490,panic attacks,panic attack,0.9846153846153848,True
+31,Q183560,intellectual disability,intellectual disability,1.0,True
+31,Q55782401,intellectual disability,"intellectual disability, wolff type",0.9314285714285714,True
+44,Q844590,body dysmorphic disorder,body dysmorphic disorder,1.0,True
+45,Q67135693,rejection sensitivity dysphoria (rsd),rejection sensitive dysphoria,0.9158833710557848,True
+59,Q10638540,psychosis,prepsychosis,0.925,True
+59,Q170082,psychosis,psychosis,1.0,True
+69,Q1137463,sexual dysfunctions,sexual dysfunction,0.9894736842105264,True
+72,Q3540868,attachment disorder,attachment disorder,1.0,True
+76,Q55621848,adjustment,maladjustment,0.923076923076923,True
+104,Q1201835,impulse control disorders,impulse control disorder,0.992,True
+105,Q935129,post-partum depression,postpartum depression,0.990909090909091,True
+109,Q774045,epilepsy,epilepsy aura,0.9230769230769232,True
+119,Q21109,co-dependency,codependency,0.9794871794871796,True
+174,Q19269381,workaholism,workaholism,1.0,True
+197,Q2849709,abandonment,abandonment anxiety,0.9157894736842104,True
+203,Q18657,dissociative identity disorder/osdd,dissociative identity disorder,0.9714285714285714,True
+239,Q4936774,body-focused repetitive behaviors,body-focused repetitive behavior disorders,0.9571428571428572,True
+252,Q493965,childhood trauma,childhood amnesia,0.9154411764705882,True
+265,Q2728811,pre menstrual dysphoric disorder,premenstrual dysphoric disorder,0.9174395161290322,True
+266,Q1815366,behavioral issues,behavioral disorder,0.9120743034055728,True
+293,Q1869874,insomnia,insomnia,1.0,True
+296,Q192077,melancholy,melancholia,0.9436363636363636,True
+296,Q13512178,melancholy,melancholia,0.9436363636363636,True
+351,Q195941,compulsive behavior,compulsive hoarding,0.911842105263158,True
+374,Q420339,acoa,acoasma,0.9142857142857144,True
+391,Q372236,migration trauma,migraine aura,0.917948717948718,True
+479,Q192579,jet lag,jet lag,1.0,True
+509,Q1316515,school refusal,school refusal,1.0,True
+511,Q317158,adjustment disorder,adjustment disorder,1.0,True
+534,Q3450985,neurodevelopmental disorders,neurodevelopmental disorder,0.9928571428571428,True
+544,Q493965,childhood abuse,childhood amnesia,0.910889894419306,True
+544,Q3377828,childhood abuse,childhood fear,0.9147619047619048,True
+548,Q860740,learning disabilities,learning disability,0.9609022556390976,True
+577,Q2339132,postpartum issues,postpartum psychosis,0.9131372549019608,True
+581,Q3297888,panic disorder,pain disorder,0.9604395604395604,True
+581,Q741713,panic disorder,panic disorder,1.0,True
+618,Q31883801,eco-anxiety,eco-anxiety,1.0,True
+644,Q10276697,dissociative disorders,dissociative stupor,0.9138755980861244,True
+644,Q2627467,dissociative disorders,dissociative disorder,0.990909090909091,True
+650,Q178190,obsessive-compulsive (ocd),obsessive-compulsive disorder,0.9268481144043365,True
+678,Q7632070,substance use,substance use disorder,0.9181818181818182,True
+685,Q3316140,emotion regulation,emotional dysregulation,0.9231884057971016,True
+733,Q3316140,emotion dysregulation,emotional dysregulation,0.9349896480331265,True
+752,Q281928,social anxiety disorder,social anxiety disorder,1.0,True
+755,Q653027,encopresis,encopresis,1.0,True
+760,Q6043263,integrative,integrative agnosia,0.9157894736842104,True
+793,Q1328833,oppositional-defiant,oppositional defiant disorder,0.9210344827586208,True
+795,Q860740,learning difficulty,learning disability,0.9157894736842104,True
+813,Q3316140,emotional disturbance,emotional dysregulation,0.9145908248883078,True
+836,Q3347244,anxiety and depression,anxiety neurosis,0.910530303030303,True
+838,Q18348488,communication,communication deviance,0.9181818181818182,True
+838,Q1058691,communication,communication disorder,0.9181818181818182,True
+846,Q11081,alzheimer's,alzheimer's disease,0.9157894736842104,True
+901,Q31883801,ecoanxiety,eco-anxiety,0.9787878787878788,True
+935,Q154430,anxiety,anxiety,1.0,True
+935,Q16054607,anxiety,anxiety,1.0,True
+960,Q935129,postpartum depression,postpartum depression,1.0,True
+986,Q184674,erectile dysfunction,erectile dysfunction,1.0,True
+992,Q923164,expressive arts,expressive aphasia,0.9177777777777778,True
+1004,Q1328833,oppositional defiance (odd),oppositional defiant disorder,0.9349616858237548,True
+1007,Q935129,postpartum depression & anxiety,postpartum depression,0.935483870967742,True
+1044,Q21109,co-dependence,codependency,0.9367521367521368,True
+1194,Q175854,phobias,phobia,0.9714285714285714,True
+1204,Q1436063,autism spectrum discorder,autism spectrum disorder,0.992,True
+1234,Q270673,personality disorders,personality disorder,0.9904761904761904,True
+1253,Q3540868,attachment issues,attachment disorder,0.9120743034055728,True
+1277,Q208166,borderline personality (bpd),borderline personality disorder,0.9262672811059908,True
+1296,Q2735540,sex addiction,sexual addiction,0.9383012820512822,True
+1315,Q41112,schizophrenia,schizophrenia,1.0,True
+1315,Q26721384,schizophrenia,schizophrenic reaction,0.9181818181818182,True
+1329,Q3316140,emotional eating,emotional dysregulation,0.9141304347826088,True
+1340,Q191779,tourette syndrome & tics,tourette syndrome,0.9416666666666668,True
+1397,Q1058691,communication problems,communication disorder,0.9161616161616162,True
+1419,Q11491595,gender identity disorder,gender identity disorder,1.0,True
+1447,Q190845,bdsm,bdsm,1.0,True
+1465,Q1058691,communication issues,communication disorder,0.9245454545454544,True
+1470,Q2627467,dissociative identy disorders,dissociative disorder,0.916256157635468,True
+1470,Q18657,dissociative identy disorders,dissociative identity disorder,0.9654844006568144,True
+1490,Q1436063,autism spectrum disorders,autism spectrum disorder,0.992,True
+1498,Q4936774,body-focused repetitive behaviors (bfrb),body-focused repetitive behavior disorders,0.935952380952381,True
+1513,Q3540868,attachment disorders,attachment disorder,0.99,True
+1538,Q1049021,gender dysphoria,gender dysphoria,1.0,True
+1538,Q3704805,gender dysphoria,gender dysphoria in children,0.9142857142857144,True
+1560,Q1188698,thought disorders,thought disorder,0.9882352941176472,True
+1575,Q83030,dementia,dementia,1.0,True
+1606,Q18348488,communication challenges,communication deviance,0.9205342902711324,True
+1623,Q1137463,sexual confusion,sexual dysfunction,0.9141666666666668,True
+1691,Q152100,tobacco use disorder,tobacco use disorder,1.0,True
+1692,Q207791,fetish,fetishism,0.9333333333333332,True
+1748,Q3087172,developmental disorders,developmental disorder,0.9913043478260868,True
+1748,Q17009018,developmental disorders,developmental regression,0.9290372670807454,True
+1748,Q9385421,developmental disorders,developmental speech disorder,0.9238380809595202,True
+1749,Q202387,post traumatic stress disorder,post-traumatic stress disorder,0.9314942528735632,True
+1759,Q16068890,relationship disconnect,relationship addiction,0.9274183482421468,True
+1775,Q2712607,circadian rhythm disorders: dsps,circadian rhythm sleep disorder,0.9199308755760368,True
+1805,Q6048309,obsessions,obsession,0.98,True
+1833,Q268586,culture shock,culture shock,1.0,True
+1846,Q772440,scrupulosity,scrupulosity,1.0,True
+1869,Q114714864,sexual trauma,sexual trauma,1.0,True
+1885,Q3087172,developmental,developmental disorder,0.9181818181818182,True
+1906,Q845224,generalized anxiety,generalized anxiety disorder,0.9357142857142856,True
+1915,Q844590,body dymorphic disorder,body dysmorphic disorder,0.9481884057971016,True
+1950,Q20494879,performance,performance anxiety,0.9157894736842104,True
+1971,Q815296,stress-related illness,stress-related disorders,0.9205342902711324,True
+1983,Q21109,codependency,codependency,1.0,True
+2000,Q2735540,sexual addiction,sexual addiction,1.0,True
+2008,Q5419936,executive dysfunction,executive dysfunction,1.0,True
+2057,Q845224,generalized anxiety disorder,generalized anxiety disorder,1.0,True
+2071,Q20494879,performance anxiety,performance anxiety,1.0,True
+2088,Q438896,late-life depression,late life depression,0.9589473684210528,True
+2103,Q11491595,gender identity issues,gender identity disorder,0.931060606060606,True
+2111,Q209522,binge eating disorder,binge-eating disorder,0.9509523809523808,True
+2134,Q608259,trichotillomania,trichotillomania,1.0,True
+2159,Q935129,postpartum depression and adjustmen,postpartum depression,0.92,True
+2172,Q4419854,psychological,psychological pillow,0.93,True
+2210,Q935129,post partum depression,postpartum depression,0.9623376623376624,True
+2248,Q2627467,dissociative identity disorder,dissociative disorder,0.9114285714285714,True
+2248,Q18657,dissociative identity disorder,dissociative identity disorder,1.0,True
+2257,Q161790,asperger's syndrome,asperger syndrome,0.9671826625386996,True
+2261,Q477502,complex post traumatic stress disorder - cptsd,complex post-traumatic stress disorder,0.9123631640794112,True
+2278,Q1426787,test anxiety,test anxiety,1.0,True
+2287,Q3316140,emotion disregulation,emotional dysregulation,0.9243892339544514,True
+2297,Q20494879,performance anxiety for performers,performance anxiety,0.9117647058823528,True
+2313,Q1513352,behavioral medicine,behavioral addiction,0.9284210526315788,True
+2314,Q7331102,alcohol use,alcohol abuse,0.9692307692307692,True
+2316,Q388626,sleeping,sleepwalking,0.9333333333333332,True
+2332,Q118418,antisocial personality,antisocial personality disorder,0.9419354838709678,True
+2368,Q38404,autism,autism,1.0,True
+2404,Q1319971,pornography and love addiction,pornography addiction,0.9114285714285714,True
+2412,Q175854,phobia,phobia,1.0,True
+2425,Q3065932,cognitive disorders,cognitive disorder,0.9894736842105264,True
+2434,Q44619,fears,fear,0.96,True
+2459,Q317158,adjustment disor,adjustment disorder,0.968421052631579,True
+2464,Q12859193,nightmares,nightmare disorder,0.9111111111111112,True
+2467,Q438896,late life depression,late life depression,1.0,True
+2485,Q44619,fear,fear,1.0,True
+2492,Q2914812,dual diagnosis,dual diagnosis,1.0,True
+2592,Q25389052,sexual pain,sexual aversion,0.9151515151515152,True
+2602,Q2728811,premenstrual dysphoric disorder (pmdd),premenstrual dysphoric disorder,0.963157894736842,True
+2608,Q4915474,bipolar disorder,bipolar i disorder,0.9652777777777778,True
+2608,Q131755,bipolar disorder,bipolar disorder,1.0,True
+2608,Q4086956,bipolar disorder,bipolar ll disorder,0.968421052631579,True
+2612,Q2822642,agoraphobia,acarophobia,0.9154545454545456,True
+2612,Q3328200,agoraphobia,agoraphilia,0.9272727272727274,True
+2612,Q174589,agoraphobia,agoraphobia,1.0,True
+2612,Q395931,agoraphobia,agraphia,0.9272727272727274,True
+2641,Q188638,mood disorders,mood disorders,1.0,True
+2695,Q2295338,smith-magenis syndrome,smith-magenis syndrome,1.0,True
+2713,Q97674167,covid,covidiot,0.925,True
+2719,Q2914583,psychotic disorders,psychotic depression,0.9136532507739936,True
+2758,Q1077139,tic disorders,tic disorder,0.9846153846153848,True
+2770,Q5441238,feeding disorders,feeding disorder,0.9882352941176472,True
+2782,Q373822,eating disorders,eating disorder,0.9875,True
+2828,Q2728811,premenstrual dysphoric disorder,premenstrual dysphoric disorder,1.0,True
+2846,Q1319971,porn addiction,pornography addiction,0.919047619047619,True
+2857,Q31883801,eco-anxiety & grief,eco-anxiety,0.9157894736842104,True
+2971,Q231624,compulsive eating,compulsive act,0.938655462184874,True
+2971,Q195941,compulsive eating,compulsive hoarding,0.9343653250773992,True
+2971,Q5157235,compulsive eating,compulsive talking,0.9535130718954248,True
+2979,Q317158,adjustment disorders,adjustment disorder,0.99,True
+2991,Q860740,learning disabilites/adhd,learning disability,0.9334736842105265,True
+2993,Q175854,phobia's,phobia,0.95,True
+3015,Q608259,trichotillomania/skin picking,trichotillomania,0.9103448275862068,True
+3021,Q5419936,executive functioning,executive dysfunction,0.9428571428571428,True
+3024,Q12046440,emotional distress,emotional disorder,0.9333333333333332,True
+3031,Q584560,dysgraphia,dysgraphia,1.0,True
+3055,Q1319971,pornography addiction,pornography addiction,1.0,True
+3077,Q1060310,narcissistic personality (npd),narcissistic personality disorder,0.9309090909090908,True
+3108,Q207791,fetishes,fetishism,0.9305555555555556,True
+3138,Q195941,compulsive overeating,compulsive hoarding,0.9290874244434616,True
+3138,Q5157235,compulsive overeating,compulsive talking,0.91765873015873,True
+3208,Q2338307,depersonalization,depersonalization disorder,0.9307692307692308,True
+3240,Q2627467,dissociative disorders (did),dissociative disorder,0.95,True
+3302,Q132971,dyslexia,dyslexia,1.0,True
+3346,Q1137463,sexual dysfunction and impotence,sexual dysfunction,0.9125,True
+3367,Q15326,alcoholism,alcoholism,1.0,True
+3386,Q11491595,gender identity,gender identity disorder,0.925,True
+3391,Q56063104,racial trauma,racial trauma,1.0,True
+3394,Q1137463,sexual dysfunction,sexual dysfunction,1.0,True
+3397,Q7451812,separation anxiety,separation anxiety in dogs,0.9384615384615383,True
+3397,Q2300749,separation anxiety,separation anxiety disorder,0.9333333333333332,True
+3398,Q65065956,cannabis abuse,cannabis and sex,0.9214285714285716,True
+3398,Q25531259,cannabis abuse,cannabis abuse,1.0,True
+3465,Q191779,tourette syndrome,tourette syndrome,1.0,True
+3497,Q1436063,autism spectrum,autism spectrum disorder,0.925,True
+3513,Q4915490,bipolar spectrum disorders,bipolar spectrum,0.9230769230769232,True
+3535,Q3316140,emotional dysregulation,emotional dysregulation,1.0,True
+3538,Q3316140,emotional regulation,emotional dysregulation,0.9739130434782608,True
+3591,Q317158,adjustment issues,adjustment disorder,0.9120743034055728,True
+3676,Q3519556,death anxiety,death anxiety,1.0,True
+3680,Q608259,trichotillomania and brfbs,trichotillomania,0.9230769230769232,True
+3692,Q8354911,creative expression,reactive depression,0.9278752436647174,True
+3693,Q16068890,relationship anxiety,relationship addiction,0.9127807486631015,True
+3740,Q1058691,communication and boundaries,communication disorder,0.9123376623376624,True
+3783,Q695954,psychogenic pain (tms),psychogenic pain,0.9454545454545455,True
+3785,Q281928,social anxiety,social anxiety disorder,0.9217391304347826,True
+3793,Q997841,language delays,language delay,0.9866666666666668,True
+3806,Q831735,internet addiction,internet addiction disorder,0.9333333333333332,True
+3806,Q1514248,internet addiction,internet sex addiction,0.9636363636363636,True
+3871,Q373822,eating disorder,eating disorder,1.0,True
+3887,Q3072083,memory disorders,memory disorder,0.9875,True
+3959,Q5354941,selective mutism,elective mutism,0.9791666666666666,True
+3959,Q377493,selective mutism,selective mutism,1.0,True
