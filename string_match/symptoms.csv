@@ -1,0 +1,286 @@
+id,symptom
+Q622427,petoze
+Q1640924,hyperfocus
+Q3316140,emotional dysregulation
+Q67135693,rejection sensitive dysphoria
+Q5419936,executive dysfunction
+Q6028924,daydream
+Q2074059,oculomotor apraxia
+Q2076329,optic ataxia
+Q2046811,simultanagnosia
+Q18968158,hyperemesis
+Q4059558,akinetic-rigid syndrome
+Q906492,dystonia
+Q143790,Alien hand syndrome
+Q116275,myoclonus
+Q2836,aphasia
+Q109673442,limb apraxia
+Q1282114,speech disorder
+Q742672,dyscalculia
+Q24863599,visuospatial deficit
+Q83030,dementia
+Q1077823,somnolence
+Q3591816,twilight state
+Q213373,ataxia
+Q1076421,choreatic disease
+Q3525894,personality changes
+Q718113,weight loss
+Q4483652,fixation amnesia
+Q1082351,confabulation
+Q1790393,cryptomnesia
+Q27924344,pseudoreminiscence
+Q5445,anemia
+Q130741,hallucination
+Q1531991,parkinsonian syndrome
+Q2841504,Alacrima
+Q56565097,Impaired oropharyngeal swallow response
+Q30150991,Decreased CSF albumin
+Q1367706,osteopenia
+Q56565058,abnormal sudomotor regulation
+Q178436,constipation
+Q56565037,Reduced brain glutamine level by MRS
+Q2448873,elevated transaminases
+Q6279182,seizure
+Q3317827,disability affecting intellectual abilities
+Q56565041,Reduced brain glutamate level by MRS
+Q10295810,hypocholesterolemia
+Q29643234,Multifocal epileptiform discharges
+Q30151297,High myoinositol in brain by MRS
+Q1753547,hypotonia
+Q29647492,Delayed skeletal maturation
+Q29643939,abnormality of retinal pigmentation
+Q56565048,Reduced brain gamma-aminobutyric acid level by MRS
+Q955454,coxa valga
+Q1671598,intrauterine growth restriction
+Q620918,lagophthalmos
+Q1755487,neonatal jaundice
+Q30150765,Reduced factor IX activity
+Q623289,dysphagia
+Q1129121,splenomegaly
+Q29643793,Elevated brain choline level by MRS
+Q29019704,abnormal facial shape
+Q174857,scoliosis
+Q56564973,abnormal liver storage
+Q30150966,Mixed demyelinating and axonal polyneuropathy
+Q2608695,movement disorders
+Q29643776,Abnormal metabolic brain imaging by MRS
+Q769595,meibomian cyst
+Q29019841,Abnormal auditory evoked potentials
+Q29647501,joint hypermobility
+Q3629049,optic atrophy
+Q56565032,Reduced brain N-acetyl aspartate level by MRS
+Q29019857,Abnormal brain imaging
+Q29643693,brain atrophy
+Q56565094,Impaired oral bolus formation
+Q29647375,Decreased resting energy expenditure
+Q30150680,Reduced factor XI activity
+Q2556242,exotropia
+Q30151275,Decreased CSF total protein
+Q6058862,fatty liver disease
+Q11361883,involuntary movement
+Q29642554,facial hypotonia
+Q25312637,global developmental delay
+Q30150846,Reduced prothrombin activity
+Q2720759,esotropia
+Q29643842,Decreased CSF biopterin level
+Q179951,strabismus
+Q470427,refractive error
+Q29019700,short foot
+Q56565070,Corneal scarring
+Q1628473,corneal ulcer
+Q56564983,Elevetated blood lactate
+Q29019794,electroencephalography abnormalities
+Q431643,microcephaly
+Q945238,peripheral neuropathy
+Q29643060,functional motor deficit
+Q1266519,corneal neovascularization
+Q56565019,impaired daily living skills
+Q209583,tachycardia
+Q29019862,small hand
+Q10295815,Hypofibrinogenemia
+Q1419356,hyporeflexia
+Q30150985,Decreased CSF/serum albumin ratio
+Q1362864,hepatomegaly
+Q2227392,sucking reflex
+Q192692,nightmare
+Q4340209,mental depression
+Q215127,sexual arousal
+Q3108583,anterior segment mesenchymal dysgenesis
+Q773370,phocomelia
+Q7502090,short stature
+Q57859955,cognitive dysfunction
+Q111693701,ambiguous genitalia
+Q16035842,hearing loss
+Q183560,intellectual disability
+Q41571,epilepsy
+Q896643,brachydactyly
+Q738538,tic
+Q1497481,failure to thrive
+Q595010,hypertrichosis
+Q16874615,supravalvular aortic stenosis
+Q4930124,blue nails
+Q133244,jaundice
+Q20706838,face of the giant panda sign
+Q152234,edema
+Q181754,heart failure
+Q1544416,lissencephaly
+Q183425,abdominal pain
+Q68639544,hyperlipoproteinemia
+Q1145668,hemolytic anemia
+Q19357654,indecision
+Q682208,polyneuritis
+Q186889,nausea
+Q5467536,Forced normalization
+Q1895873,disorientation
+Q189643,delusion
+Q11072,amnesia
+Q58184039,perplexity
+Q989365,memory loss
+Q734611,anti-social behaviour
+Q29299,irritability
+Q124490,violence
+Q28813,fraud
+Q1549918,impulsivity
+Q127076,vomiting
+Q10686316,vertigo
+Q83177,depersonalization
+Q1199997,derealization
+Q609066,avolition
+Q671776,muteness
+Q48143,meningitis
+Q7799616,thymic hypoplasia
+Q107231,paralysis
+Q751641,hypersomnia
+Q666985,sincerity
+Q15780353,stimming
+Q67135649,autistic special interest
+Q937353,echolalia
+Q72423832,autistic meltdown
+Q1097541,toe walking
+Q3540887,sensory processing disorder
+Q4353073,social communication disorder
+Q12133,deafness
+Q189561,narcolepsy
+Q622527,self-injury
+Q3592817,avoidance coping
+Q2303219,binge eating
+Q267907,hypersexuality
+Q1869874,insomnia
+Q7933601,mood swing
+Q9690,fatigue
+Q394129,psychomotor agitation
+Q185935,mania
+Q545365,anhedonia
+Q188611,hypomania
+Q290620,dysphoria
+Q1339094,regulation of emotion
+Q79871,anger
+Q684868,dental attrition
+Q4419847,Pavlov's symptom
+Q460263,waxy flexibility
+Q4419854,psychological pillow
+Q1642611,negativism
+Q57769952,catatonic excitement
+Q918193,catalepsy
+Q3919140,cenesthopathy
+Q154430,anxiety
+Q1640582,fight-or-flight response
+Q1938569,flashback
+Q2723947,somatization
+Q194101,dwarfism
+Q545403,hh blood group
+Q166231,infection
+Q31110,obscenity
+Q3030775,distraction
+Q3072083,memory disorder
+Q1188698,thought disorder
+Q177190,sleep disorder
+Q170082,psychosis
+Q28455110,emotional lability
+Q397554,agrypnia excitata
+Q105434,hypochondriasis
+Q199602,itch
+Q939378,abrasion
+Q1997867,hypothymia
+Q17077617,reading disorder and écrites disorder
+Q255241,anxious
+Q41861,arterial hypertension
+Q38933,fever
+Q696490,panic attack
+Q175854,phobia
+Q845224,generalized anxiety disorder
+Q332154,ageing
+Q1529977,muscle rigidity
+Q857667,pulmonary edema
+Q16873382,wooden chest
+Q21504931,gastric hypomotility
+Q105688,hypoxia
+Q596899,miosis
+Q217111,bradycardia
+Q178061,shock
+Q738153,ileus
+Q574360,spasm
+Q11820606,eye irritation
+Q5062120,central nervous system depression
+Q1641494,hypoventilation
+Q275419,hypotension
+Q185089,acidosis
+Q18558125,intracranial hypertension
+Q3774744,respiratory arrest
+Q159557,coma
+Q1150070,change
+Q1815366,behavioral disorder
+Q567576,anomic aphasia
+Q18767,primary progressive aphasia
+Q10469820,language disorder
+Q16342771,motor disorder
+Q11460,clothing
+Q720026,brain damage
+Q4420149,withdrawal symptom
+Q320011,coprophagia
+Q1759560,microtia
+Q1641128,hypertelorism
+Q222634,cleft lip and cleft palate
+Q86,headache
+Q683498,arthralgia
+Q10916362,dizziness
+Q223907,tremor
+Q775940,diplopia
+Q42844,major depressive disorder
+Q12174,obesity
+Q270421,muscle weakness
+Q308978,pressure ulcer
+Q1276947,exaltation
+Q767485,respiratory failure
+Q189331,heart arrhythmia
+Q127724,cataract
+Q3749492,sterility
+Q1557686,muscle atrophy
+Q847583,cardiomyopathy
+Q415844,acanthocyte
+Q827017,gait abnormality
+Q281490,urinary incontinence
+Q4736316,altered level of consciousness
+Q1671614,intrusive thought
+Q6048309,obsession
+Q266332,compulsive behavior
+Q1123260,palpitation
+Q69901129,Paranoid Behavior
+Q3043347,paranoid delusion
+Q15637420,lethargy
+Q445036,periodic limb movement
+Q1260186,hepatosplenomegaly
+Q213449,eating
+Q58490799,chronic postsurgical or post traumatic pain
+Q824292,hyponatremia
+Q3311991,microarousal
+Q3557657,social anxiety
+Q29643762,cerebellar atrophy
+Q154709,cerebellar ataxia
+Q3054130,low frustration tolerance
+Q1198115,stereotypy
+Q101991,inflammation
+Q1638131,hyperesthesia
+Q769220,paresthesia
+Q184674,erectile dysfunction
+Q466475,trance
