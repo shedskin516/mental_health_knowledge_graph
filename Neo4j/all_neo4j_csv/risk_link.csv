@@ -1,0 +1,14 @@
+risk_id,risk_factors,disease_wiki_id
+0,smoking,Q1331905
+0,smoking,Q191779
+0,smoking,Q5173263
+11,substance abuse,Q3505252
+11,substance abuse,Q42844
+12,family history,Q42844
+13,chronic condition,Q42844
+0,smoking,Q4340209
+0,smoking,Q19000444
+14,chronic pain,Q17154378
+15,opioid use disorder,Q17154378
+16,mental distress,Q17154378
+0,smoking,Q1077139

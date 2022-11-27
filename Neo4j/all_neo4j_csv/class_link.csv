@@ -1,0 +1,193 @@
+class_id,drug_classes,drug_id
+57,CNS stimulants,https://www.drugs.com/amphetamine.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/asenapine-sublingual.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/amisulpride.html
+64,Miscellaneous antiemetics,https://www.drugs.com/mtm/amisulpride.html
+22,Skeletal muscle relaxants,https://www.drugs.com/baclofen.html
+33,Selective serotonin reuptake inhibitors,https://www.drugs.com/citalopram.html
+20,Anorexiants,https://www.drugs.com/mtm/fenfluramine.html
+57,CNS stimulants,https://www.drugs.com/mtm/fenfluramine.html
+62,Miscellaneous anticonvulsants,https://www.drugs.com/mtm/fenfluramine.html
+9,sedatives and hypnotics,https://www.drugs.com/hydroxyzine.html
+12,Antihistamines,https://www.drugs.com/hydroxyzine.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/hydroxyzine.html
+31,Opioids (narcotic analgesics),https://www.drugs.com/methadone.html
+11,Serotonin-norepinephrine reuptake inhibitors,https://www.drugs.com/duloxetine.html
+23,Thioxanthenes,https://www.drugs.com/mtm/thiothixene.html
+36,Miscellaneous antipsychotic agents,https://www.drugs.com/mtm/molindone.html
+4,Miscellaneous antidepressants,https://www.drugs.com/bupropion.html
+55,Smoking cessation agents,https://www.drugs.com/bupropion.html
+20,Anorexiants,https://www.drugs.com/methamphetamine.html
+57,CNS stimulants,https://www.drugs.com/methamphetamine.html
+5,Antirheumatics,https://www.drugs.com/mtm/penicillamine.html
+7,Lysosomal enzymes,https://www.drugs.com/mtm/idursulfase.html
+30,Anticholinergics / antispasmodics,https://www.drugs.com/mtm/scopolamine.html
+38,Anticholinergic antiemetics,https://www.drugs.com/mtm/scopolamine.html
+33,Selective serotonin reuptake inhibitors,https://www.drugs.com/zoloft.html
+66,Benzodiazepines,https://www.drugs.com/alprazolam.html
+10,Impotence agents,https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html
+21,Vasodilators,https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html
+44,Tricyclic antidepressants,https://www.drugs.com/amitriptyline.html
+3,Barbiturates,https://www.drugs.com/cdi/amobarbital.html
+44,Tricyclic antidepressants,https://www.drugs.com/mtm/amoxapine.html
+0,Atypical antipsychotics,https://www.drugs.com/aripiprazole.html
+57,CNS stimulants,https://www.drugs.com/mtm/armodafinil.html
+45,Adrenergic uptake inhibitors for ADHD,https://www.drugs.com/mtm/atomoxetine.html
+6,Miscellaneous antineoplastics,https://www.drugs.com/mtm/bexarotene.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/brexpiprazole.html
+31,Opioids (narcotic analgesics),https://www.drugs.com/buprenorphine.html
+9,sedatives and hypnotics,https://www.drugs.com/buspirone.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/buspirone.html
+3,Barbiturates,https://www.drugs.com/mtm/butabarbital.html
+37,Dibenzazepine anticonvulsants,https://www.drugs.com/carbamazepine.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/cariprazine.html
+66,Benzodiazepines,https://www.drugs.com/mtm/chlordiazepoxide.html
+54,Phenothiazine antiemetics,https://www.drugs.com/mtm/chlorpromazine.html
+61,Phenothiazine antipsychotics,https://www.drugs.com/mtm/chlorpromazine.html
+44,Tricyclic antidepressants,https://www.drugs.com/mtm/clomipramine.html
+19,Benzodiazepine anticonvulsants,https://www.drugs.com/clonazepam.html
+66,Benzodiazepines,https://www.drugs.com/clonazepam.html
+15,centrally acting,https://www.drugs.com/clonidine.html
+58,Antiadrenergic agents,https://www.drugs.com/clonidine.html
+0,Atypical antipsychotics,https://www.drugs.com/clozapine.html
+46,Vitamins,https://www.drugs.com/mtm/cyanocobalamin.html
+44,Tricyclic antidepressants,https://www.drugs.com/mtm/desipramine.html
+24,Antidiuretic hormones,https://www.drugs.com/mtm/desmopressin.html
+11,Serotonin-norepinephrine reuptake inhibitors,https://www.drugs.com/mtm/desvenlafaxine.html
+57,CNS stimulants,https://www.drugs.com/mtm/dexmethylphenidate.html
+35,Antidotes,https://www.drugs.com/naloxone.html
+57,CNS stimulants,https://www.drugs.com/mtm/dextroamphetamine.html
+19,Benzodiazepine anticonvulsants,https://www.drugs.com/diazepam.html
+66,Benzodiazepines,https://www.drugs.com/diazepam.html
+1,Anticholinergic antiparkinson agents,https://www.drugs.com/diphenhydramine.html
+9,sedatives and hypnotics,https://www.drugs.com/diphenhydramine.html
+12,Antihistamines,https://www.drugs.com/diphenhydramine.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/diphenhydramine.html
+38,Anticholinergic antiemetics,https://www.drugs.com/diphenhydramine.html
+16,Drugs used in alcohol dependence,https://www.drugs.com/disulfiram.html
+40,Cholinesterase inhibitors,https://www.drugs.com/mtm/donepezil.html
+57,CNS stimulants,https://www.drugs.com/pro/doxapram.html
+9,sedatives and hypnotics,https://www.drugs.com/mtm/doxylamine.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/mtm/doxylamine.html
+32,Miscellaneous central nervous system agents,https://www.drugs.com/mtm/droperidol.html
+33,Selective serotonin reuptake inhibitors,https://www.drugs.com/escitalopram.html
+66,Benzodiazepines,https://www.drugs.com/mtm/estazolam.html
+33,Selective serotonin reuptake inhibitors,https://www.drugs.com/fluoxetine.html
+61,Phenothiazine antipsychotics,https://www.drugs.com/mtm/fluphenazine.html
+66,Benzodiazepines,https://www.drugs.com/mtm/flurazepam.html
+33,Selective serotonin reuptake inhibitors,https://www.drugs.com/mtm/fluvoxamine.html
+47,Gamma-aminobutyric acid analogs,https://www.drugs.com/gabapentin.html
+40,Cholinesterase inhibitors,https://www.drugs.com/mtm/galantamine.html
+13,Herbal products,https://www.drugs.com/mtm/ginseng.html
+66,Benzodiazepines,https://www.drugs.com/mtm/halazepam.html
+36,Miscellaneous antipsychotic agents,https://www.drugs.com/mtm/haloperidol.html
+43,Nonsteroidal anti-inflammatory drugs,https://www.drugs.com/ibuprofen.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/iloperidone.html
+44,Tricyclic antidepressants,https://www.drugs.com/mtm/imipramine.html
+63,Monoamine oxidase inhibitors,https://www.drugs.com/mtm/isocarboxazid.html
+28,General anesthetics,https://www.drugs.com/cdi/isoflurane.html
+28,General anesthetics,https://www.drugs.com/mtm/ketamine.html
+56,Triazine anticonvulsants,https://www.drugs.com/mtm/lamotrigine.html
+11,Serotonin-norepinephrine reuptake inhibitors,https://www.drugs.com/mtm/levomilnacipran.html
+52,Antimanic agents,https://www.drugs.com/lithium.html
+50,Antidiarrheals,https://www.drugs.com/loperamide.html
+19,Benzodiazepine anticonvulsants,https://www.drugs.com/lorazepam.html
+64,Miscellaneous antiemetics,https://www.drugs.com/lorazepam.html
+66,Benzodiazepines,https://www.drugs.com/lorazepam.html
+36,Miscellaneous antipsychotic agents,https://www.drugs.com/mtm/loxapine.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/lurasidone.html
+59,Tetracyclic antidepressants,https://www.drugs.com/mtm/maprotiline.html
+42,peripherally acting,https://www.drugs.com/mtm/mecamylamine.html
+58,Antiadrenergic agents,https://www.drugs.com/mtm/mecamylamine.html
+9,sedatives and hypnotics,https://www.drugs.com/melatonin.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/melatonin.html
+25,Nutraceutical products,https://www.drugs.com/melatonin.html
+32,Miscellaneous central nervous system agents,https://www.drugs.com/mtm/memantine.html
+9,sedatives and hypnotics,https://www.drugs.com/mtm/meprobamate.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/mtm/meprobamate.html
+9,sedatives and hypnotics,https://www.drugs.com/mtm/eszopiclone.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/mtm/eszopiclone.html
+57,CNS stimulants,https://www.drugs.com/methylphenidate.html
+48,Androgens and anabolic steroids,https://www.drugs.com/mtm/methyltestosterone.html
+66,Benzodiazepines,https://www.drugs.com/mtm/midazolam.html
+59,Tetracyclic antidepressants,https://www.drugs.com/mirtazapine.html
+35,Antidotes,https://www.drugs.com/mtm/nalmefene.html
+16,Drugs used in alcohol dependence,https://www.drugs.com/naltrexone.html
+35,Antidotes,https://www.drugs.com/naltrexone.html
+55,Smoking cessation agents,https://www.drugs.com/nicotine.html
+15,centrally acting,https://www.drugs.com/mtm/guanfacine.html
+58,Antiadrenergic agents,https://www.drugs.com/mtm/guanfacine.html
+44,Tricyclic antidepressants,https://www.drugs.com/nortriptyline.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/olanzapine.html
+46,Vitamins,https://www.drugs.com/mtm/hydroxocobalamin-injection.html
+41,5HT3 receptor antagonists,https://www.drugs.com/ondansetron.html
+26,Selective estrogen receptor modulators,https://www.drugs.com/mtm/ospemifene.html
+66,Benzodiazepines,https://www.drugs.com/mtm/oxazepam.html
+37,Dibenzazepine anticonvulsants,https://www.drugs.com/mtm/oxcarbazepine.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/paliperidone.html
+34,Peripheral vasodilators,https://www.drugs.com/mtm/papaverine.html
+33,Selective serotonin reuptake inhibitors,https://www.drugs.com/paroxetine.html
+57,CNS stimulants,https://www.drugs.com/mtm/pemoline.html
+49,Miscellaneous coagulation modifiers,https://www.drugs.com/mtm/pentoxifylline.html
+39,Dopaminergic antiparkinsonism agents,https://www.drugs.com/cdi/pergolide.html
+54,Phenothiazine antiemetics,https://www.drugs.com/mtm/perphenazine.html
+61,Phenothiazine antipsychotics,https://www.drugs.com/mtm/perphenazine.html
+63,Monoamine oxidase inhibitors,https://www.drugs.com/mtm/phenelzine.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/pimavanserin.html
+36,Miscellaneous antipsychotic agents,https://www.drugs.com/mtm/pimozide.html
+60,Phenylpiperazine antidepressants,https://www.drugs.com/trazodone.html
+39,Dopaminergic antiparkinsonism agents,https://www.drugs.com/mtm/pramipexole.html
+42,peripherally acting,https://www.drugs.com/mtm/prazosin.html
+58,Antiadrenergic agents,https://www.drugs.com/mtm/prazosin.html
+47,Gamma-aminobutyric acid analogs,https://www.drugs.com/pregabalin.html
+65,Antigout agents,https://www.drugs.com/mtm/probenecid.html
+54,Phenothiazine antiemetics,https://www.drugs.com/cdi/promazine.html
+61,Phenothiazine antipsychotics,https://www.drugs.com/cdi/promazine.html
+28,General anesthetics,https://www.drugs.com/propofol.html
+57,CNS stimulants,https://www.drugs.com/mtm/modafinil.html
+2,Group II antiarrhythmics,https://www.drugs.com/propranolol.html
+17,Non-cardioselective beta blockers,https://www.drugs.com/propranolol.html
+44,Tricyclic antidepressants,https://www.drugs.com/mtm/protriptyline.html
+60,Phenylpiperazine antidepressants,https://www.drugs.com/mtm/nefazodone.html
+66,Benzodiazepines,https://www.drugs.com/mtm/quazepam.html
+0,Atypical antipsychotics,https://www.drugs.com/quetiapine.html
+9,sedatives and hypnotics,https://www.drugs.com/mtm/ramelteon.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/mtm/ramelteon.html
+42,peripherally acting,https://www.drugs.com/mtm/reserpine.html
+58,Antiadrenergic agents,https://www.drugs.com/mtm/reserpine.html
+0,Atypical antipsychotics,https://www.drugs.com/risperidone.html
+40,Cholinesterase inhibitors,https://www.drugs.com/mtm/rivastigmine.html
+3,Barbiturates,https://www.drugs.com/mtm/secobarbital.html
+33,Selective serotonin reuptake inhibitors,https://www.drugs.com/sertraline.html
+10,Impotence agents,https://www.drugs.com/sildenafil.html
+51,Agents for pulmonary hypertension,https://www.drugs.com/sildenafil.html
+40,Cholinesterase inhibitors,https://www.drugs.com/mtm/tacrine.html
+10,Impotence agents,https://www.drugs.com/tadalafil.html
+51,Agents for pulmonary hypertension,https://www.drugs.com/tadalafil.html
+66,Benzodiazepines,https://www.drugs.com/temazepam.html
+18,VMAT2 inhibitors,https://www.drugs.com/mtm/tetrabenazine.html
+46,Vitamins,https://www.drugs.com/mtm/thiamine.html
+61,Phenothiazine antipsychotics,https://www.drugs.com/mtm/thioridazine.html
+53,Gamma-aminobutyric acid reuptake inhibitors,https://www.drugs.com/mtm/tiagabine.html
+27,Carbonic anhydrase inhibitor anticonvulsants,https://www.drugs.com/mtm/topiramate.html
+3,Barbiturates,https://www.drugs.com/mtm/phenobarbital.html
+8,Barbiturate anticonvulsants,https://www.drugs.com/mtm/phenobarbital.html
+66,Benzodiazepines,https://www.drugs.com/mtm/triazolam.html
+61,Phenothiazine antipsychotics,https://www.drugs.com/mtm/trifluoperazine.html
+44,Tricyclic antidepressants,https://www.drugs.com/mtm/trimipramine.html
+29,Fatty acid derivative anticonvulsants,https://www.drugs.com/mtm/valproic-acid.html
+54,Phenothiazine antiemetics,https://www.drugs.com/mtm/prochlorperazine-oral-injection.html
+61,Phenothiazine antipsychotics,https://www.drugs.com/mtm/prochlorperazine-oral-injection.html
+11,Serotonin-norepinephrine reuptake inhibitors,https://www.drugs.com/venlafaxine.html
+4,Miscellaneous antidepressants,https://www.drugs.com/mtm/vilazodone.html
+4,Miscellaneous antidepressants,https://www.drugs.com/mtm/vortioxetine.html
+10,Impotence agents,https://www.drugs.com/mtm/yohimbine.html
+9,sedatives and hypnotics,https://www.drugs.com/mtm/zaleplon.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/mtm/zaleplon.html
+0,Atypical antipsychotics,https://www.drugs.com/mtm/ziprasidone.html
+9,sedatives and hypnotics,https://www.drugs.com/zolpidem.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/zolpidem.html
+9,sedatives and hypnotics,https://www.drugs.com/belsomra.html
+14,Miscellaneous anxiolytics,https://www.drugs.com/belsomra.html
+10,Impotence agents,https://www.drugs.com/mtm/vardenafil.html
+63,Monoamine oxidase inhibitors,https://www.drugs.com/mtm/tranylcypromine.html

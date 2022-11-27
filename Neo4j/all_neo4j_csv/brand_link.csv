@@ -1,0 +1,385 @@
+brand_id,brands,drug_id
+6,Evekeo ODT,https://www.drugs.com/amphetamine.html
+54,Adzenys XR-ODT,https://www.drugs.com/amphetamine.html
+88,Dyanavel XR,https://www.drugs.com/amphetamine.html
+154,Amphetamine Sulfate,https://www.drugs.com/amphetamine.html
+188,Evekeo,https://www.drugs.com/amphetamine.html
+335,Adzenys ER,https://www.drugs.com/amphetamine.html
+41,Imovane,https://www.drugs.com/zopiclone.html
+59,Zolium,https://www.drugs.com/zopiclone.html
+73,Ziclone,https://www.drugs.com/zopiclone.html
+116,Lyzop,https://www.drugs.com/zopiclone.html
+139,Zopicon,https://www.drugs.com/zopiclone.html
+162,Zopitran,https://www.drugs.com/zopiclone.html
+273,Imoclone,https://www.drugs.com/zopiclone.html
+278,Zimovane LS,https://www.drugs.com/zopiclone.html
+293,Zolinox,https://www.drugs.com/zopiclone.html
+310,Imrest,https://www.drugs.com/zopiclone.html
+354,Zimovane,https://www.drugs.com/zopiclone.html
+339,Saphris,https://www.drugs.com/mtm/asenapine-sublingual.html
+80,Barhemsys,https://www.drugs.com/mtm/amisulpride.html
+44,FIRST Baclofen,https://www.drugs.com/baclofen.html
+84,Gablofen,https://www.drugs.com/baclofen.html
+135,Ozobax,https://www.drugs.com/baclofen.html
+217,Lioresal Intrathecal,https://www.drugs.com/baclofen.html
+311,Lioresal,https://www.drugs.com/baclofen.html
+372,Celexa,https://www.drugs.com/citalopram.html
+155,Fintepla,https://www.drugs.com/mtm/fenfluramine.html
+198,Pondimin,https://www.drugs.com/mtm/fenfluramine.html
+71,Vistaril,https://www.drugs.com/hydroxyzine.html
+96,Vistaril IM,https://www.drugs.com/hydroxyzine.html
+153,Vistaject-50,https://www.drugs.com/hydroxyzine.html
+159,Rezine,https://www.drugs.com/hydroxyzine.html
+169,Hyzine,https://www.drugs.com/hydroxyzine.html
+187,Atarax,https://www.drugs.com/hydroxyzine.html
+264,ANX,https://www.drugs.com/hydroxyzine.html
+68,Dolophine,https://www.drugs.com/methadone.html
+252,Methadose Sugar-Free,https://www.drugs.com/methadone.html
+267,Diskets,https://www.drugs.com/methadone.html
+299,Methadose,https://www.drugs.com/methadone.html
+221,Drizalma Sprinkle,https://www.drugs.com/duloxetine.html
+229,Cymbalta,https://www.drugs.com/duloxetine.html
+357,Irenka,https://www.drugs.com/duloxetine.html
+340,Navane,https://www.drugs.com/mtm/thiothixene.html
+18,Moban,https://www.drugs.com/mtm/molindone.html
+172,Zyban,https://www.drugs.com/bupropion.html
+210,Budeprion XL,https://www.drugs.com/bupropion.html
+220,Wellbutrin SR,https://www.drugs.com/bupropion.html
+266,Forfivo XL,https://www.drugs.com/bupropion.html
+295,Aplenzin,https://www.drugs.com/bupropion.html
+321,Wellbutrin XL,https://www.drugs.com/bupropion.html
+38,Desoxyn Gradumet,https://www.drugs.com/methamphetamine.html
+163,Desoxyn,https://www.drugs.com/methamphetamine.html
+269,Cuprimine,https://www.drugs.com/mtm/penicillamine.html
+332,D-Penamine,https://www.drugs.com/mtm/penicillamine.html
+378,Depen,https://www.drugs.com/mtm/penicillamine.html
+260,Elaprase,https://www.drugs.com/mtm/idursulfase.html
+51,Maldemar,https://www.drugs.com/mtm/scopolamine.html
+9,Xanax XR,https://www.drugs.com/alprazolam.html
+287,Niravam,https://www.drugs.com/alprazolam.html
+294,Xanax,https://www.drugs.com/alprazolam.html
+25,Caverject Impulse,https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html
+94,Edex,https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html
+100,Muse,https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html
+130,Prostin VR Pediatric,https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html
+167,Edex Refill,https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html
+230,Caverject,https://www.drugs.com/mtm/alprostadil-injectable-and-transurethral.html
+29,Endep,https://www.drugs.com/amitriptyline.html
+218,Vanatrip,https://www.drugs.com/amitriptyline.html
+334,Elavil,https://www.drugs.com/amitriptyline.html
+291,Amytal Sodium,https://www.drugs.com/cdi/amobarbital.html
+268,Asendin,https://www.drugs.com/mtm/amoxapine.html
+22,Abilify,https://www.drugs.com/aripiprazole.html
+134,Nuvigil,https://www.drugs.com/mtm/armodafinil.html
+65,Strattera,https://www.drugs.com/mtm/atomoxetine.html
+145,Targretin,https://www.drugs.com/mtm/bexarotene.html
+72,Rexulti,https://www.drugs.com/mtm/brexpiprazole.html
+138,Subutex,https://www.drugs.com/buprenorphine.html
+89,BuSpar Dividose,https://www.drugs.com/buspirone.html
+185,BuSpar,https://www.drugs.com/buspirone.html
+286,Vanspar,https://www.drugs.com/buspirone.html
+10,Butisol Sodium,https://www.drugs.com/mtm/butabarbital.html
+309,Busodium,https://www.drugs.com/mtm/butabarbital.html
+30,Tegretol XR,https://www.drugs.com/carbamazepine.html
+128,Equetro,https://www.drugs.com/carbamazepine.html
+156,Carbatrol,https://www.drugs.com/carbamazepine.html
+176,Tegretol,https://www.drugs.com/carbamazepine.html
+377,Epitol,https://www.drugs.com/carbamazepine.html
+257,Vraylar,https://www.drugs.com/mtm/cariprazine.html
+117,Libritabs,https://www.drugs.com/mtm/chlordiazepoxide.html
+186,Poxi,https://www.drugs.com/mtm/chlordiazepoxide.html
+255,Librium,https://www.drugs.com/mtm/chlordiazepoxide.html
+313,Mitran,https://www.drugs.com/mtm/chlordiazepoxide.html
+234,Thorazine,https://www.drugs.com/mtm/chlorpromazine.html
+298,Thorazine Spansule,https://www.drugs.com/mtm/chlorpromazine.html
+305,Ormazine,https://www.drugs.com/mtm/chlorpromazine.html
+26,Anafranil,https://www.drugs.com/mtm/clomipramine.html
+150,KlonoPIN,https://www.drugs.com/clonazepam.html
+192,KlonoPIN Wafer,https://www.drugs.com/clonazepam.html
+69,Kapvay,https://www.drugs.com/clonidine.html
+83,Catapres,https://www.drugs.com/clonidine.html
+67,Clopine,https://www.drugs.com/clozapine.html
+110,Denzapine,https://www.drugs.com/clozapine.html
+144,Clozaril,https://www.drugs.com/clozapine.html
+149,Versacloz,https://www.drugs.com/clozapine.html
+179,FazaClo,https://www.drugs.com/clozapine.html
+183,Zaponex,https://www.drugs.com/clozapine.html
+289,CloZAPine Synthon,https://www.drugs.com/clozapine.html
+53,Vitamin B1,https://www.drugs.com/mtm/cyanocobalamin.html
+180,B-12,https://www.drugs.com/mtm/cyanocobalamin.html
+317,Vitamin B12,https://www.drugs.com/mtm/cyanocobalamin.html
+360,Eligen B12,https://www.drugs.com/mtm/cyanocobalamin.html
+48,Norpramin,https://www.drugs.com/mtm/desipramine.html
+2,Nocdurna,https://www.drugs.com/mtm/desmopressin.html
+77,DDAVP,https://www.drugs.com/mtm/desmopressin.html
+28,Khedezla,https://www.drugs.com/mtm/desvenlafaxine.html
+146,Pristiq,https://www.drugs.com/mtm/desvenlafaxine.html
+35,Focalin,https://www.drugs.com/mtm/dexmethylphenidate.html
+327,Focalin XR,https://www.drugs.com/mtm/dexmethylphenidate.html
+17,Dexedrine,https://www.drugs.com/mtm/dextroamphetamine.html
+166,Dextrostat,https://www.drugs.com/mtm/dextroamphetamine.html
+177,Zenzedi,https://www.drugs.com/mtm/dextroamphetamine.html
+274,ProCentra,https://www.drugs.com/mtm/dextroamphetamine.html
+349,Liquadd,https://www.drugs.com/mtm/dextroamphetamine.html
+379,Dexedrine Spansule,https://www.drugs.com/mtm/dextroamphetamine.html
+331,Valium,https://www.drugs.com/diazepam.html
+43,Simply Sleep,https://www.drugs.com/diphenhydramine.html
+49,QlearQuil Nightitme Allergy Relief,https://www.drugs.com/diphenhydramine.html
+57,Valu-Dryl,https://www.drugs.com/diphenhydramine.html
+78,Compoz Nighttime Sleep Aid,https://www.drugs.com/diphenhydramine.html
+81,Benadryl,https://www.drugs.com/diphenhydramine.html
+103,Silphen Cough,https://www.drugs.com/diphenhydramine.html
+136,PediaCare Children's Allergy,https://www.drugs.com/diphenhydramine.html
+158,Diphenhist,https://www.drugs.com/diphenhydramine.html
+178,Dytuss,https://www.drugs.com/diphenhydramine.html
+182,Scot-Tussin Allergy Relief Formula,https://www.drugs.com/diphenhydramine.html
+191,Z-Sleep,https://www.drugs.com/diphenhydramine.html
+195,Tranquil,https://www.drugs.com/diphenhydramine.html
+197,Unisom Sleepgels Maximum Strength,https://www.drugs.com/diphenhydramine.html
+199,Allermax,https://www.drugs.com/diphenhydramine.html
+201,Twilite,https://www.drugs.com/diphenhydramine.html
+207,Quenalin,https://www.drugs.com/diphenhydramine.html
+215,Sominex,https://www.drugs.com/diphenhydramine.html
+223,Allergy Relief,https://www.drugs.com/diphenhydramine.html
+240,Banophen,https://www.drugs.com/diphenhydramine.html
+244,Q-Dryl,https://www.drugs.com/diphenhydramine.html
+256,Diphedryl,https://www.drugs.com/diphenhydramine.html
+282,Unisom,https://www.drugs.com/diphenhydramine.html
+283,ZzzQuil,https://www.drugs.com/diphenhydramine.html
+316,Sleepinal,https://www.drugs.com/diphenhydramine.html
+341,Nytol QuickCaps,https://www.drugs.com/diphenhydramine.html
+346,Siladryl Allergy,https://www.drugs.com/diphenhydramine.html
+366,Vanamine PD,https://www.drugs.com/diphenhydramine.html
+290,Antabuse,https://www.drugs.com/disulfiram.html
+151,Aricept,https://www.drugs.com/mtm/donepezil.html
+189,Adlarity,https://www.drugs.com/mtm/donepezil.html
+284,Aricept ODT,https://www.drugs.com/mtm/donepezil.html
+8,Nytol Maximum Strength,https://www.drugs.com/mtm/doxylamine.html
+270,Aldex AN,https://www.drugs.com/mtm/doxylamine.html
+282,Unisom,https://www.drugs.com/mtm/doxylamine.html
+318,Inapsine,https://www.drugs.com/mtm/droperidol.html
+20,Lexapro,https://www.drugs.com/escitalopram.html
+374,Prosom,https://www.drugs.com/mtm/estazolam.html
+91,Sarafem,https://www.drugs.com/fluoxetine.html
+124,Rapiflux,https://www.drugs.com/fluoxetine.html
+203,Prozac,https://www.drugs.com/fluoxetine.html
+271,Selfemra,https://www.drugs.com/fluoxetine.html
+55,Prolixin Enanthate,https://www.drugs.com/mtm/fluphenazine.html
+82,Prolixin,https://www.drugs.com/mtm/fluphenazine.html
+281,Prolixin Decanoate,https://www.drugs.com/mtm/fluphenazine.html
+342,Permitil,https://www.drugs.com/mtm/fluphenazine.html
+79,Dalmane,https://www.drugs.com/mtm/flurazepam.html
+261,Luvox CR,https://www.drugs.com/mtm/fluvoxamine.html
+358,Luvox,https://www.drugs.com/mtm/fluvoxamine.html
+102,Gabarone,https://www.drugs.com/gabapentin.html
+133,Horizant,https://www.drugs.com/gabapentin.html
+181,Neurontin,https://www.drugs.com/gabapentin.html
+326,Gralise,https://www.drugs.com/gabapentin.html
+86,Razadyne,https://www.drugs.com/mtm/galantamine.html
+184,Reminyl,https://www.drugs.com/mtm/galantamine.html
+307,Razadyne ER,https://www.drugs.com/mtm/galantamine.html
+249,Paxipam,https://www.drugs.com/mtm/halazepam.html
+211,Haldol,https://www.drugs.com/mtm/haloperidol.html
+52,IBU,https://www.drugs.com/ibuprofen.html
+118,Proprinal,https://www.drugs.com/ibuprofen.html
+263,Smart Sense Children's Ibuprofen,https://www.drugs.com/ibuprofen.html
+312,Advil,https://www.drugs.com/ibuprofen.html
+350,Genpril,https://www.drugs.com/ibuprofen.html
+369,Midol IB,https://www.drugs.com/ibuprofen.html
+380,Motrin IB,https://www.drugs.com/ibuprofen.html
+107,Fanapt,https://www.drugs.com/mtm/iloperidone.html
+99,Tofranil,https://www.drugs.com/mtm/imipramine.html
+208,Tofranil-PM,https://www.drugs.com/mtm/imipramine.html
+0,Marplan,https://www.drugs.com/mtm/isocarboxazid.html
+19,Forane,https://www.drugs.com/cdi/isoflurane.html
+131,Terrell,https://www.drugs.com/cdi/isoflurane.html
+12,Ketalar,https://www.drugs.com/mtm/ketamine.html
+14,LaMICtal XR Patient Titration Kit (Green),https://www.drugs.com/mtm/lamotrigine.html
+31,Subvenite Starter Kit (Orange),https://www.drugs.com/mtm/lamotrigine.html
+32,LaMICtal CD,https://www.drugs.com/mtm/lamotrigine.html
+46,LaMICtal XR,https://www.drugs.com/mtm/lamotrigine.html
+75,LaMICtal,https://www.drugs.com/mtm/lamotrigine.html
+111,Subvenite Starter Kit (Green),https://www.drugs.com/mtm/lamotrigine.html
+115,LamoTRIgine Starter Kit (Blue),https://www.drugs.com/mtm/lamotrigine.html
+174,LaMICtal ODT Patient Titration Kit (Orange),https://www.drugs.com/mtm/lamotrigine.html
+216,LamoTRIgine Starter Kit (Orange),https://www.drugs.com/mtm/lamotrigine.html
+224,LaMICtal XR Patient Titration Kit (Orange),https://www.drugs.com/mtm/lamotrigine.html
+231,LaMICtal ODT Patient Titration Kit (Blue),https://www.drugs.com/mtm/lamotrigine.html
+232,Subvenite Starter Kit (Blue),https://www.drugs.com/mtm/lamotrigine.html
+237,LaMICtal ODT,https://www.drugs.com/mtm/lamotrigine.html
+253,LaMICtal Starter Kit (Orange),https://www.drugs.com/mtm/lamotrigine.html
+262,LaMICtal ODT Patient Titration Kit (Green),https://www.drugs.com/mtm/lamotrigine.html
+279,LaMICtal XR Patient Titration Kit (Blue),https://www.drugs.com/mtm/lamotrigine.html
+288,LaMICtal Starter Kit (Blue),https://www.drugs.com/mtm/lamotrigine.html
+292,LamoTRIgine Starter Kit (Green),https://www.drugs.com/mtm/lamotrigine.html
+300,Subvenite,https://www.drugs.com/mtm/lamotrigine.html
+347,LaMICtal Starter Kit (Green),https://www.drugs.com/mtm/lamotrigine.html
+304,Fetzima,https://www.drugs.com/mtm/levomilnacipran.html
+15,Lithonate,https://www.drugs.com/lithium.html
+40,Lithobid,https://www.drugs.com/lithium.html
+42,Eskalith-CR,https://www.drugs.com/lithium.html
+122,Lithotabs,https://www.drugs.com/lithium.html
+161,Eskalith,https://www.drugs.com/lithium.html
+119,Diamode,https://www.drugs.com/loperamide.html
+137,Imotil,https://www.drugs.com/loperamide.html
+202,and others,https://www.drugs.com/loperamide.html
+233,Maalox Anti-Diarrheal,https://www.drugs.com/loperamide.html
+362,Pepto Diarrhea Control,https://www.drugs.com/loperamide.html
+370,Imodium (various products),https://www.drugs.com/loperamide.html
+112,Lorazepam Intensol,https://www.drugs.com/lorazepam.html
+351,Loreev XR,https://www.drugs.com/lorazepam.html
+371,Ativan,https://www.drugs.com/lorazepam.html
+194,Loxitane,https://www.drugs.com/mtm/loxapine.html
+4,Latuda,https://www.drugs.com/mtm/lurasidone.html
+345,Ludiomil,https://www.drugs.com/mtm/maprotiline.html
+132,Inversine,https://www.drugs.com/mtm/mecamylamine.html
+209,Vecamyl,https://www.drugs.com/mtm/mecamylamine.html
+13,Namenda XR,https://www.drugs.com/mtm/memantine.html
+336,Namenda,https://www.drugs.com/mtm/memantine.html
+121,Equanil,https://www.drugs.com/mtm/meprobamate.html
+222,Miltown,https://www.drugs.com/mtm/meprobamate.html
+355,MB-TAB,https://www.drugs.com/mtm/meprobamate.html
+343,Lunesta,https://www.drugs.com/mtm/eszopiclone.html
+3,Ritalin,https://www.drugs.com/methylphenidate.html
+11,Jornay PM,https://www.drugs.com/methylphenidate.html
+37,Aptensio XR,https://www.drugs.com/methylphenidate.html
+45,Cotempla XR-ODT,https://www.drugs.com/methylphenidate.html
+61,Methylin,https://www.drugs.com/methylphenidate.html
+105,Concerta,https://www.drugs.com/methylphenidate.html
+109,Quillivant XR,https://www.drugs.com/methylphenidate.html
+204,QuilliChew ER,https://www.drugs.com/methylphenidate.html
+227,Relexxii,https://www.drugs.com/methylphenidate.html
+301,Ritalin LA,https://www.drugs.com/methylphenidate.html
+302,Metadate ER,https://www.drugs.com/methylphenidate.html
+381,Adhansia XR,https://www.drugs.com/methylphenidate.html
+23,Android-10,https://www.drugs.com/mtm/methyltestosterone.html
+36,Android,https://www.drugs.com/mtm/methyltestosterone.html
+56,Oreton Methyl,https://www.drugs.com/mtm/methyltestosterone.html
+92,Virilon,https://www.drugs.com/mtm/methyltestosterone.html
+190,Android-25,https://www.drugs.com/mtm/methyltestosterone.html
+205,Testred,https://www.drugs.com/mtm/methyltestosterone.html
+250,Methitest,https://www.drugs.com/mtm/methyltestosterone.html
+243,Versed,https://www.drugs.com/mtm/midazolam.html
+27,Remeron SolTab,https://www.drugs.com/mirtazapine.html
+114,Remeron,https://www.drugs.com/mirtazapine.html
+365,Revex,https://www.drugs.com/mtm/nalmefene.html
+127,Vivitrol,https://www.drugs.com/naltrexone.html
+239,Nicorelief,https://www.drugs.com/nicotine.html
+314,Leader Nicotine Polacrilex,https://www.drugs.com/nicotine.html
+333,Nicorette,https://www.drugs.com/nicotine.html
+348,Thrive,https://www.drugs.com/nicotine.html
+143,Intuniv,https://www.drugs.com/mtm/guanfacine.html
+212,Tenex,https://www.drugs.com/mtm/guanfacine.html
+70,Pamelor,https://www.drugs.com/nortriptyline.html
+147,Aventyl HCl,https://www.drugs.com/nortriptyline.html
+238,ZyPREXA,https://www.drugs.com/mtm/olanzapine.html
+247,ZyPREXA Zydis,https://www.drugs.com/mtm/olanzapine.html
+47,Cobalin-H,https://www.drugs.com/mtm/hydroxocobalamin-injection.html
+76,Hydroxy-Cobal,https://www.drugs.com/mtm/hydroxocobalamin-injection.html
+175,Hydro-Cobex,https://www.drugs.com/mtm/hydroxocobalamin-injection.html
+367,Neo-Cytamen,https://www.drugs.com/mtm/hydroxocobalamin-injection.html
+376,Cyanokit,https://www.drugs.com/mtm/hydroxocobalamin-injection.html
+126,Zuplenz,https://www.drugs.com/ondansetron.html
+272,Zofran,https://www.drugs.com/ondansetron.html
+306,Zofran ODT,https://www.drugs.com/ondansetron.html
+344,Osphena,https://www.drugs.com/mtm/ospemifene.html
+329,Serax,https://www.drugs.com/mtm/oxazepam.html
+66,Oxtellar XR,https://www.drugs.com/mtm/oxcarbazepine.html
+97,Trileptal,https://www.drugs.com/mtm/oxcarbazepine.html
+106,Invega,https://www.drugs.com/mtm/paliperidone.html
+164,Paxil,https://www.drugs.com/paroxetine.html
+206,Brisdelle,https://www.drugs.com/paroxetine.html
+308,Pexeva,https://www.drugs.com/paroxetine.html
+364,Paxil CR,https://www.drugs.com/paroxetine.html
+90,Cylert,https://www.drugs.com/mtm/pemoline.html
+21,Pentoxil,https://www.drugs.com/mtm/pentoxifylline.html
+193,TRENtal,https://www.drugs.com/mtm/pentoxifylline.html
+213,Trilafon,https://www.drugs.com/mtm/perphenazine.html
+296,Nardil,https://www.drugs.com/mtm/phenelzine.html
+93,Nuplazid,https://www.drugs.com/mtm/pimavanserin.html
+157,Orap,https://www.drugs.com/mtm/pimozide.html
+140,Oleptro,https://www.drugs.com/trazodone.html
+200,Desyrel Dividose,https://www.drugs.com/trazodone.html
+219,Desyrel,https://www.drugs.com/trazodone.html
+33,Mirapex,https://www.drugs.com/mtm/pramipexole.html
+254,Mirapex ER,https://www.drugs.com/mtm/pramipexole.html
+16,Minipress,https://www.drugs.com/mtm/prazosin.html
+228,Lyrica CR,https://www.drugs.com/pregabalin.html
+356,Lyrica,https://www.drugs.com/pregabalin.html
+173,Benemid,https://www.drugs.com/mtm/probenecid.html
+259,Diprivan,https://www.drugs.com/propofol.html
+325,Propoven,https://www.drugs.com/propofol.html
+324,Provigil,https://www.drugs.com/mtm/modafinil.html
+87,Propranolol Hydrochloride ER,https://www.drugs.com/propranolol.html
+165,InnoPran XL,https://www.drugs.com/propranolol.html
+214,Hemangeol,https://www.drugs.com/propranolol.html
+235,Inderal,https://www.drugs.com/propranolol.html
+248,Inderal XL,https://www.drugs.com/propranolol.html
+320,Inderal LA,https://www.drugs.com/propranolol.html
+168,Vivactil,https://www.drugs.com/mtm/protriptyline.html
+104,Serzone,https://www.drugs.com/mtm/nefazodone.html
+170,Doral,https://www.drugs.com/mtm/quazepam.html
+265,Seroquel,https://www.drugs.com/quetiapine.html
+277,Seroquel XR,https://www.drugs.com/quetiapine.html
+123,Rozerem,https://www.drugs.com/mtm/ramelteon.html
+120,Risperdal,https://www.drugs.com/risperidone.html
+142,Exelon,https://www.drugs.com/mtm/rivastigmine.html
+226,Seconal Sodium,https://www.drugs.com/mtm/secobarbital.html
+246,Zoloft,https://www.drugs.com/sertraline.html
+24,Revatio,https://www.drugs.com/sildenafil.html
+113,Viagra,https://www.drugs.com/sildenafil.html
+352,Cognex,https://www.drugs.com/mtm/tacrine.html
+303,Cialis,https://www.drugs.com/tadalafil.html
+319,Adcirca,https://www.drugs.com/tadalafil.html
+34,Restoril,https://www.drugs.com/temazepam.html
+330,Xenazine,https://www.drugs.com/mtm/tetrabenazine.html
+53,Vitamin B1,https://www.drugs.com/mtm/thiamine.html
+74,Mellaril-S,https://www.drugs.com/mtm/thioridazine.html
+108,Mellaril,https://www.drugs.com/mtm/thioridazine.html
+315,Gabitril,https://www.drugs.com/mtm/tiagabine.html
+39,Topamax Sprinkle,https://www.drugs.com/mtm/topiramate.html
+225,Topiramate ER (Eqv-Qudexy XR),https://www.drugs.com/mtm/topiramate.html
+280,Eprontia,https://www.drugs.com/mtm/topiramate.html
+285,Topiragen,https://www.drugs.com/mtm/topiramate.html
+322,Topamax,https://www.drugs.com/mtm/topiramate.html
+337,Trokendi XR,https://www.drugs.com/mtm/topiramate.html
+359,Qudexy XR Sprinkle,https://www.drugs.com/mtm/topiramate.html
+7,Luminal,https://www.drugs.com/mtm/phenobarbital.html
+251,Solfoton,https://www.drugs.com/mtm/phenobarbital.html
+95,Halcion,https://www.drugs.com/mtm/triazolam.html
+363,Stelazine,https://www.drugs.com/mtm/trifluoperazine.html
+58,Surmontil,https://www.drugs.com/mtm/trimipramine.html
+1,Depacon,https://www.drugs.com/mtm/valproic-acid.html
+125,Valproate Sodium,https://www.drugs.com/mtm/valproic-acid.html
+148,Depakene,https://www.drugs.com/mtm/valproic-acid.html
+258,Stavzor,https://www.drugs.com/mtm/valproic-acid.html
+101,Effexor XR,https://www.drugs.com/venlafaxine.html
+245,Effexor,https://www.drugs.com/venlafaxine.html
+275,Viibryd Starter,https://www.drugs.com/mtm/vilazodone.html
+373,Viibryd,https://www.drugs.com/mtm/vilazodone.html
+60,Trintellix,https://www.drugs.com/mtm/vortioxetine.html
+98,Brintellix,https://www.drugs.com/mtm/vortioxetine.html
+375,Brintellix (vortioxetine),https://www.drugs.com/mtm/vortioxetine.html
+63,Actibine,https://www.drugs.com/mtm/yohimbine.html
+64,Mederek,https://www.drugs.com/mtm/yohimbine.html
+85,Yovital,https://www.drugs.com/mtm/yohimbine.html
+129,Yohimex,https://www.drugs.com/mtm/yohimbine.html
+141,Dayto-Himbin,https://www.drugs.com/mtm/yohimbine.html
+171,Yoman,https://www.drugs.com/mtm/yohimbine.html
+196,Erex,https://www.drugs.com/mtm/yohimbine.html
+236,Yohimbe,https://www.drugs.com/mtm/yohimbine.html
+241,Testomar,https://www.drugs.com/mtm/yohimbine.html
+276,Yocon,https://www.drugs.com/mtm/yohimbine.html
+297,Aphrodyne,https://www.drugs.com/mtm/yohimbine.html
+338,Yohimar,https://www.drugs.com/mtm/yohimbine.html
+368,Thybine,https://www.drugs.com/mtm/yohimbine.html
+328,Sonata,https://www.drugs.com/mtm/zaleplon.html
+242,Geodon,https://www.drugs.com/mtm/ziprasidone.html
+5,Ambien,https://www.drugs.com/zolpidem.html
+50,Zolpimist,https://www.drugs.com/zolpidem.html
+62,Edluar,https://www.drugs.com/zolpidem.html
+152,Ambien CR,https://www.drugs.com/zolpidem.html
+353,Intermezzo,https://www.drugs.com/zolpidem.html
+160,Staxyn,https://www.drugs.com/mtm/vardenafil.html
+361,Levitra,https://www.drugs.com/mtm/vardenafil.html
+323,Parnate,https://www.drugs.com/mtm/tranylcypromine.html

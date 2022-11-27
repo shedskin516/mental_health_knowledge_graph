@@ -1,0 +1,383 @@
+brand_id,brands
+0,Marplan
+1,Depacon
+2,Nocdurna
+3,Ritalin
+4,Latuda
+5,Ambien
+6,Evekeo ODT
+7,Luminal
+8,Nytol Maximum Strength
+9,Xanax XR
+10,Butisol Sodium
+11,Jornay PM
+12,Ketalar
+13,Namenda XR
+14,LaMICtal XR Patient Titration Kit (Green)
+15,Lithonate
+16,Minipress
+17,Dexedrine
+18,Moban
+19,Forane
+20,Lexapro
+21,Pentoxil
+22,Abilify
+23,Android-10
+24,Revatio
+25,Caverject Impulse
+26,Anafranil
+27,Remeron SolTab
+28,Khedezla
+29,Endep
+30,Tegretol XR
+31,Subvenite Starter Kit (Orange)
+32,LaMICtal CD
+33,Mirapex
+34,Restoril
+35,Focalin
+36,Android
+37,Aptensio XR
+38,Desoxyn Gradumet
+39,Topamax Sprinkle
+40,Lithobid
+41,Imovane
+42,Eskalith-CR
+43,Simply Sleep
+44,FIRST Baclofen
+45,Cotempla XR-ODT
+46,LaMICtal XR
+47,Cobalin-H
+48,Norpramin
+49,QlearQuil Nightitme Allergy Relief
+50,Zolpimist
+51,Maldemar
+52,IBU
+53,Vitamin B1
+54,Adzenys XR-ODT
+55,Prolixin Enanthate
+56,Oreton Methyl
+57,Valu-Dryl
+58,Surmontil
+59,Zolium
+60,Trintellix
+61,Methylin
+62,Edluar
+63,Actibine
+64,Mederek
+65,Strattera
+66,Oxtellar XR
+67,Clopine
+68,Dolophine
+69,Kapvay
+70,Pamelor
+71,Vistaril
+72,Rexulti
+73,Ziclone
+74,Mellaril-S
+75,LaMICtal
+76,Hydroxy-Cobal
+77,DDAVP
+78,Compoz Nighttime Sleep Aid
+79,Dalmane
+80,Barhemsys
+81,Benadryl
+82,Prolixin
+83,Catapres
+84,Gablofen
+85,Yovital
+86,Razadyne
+87,Propranolol Hydrochloride ER
+88,Dyanavel XR
+89,BuSpar Dividose
+90,Cylert
+91,Sarafem
+92,Virilon
+93,Nuplazid
+94,Edex
+95,Halcion
+96,Vistaril IM
+97,Trileptal
+98,Brintellix
+99,Tofranil
+100,Muse
+101,Effexor XR
+102,Gabarone
+103,Silphen Cough
+104,Serzone
+105,Concerta
+106,Invega
+107,Fanapt
+108,Mellaril
+109,Quillivant XR
+110,Denzapine
+111,Subvenite Starter Kit (Green)
+112,Lorazepam Intensol
+113,Viagra
+114,Remeron
+115,LamoTRIgine Starter Kit (Blue)
+116,Lyzop
+117,Libritabs
+118,Proprinal
+119,Diamode
+120,Risperdal
+121,Equanil
+122,Lithotabs
+123,Rozerem
+124,Rapiflux
+125,Valproate Sodium
+126,Zuplenz
+127,Vivitrol
+128,Equetro
+129,Yohimex
+130,Prostin VR Pediatric
+131,Terrell
+132,Inversine
+133,Horizant
+134,Nuvigil
+135,Ozobax
+136,PediaCare Children's Allergy
+137,Imotil
+138,Subutex
+139,Zopicon
+140,Oleptro
+141,Dayto-Himbin
+142,Exelon
+143,Intuniv
+144,Clozaril
+145,Targretin
+146,Pristiq
+147,Aventyl HCl
+148,Depakene
+149,Versacloz
+150,KlonoPIN
+151,Aricept
+152,Ambien CR
+153,Vistaject-50
+154,Amphetamine Sulfate
+155,Fintepla
+156,Carbatrol
+157,Orap
+158,Diphenhist
+159,Rezine
+160,Staxyn
+161,Eskalith
+162,Zopitran
+163,Desoxyn
+164,Paxil
+165,InnoPran XL
+166,Dextrostat
+167,Edex Refill
+168,Vivactil
+169,Hyzine
+170,Doral
+171,Yoman
+172,Zyban
+173,Benemid
+174,LaMICtal ODT Patient Titration Kit (Orange)
+175,Hydro-Cobex
+176,Tegretol
+177,Zenzedi
+178,Dytuss
+179,FazaClo
+180,B-12
+181,Neurontin
+182,Scot-Tussin Allergy Relief Formula
+183,Zaponex
+184,Reminyl
+185,BuSpar
+186,Poxi
+187,Atarax
+188,Evekeo
+189,Adlarity
+190,Android-25
+191,Z-Sleep
+192,KlonoPIN Wafer
+193,TRENtal
+194,Loxitane
+195,Tranquil
+196,Erex
+197,Unisom Sleepgels Maximum Strength
+198,Pondimin
+199,Allermax
+200,Desyrel Dividose
+201,Twilite
+202,and others
+203,Prozac
+204,QuilliChew ER
+205,Testred
+206,Brisdelle
+207,Quenalin
+208,Tofranil-PM
+209,Vecamyl
+210,Budeprion XL
+211,Haldol
+212,Tenex
+213,Trilafon
+214,Hemangeol
+215,Sominex
+216,LamoTRIgine Starter Kit (Orange)
+217,Lioresal Intrathecal
+218,Vanatrip
+219,Desyrel
+220,Wellbutrin SR
+221,Drizalma Sprinkle
+222,Miltown
+223,Allergy Relief
+224,LaMICtal XR Patient Titration Kit (Orange)
+225,Topiramate ER (Eqv-Qudexy XR)
+226,Seconal Sodium
+227,Relexxii
+228,Lyrica CR
+229,Cymbalta
+230,Caverject
+231,LaMICtal ODT Patient Titration Kit (Blue)
+232,Subvenite Starter Kit (Blue)
+233,Maalox Anti-Diarrheal
+234,Thorazine
+235,Inderal
+236,Yohimbe
+237,LaMICtal ODT
+238,ZyPREXA
+239,Nicorelief
+240,Banophen
+241,Testomar
+242,Geodon
+243,Versed
+244,Q-Dryl
+245,Effexor
+246,Zoloft
+247,ZyPREXA Zydis
+248,Inderal XL
+249,Paxipam
+250,Methitest
+251,Solfoton
+252,Methadose Sugar-Free
+253,LaMICtal Starter Kit (Orange)
+254,Mirapex ER
+255,Librium
+256,Diphedryl
+257,Vraylar
+258,Stavzor
+259,Diprivan
+260,Elaprase
+261,Luvox CR
+262,LaMICtal ODT Patient Titration Kit (Green)
+263,Smart Sense Children's Ibuprofen
+264,ANX
+265,Seroquel
+266,Forfivo XL
+267,Diskets
+268,Asendin
+269,Cuprimine
+270,Aldex AN
+271,Selfemra
+272,Zofran
+273,Imoclone
+274,ProCentra
+275,Viibryd Starter
+276,Yocon
+277,Seroquel XR
+278,Zimovane LS
+279,LaMICtal XR Patient Titration Kit (Blue)
+280,Eprontia
+281,Prolixin Decanoate
+282,Unisom
+283,ZzzQuil
+284,Aricept ODT
+285,Topiragen
+286,Vanspar
+287,Niravam
+288,LaMICtal Starter Kit (Blue)
+289,CloZAPine Synthon
+290,Antabuse
+291,Amytal Sodium
+292,LamoTRIgine Starter Kit (Green)
+293,Zolinox
+294,Xanax
+295,Aplenzin
+296,Nardil
+297,Aphrodyne
+298,Thorazine Spansule
+299,Methadose
+300,Subvenite
+301,Ritalin LA
+302,Metadate ER
+303,Cialis
+304,Fetzima
+305,Ormazine
+306,Zofran ODT
+307,Razadyne ER
+308,Pexeva
+309,Busodium
+310,Imrest
+311,Lioresal
+312,Advil
+313,Mitran
+314,Leader Nicotine Polacrilex
+315,Gabitril
+316,Sleepinal
+317,Vitamin B12
+318,Inapsine
+319,Adcirca
+320,Inderal LA
+321,Wellbutrin XL
+322,Topamax
+323,Parnate
+324,Provigil
+325,Propoven
+326,Gralise
+327,Focalin XR
+328,Sonata
+329,Serax
+330,Xenazine
+331,Valium
+332,D-Penamine
+333,Nicorette
+334,Elavil
+335,Adzenys ER
+336,Namenda
+337,Trokendi XR
+338,Yohimar
+339,Saphris
+340,Navane
+341,Nytol QuickCaps
+342,Permitil
+343,Lunesta
+344,Osphena
+345,Ludiomil
+346,Siladryl Allergy
+347,LaMICtal Starter Kit (Green)
+348,Thrive
+349,Liquadd
+350,Genpril
+351,Loreev XR
+352,Cognex
+353,Intermezzo
+354,Zimovane
+355,MB-TAB
+356,Lyrica
+357,Irenka
+358,Luvox
+359,Qudexy XR Sprinkle
+360,Eligen B12
+361,Levitra
+362,Pepto Diarrhea Control
+363,Stelazine
+364,Paxil CR
+365,Revex
+366,Vanamine PD
+367,Neo-Cytamen
+368,Thybine
+369,Midol IB
+370,Imodium (various products)
+371,Ativan
+372,Celexa
+373,Viibryd
+374,Prosom
+375,Brintellix (vortioxetine)
+376,Cyanokit
+377,Epitol
+378,Depen
+379,Dexedrine Spansule
+380,Motrin IB
+381,Adhansia XR

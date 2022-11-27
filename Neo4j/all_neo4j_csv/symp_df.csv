@@ -1,0 +1,286 @@
+symp_id,symptoms
+0,petoze
+1,hyperfocus
+2,emotional dysregulation
+3,rejection sensitive dysphoria
+4,executive dysfunction
+5,daydream
+6,oculomotor apraxia
+7,optic ataxia
+8,simultanagnosia
+9,hyperemesis
+10,akinetic-rigid syndrome
+11,dystonia
+12,Alien hand syndrome
+13,myoclonus
+14,aphasia
+15,limb apraxia
+16,speech disorder
+17,dyscalculia
+18,visuospatial deficit
+19,dementia
+22,somnolence
+23,twilight state
+24,ataxia
+26,choreatic disease
+27,personality changes
+28,weight loss
+30,fixation amnesia
+31,confabulation
+32,cryptomnesia
+33,pseudoreminiscence
+34,anemia
+36,hallucination
+37,parkinsonian syndrome
+38,Alacrima
+39,Impaired oropharyngeal swallow response
+40,Decreased CSF albumin
+41,osteopenia
+42,abnormal sudomotor regulation
+43,constipation
+44,Reduced brain glutamine level by MRS
+45,elevated transaminases
+46,seizure
+47,disability affecting intellectual abilities
+48,Reduced brain glutamate level by MRS
+49,hypocholesterolemia
+50,Multifocal epileptiform discharges
+51,High myoinositol in brain by MRS
+52,hypotonia
+53,Delayed skeletal maturation
+54,abnormality of retinal pigmentation
+55,Reduced brain gamma-aminobutyric acid level by MRS
+56,coxa valga
+57,intrauterine growth restriction
+58,lagophthalmos
+59,neonatal jaundice
+60,Reduced factor IX activity
+61,dysphagia
+62,splenomegaly
+63,Elevated brain choline level by MRS
+65,abnormal facial shape
+66,scoliosis
+67,abnormal liver storage
+68,Mixed demyelinating and axonal polyneuropathy
+69,movement disorders
+70,Abnormal metabolic brain imaging by MRS
+71,meibomian cyst
+72,Abnormal auditory evoked potentials
+73,joint hypermobility
+74,optic atrophy
+75,Reduced brain N-acetyl aspartate level by MRS
+76,Abnormal brain imaging
+77,brain atrophy
+78,Impaired oral bolus formation
+79,Decreased resting energy expenditure
+80,Reduced factor XI activity
+81,exotropia
+83,Decreased CSF total protein
+84,fatty liver disease
+85,involuntary movement
+86,facial hypotonia
+87,global developmental delay
+88,Reduced prothrombin activity
+89,esotropia
+90,Decreased CSF biopterin level
+91,strabismus
+92,refractive error
+93,short foot
+94,Corneal scarring
+95,corneal ulcer
+96,Elevetated blood lactate
+98,electroencephalography abnormalities
+99,microcephaly
+100,peripheral neuropathy
+101,functional motor deficit
+102,corneal neovascularization
+103,impaired daily living skills
+104,tachycardia
+105,small hand
+106,Hypofibrinogenemia
+107,hyporeflexia
+108,Decreased CSF/serum albumin ratio
+109,hepatomegaly
+110,sucking reflex
+111,nightmare
+112,mental depression
+113,sexual arousal
+114,anterior segment mesenchymal dysgenesis
+115,phocomelia
+116,short stature
+117,cognitive dysfunction
+118,ambiguous genitalia
+120,hearing loss
+122,intellectual disability
+123,epilepsy
+126,brachydactyly
+127,tic
+128,failure to thrive
+129,hypertrichosis
+130,supravalvular aortic stenosis
+132,blue nails
+133,jaundice
+134,face of the giant panda sign
+135,edema
+136,heart failure
+138,lissencephaly
+140,abdominal pain
+141,hyperlipoproteinemia
+143,hemolytic anemia
+144,indecision
+147,polyneuritis
+150,nausea
+151,Forced normalization
+152,disorientation
+154,delusion
+155,amnesia
+156,perplexity
+157,memory loss
+158,anti-social behaviour
+159,irritability
+160,violence
+161,fraud
+162,impulsivity
+165,vomiting
+166,vertigo
+167,depersonalization
+169,derealization
+170,avolition
+171,muteness
+172,meningitis
+173,thymic hypoplasia
+179,paralysis
+180,hypersomnia
+181,sincerity
+182,stimming
+185,autistic special interest
+186,echolalia
+187,autistic meltdown
+188,toe walking
+189,sensory processing disorder
+190,social communication disorder
+191,deafness
+192,narcolepsy
+193,self-injury
+194,avoidance coping
+195,binge eating
+196,hypersexuality
+197,insomnia
+198,mood swing
+199,fatigue
+201,psychomotor agitation
+202,mania
+205,anhedonia
+207,hypomania
+210,dysphoria
+212,regulation of emotion
+213,anger
+216,dental attrition
+219,Pavlov's symptom
+220,waxy flexibility
+221,psychological pillow
+222,negativism
+223,catatonic excitement
+224,catalepsy
+225,cenesthopathy
+227,anxiety
+228,fight-or-flight response
+231,flashback
+232,somatization
+234,dwarfism
+235,hh blood group
+236,infection
+237,obscenity
+238,distraction
+239,memory disorder
+241,thought disorder
+242,sleep disorder
+244,psychosis
+245,emotional lability
+246,agrypnia excitata
+248,hypochondriasis
+250,itch
+251,abrasion
+255,hypothymia
+256,reading disorder and écrites disorder
+257,anxious
+260,arterial hypertension
+261,fever
+263,panic attack
+264,phobia
+265,generalized anxiety disorder
+266,ageing
+268,muscle rigidity
+269,pulmonary edema
+270,wooden chest
+271,gastric hypomotility
+272,hypoxia
+273,miosis
+274,bradycardia
+275,shock
+276,ileus
+277,spasm
+278,eye irritation
+279,central nervous system depression
+280,hypoventilation
+281,hypotension
+282,acidosis
+283,intracranial hypertension
+285,respiratory arrest
+286,coma
+287,change
+288,behavioral disorder
+289,anomic aphasia
+290,primary progressive aphasia
+292,language disorder
+294,motor disorder
+295,clothing
+298,brain damage
+299,withdrawal symptom
+300,coprophagia
+301,microtia
+302,hypertelorism
+303,cleft lip and cleft palate
+305,headache
+309,arthralgia
+310,dizziness
+311,tremor
+312,diplopia
+315,major depressive disorder
+316,obesity
+318,muscle weakness
+319,pressure ulcer
+325,exaltation
+334,respiratory failure
+335,heart arrhythmia
+337,cataract
+338,sterility
+339,muscle atrophy
+340,cardiomyopathy
+342,acanthocyte
+344,gait abnormality
+345,urinary incontinence
+346,altered level of consciousness
+347,intrusive thought
+349,obsession
+350,compulsive behavior
+351,palpitation
+353,Paranoid Behavior
+354,paranoid delusion
+358,lethargy
+359,periodic limb movement
+360,hepatosplenomegaly
+361,eating
+365,chronic postsurgical or post traumatic pain
+368,hyponatremia
+372,microarousal
+374,social anxiety
+382,cerebellar atrophy
+383,cerebellar ataxia
+384,low frustration tolerance
+385,stereotypy
+386,inflammation
+387,hyperesthesia
+388,paresthesia
+389,erectile dysfunction
+391,trance
