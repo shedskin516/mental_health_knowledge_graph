@@ -8,6 +8,9 @@
 .scrapy
 **/__pycache__
 
+# ignore notebook cache
+**/.ipynb_checkpoints
+
 # ignore files for personal use
 *.jsonl
 my.sh
