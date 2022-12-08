@@ -1,0 +1,4033 @@
+,name,count
+1,anxiety,9295
+3,depression,8892
+15,relationship issues,8355
+4,self esteem,7735
+20,trauma and ptsd,7210
+29,grief,6882
+17,coping skills,6831
+0,stress,6611
+33,family conflict,6126
+21,life transitions,6083
+31,peer relationships,5156
+46,parenting,5148
+25,women's issues,5063
+30,divorce,4543
+32,codependency,4177
+36,impulse control disorders,4057
+37,marital and premarital,3877
+28,behavioral issues,3707
+40,child,3654
+24,spirituality,3653
+19,anger management,3500
+23,addiction,3211
+6,school issues,3194
+12,emotional disturbance,3183
+56,substance use,3040
+8,sexual abuse,3027
+35,life coaching,2999
+34,adhd,2974
+65,bipolar disorder,2565
+51,infidelity,2483
+39,suicidal ideation,2377
+63,self-harming,2343
+26,obsessive-compulsive (ocd),2288
+7,career counseling,2177
+9,alcohol use,2071
+71,domestic violence,2037
+70,dual diagnosis,1990
+79,men's issues,1987
+55,pregnancy,1967
+53,postpartum,1967
+52,prenatal,1965
+13,sleep or insomnia,1940
+18,domestic abuse,1812
+83,transgender,1750
+10,drug abuse,1698
+49,racial identity,1674
+62,eating disorders,1641
+22,chronic pain,1559
+60,infertility,1360
+2,chronic illness,1349
+64,borderline personality (bpd),1297
+5,oppositional defiance (odd),1227
+38,adoption,1220
+76,sexual addiction,1012
+74,sex therapy,905
+72,weight loss,902
+47,education and learning disabilities,885
+68,narcissistic personality (npd),883
+41,asperger's syndrome,872
+66,internet addiction,871
+48,autism,849
+11,chronic impulsivity,801
+84,teen violence,756
+69,obesity,706
+42,developmental disorders,691
+43,sports performance,625
+73,chronic relapse,561
+44,testing and evaluation,556
+90,video game addiction,502
+67,gambling,494
+59,mood disorders,478
+16,antisocial personality,437
+45,intellectual disability,403
+57,traumatic brain injury (tbi),386
+98,hoarding,372
+58,alzheimer's,310
+138,lgbtq+,257
+169,medication management,225
+168,medical detox,72
+27,burnout,66
+182,personality disorders,62
+226,emdr,43
+250,polyamory,36
+180,couples therapy,35
+567,couples counseling,32
+175,panic,30
+265,job stress,30
+109,immigration,30
+108,social anxiety,30
+399,couples,29
+444,dissociative disorders (did),29
+293,elderly persons disorders,29
+81,perfectionism,29
+276,psychosis,27
+597,body image,25
+622,aging,24
+163,panic attacks,24
+248,phobias,24
+124,adolescents,23
+394,cancer,22
+210,trauma,22
+433,attachment,22
+144,acculturation,22
+746,first responders,21
+273,lesbian,20
+242,shame,20
+152,cultural issues / racial trauma,19
+363,gender identity,18
+251,bisexual,18
+181,thinking disorders,18
+480,christian counseling,18
+101,mindfulness,18
+219,co-parenting,18
+447,psychedelic integration,17
+553,kink,17
+885,teens,17
+449,intergenerational trauma,16
+362,adolescents/teens,16
+376,racial trauma,15
+364,cultural stress,15
+858,young adults,15
+328,adjustment disorder,15
+244,stress management,15
+245,creativity,14
+878,personal growth,14
+278,panic disorder,14
+465,blended families,14
+122,identity,14
+365,military,13
+231,creative blocks,13
+93,religious trauma,13
+302,communication,13
+131,relapse prevention,13
+606,lgbtq,13
+919,attachment issues,13
+262,bullying,12
+791,consensual non-monogamy,12
+61,cultural issues,12
+505,complex ptsd,11
+140,boundaries,11
+504,narcissistic abuse,11
+983,queer,11
+196,hiv/aids,11
+627,loss,10
+421,bdsm,10
+436,complex trauma,10
+234,executive coaching,10
+458,art therapy,10
+550,immigration evaluations,10
+665,lgbt,10
+787,family therapy,10
+111,grief and loss,9
+332,selective mutism,9
+275,pet loss,8
+866,veterans,8
+132,older adults,8
+694,work stress,8
+874,impulsivity,8
+211,postpartum depression,8
+718,identity development,7
+406,social skills,7
+105,smoking cessation,7
+506,attachment trauma,7
+712,poly,7
+89,disordered eating,7
+691,emotional eating,7
+341,pre-marital counseling,7
+840,existential crisis,7
+549,non-monogamy,7
+139,intimacy,7
+527,disability,7
+329,body image issues,7
+154,divorce mediation,7
+591,cultural,7
+427,gender dysphoria,6
+429,cross cultural issues,6
+227,brainspotting,6
+623,caregiving,6
+798,couple's therapy,6
+611,loneliness,6
+435,couples issues,6
+710,fetish,6
+194,empowerment,6
+802,insomnia,6
+380,attachment disorders,6
+832,ketamine assisted psychotherapy,6
+696,immigration issues,6
+670,communication issues,6
+966,stress reduction,6
+628,end of life,6
+895,multicultural issues,6
+547,dating,6
+545,health psychology,6
+50,marital conflict,5
+636,co-dependency,5
+311,partners of sex addicts,5
+708,neurodivergence,5
+287,dream work,5
+432,trichotillomania,5
+831,sexual assault,5
+99,procrastination,5
+237,death and dying,5
+659,intuitive eating,5
+159,existential,5
+358,generational trauma,5
+344,clinical supervision,5
+688,forensic psychology,5
+246,giftedness,5
+973,immigration psychological evaluations,5
+253,love addiction,5
+601,betrayal trauma,5
+353,conflict resolution,5
+909,sex addiction,5
+356,military life,4
+620,family of origin issues,4
+271,school refusal,4
+372,self-empowerment,4
+980,etc,4
+1077,crisis intervention,4
+1425,lgbtqia,4
+95,artists,4
+881,early childhood mental health,4
+867,learning disabilities,4
+698,compassion fatigue,4
+927,eft,4
+564,sports psychology,4
+926,cbt,4
+466,dreamwork,4
+726,self-esteem,4
+532,transcranial magnetic stimulation (tms therapy),4
+446,creative block,4
+664,human trafficking,4
+569,pornography addiction,4
+207,financial therapy,4
+516,body-focused repetitive behaviors,4
+434,abandonment issues,4
+1322,moral injury,4
+974,dementia,4
+164,relational trauma,4
+574,adjustment,4
+417,sex work,4
+755,social justice,4
+595,play therapy,3
+518,dyslexia,3
+764,childhood emotional neglect (cen),3
+757,intercultural relationships,3
+513,medical illness,3
+1390,menopause,3
+752,ibs,3
+1299,gender non-conforming,3
+559,crisis,3
+649,worry,3
+635,adult children of emotionally immature parents,3
+1201,religious abuse,3
+739,mediation,3
+1855,equine therapy,3
+1701,co-occurring disorders,3
+575,work related stress,3
+648,body focused repetitive behaviors,3
+489,gender affirming care,3
+502,immigration/acculturation,3
+693,low self esteem,3
+2017,psychological testing,3
+423,sexual dysfunction,3
+425,phase of life issues,3
+393,gifted,3
+384,recovery,3
+577,abortion,3
+438,vicarious trauma/compassion fatigue,3
+803,highly sensitive person,3
+453,premarital counseling,3
+455,couples communication,3
+682,depression and anxiety,3
+492,peak-experience integration,3
+1358,forensic evaluation,3
+366,dissociation,3
+1130,ethical non-monogamy,3
+788,open relationships,3
+1344,health anxiety,3
+1804,work,3
+484,neurofeedback,3
+1136,early intervention,3
+1111,work issues,3
+491,immersion in nature,3
+589,executive functioning,3
+674,harm reduction,3
+259,single parenting,3
+228,workplace issues,3
+277,complex trauma (cptsd),3
+116,body positivity,3
+136,somatic therapy,3
+970,affairs,3
+2173,pandemic stress,3
+892,vr-enhanced exposure therapy for fear,3
+2116,actors,3
+199,non-binary,3
+249,marriage counseling,3
+121,biofeedback,3
+977,miscarriages,3
+254,adolescent,3
+270,body focused repetitive behaviors (bfrbs),3
+117,relationships,3
+149,existential issues,3
+1568,heterosexual,3
+963,wellness,3
+125,empty nest,3
+147,special education,3
+148,attachment injuries,3
+2136,firefighters,3
+897,groups,3
+1546,pre-marital,3
+224,immigration trauma,3
+225,vicarious trauma,3
+1788,post traumatic stress disorder,2
+2076,nutritional psychology,2
+450,self-acceptance,2
+118,marriage,2
+120,children,2
+938,somatic experiencing,2
+193,cultural adjustment,2
+1035,break-up recovery,2
+936,acculturation/immigration,2
+2653,foster youth,2
+937,self-compassion,2
+793,transgenerational trauma,2
+123,premenstrual dysphoric disorder (pmdd),2
+1797,ivf,2
+471,hsp issues,2
+790,gender non-binary,2
+198,racism,2
+928,activists,2
+932,healthcare workers,2
+201,creativity blocks,2
+415,immigrants,2
+2240,creative artists,2
+1048,self love,2
+817,family conflicts,2
+816,self-improvement,2
+749,tics,2
+621,abuse survivors,2
+218,headaches,2
+424,grief counseling,2
+1502,spiritual abuse and religious trauma,2
+1192,emotional abuse,2
+2129,incest survivors,2
+615,medical trauma,2
+2006,partner betrayal trauma,2
+709,enm,2
+1562,financial,2
+728,first responder trauma,2
+714,change,2
+2249,cancer patients,2
+805,military lifestyle,2
+1038,clinical hypnosis,2
+1011,cross-cultural,2
+1067,self-esteem issues,2
+1469,neuropsychology,2
+1543,emdr practitioner,2
+519,autism spectrum disorders,2
+968,meaning,2
+1979,certified emdr therapist,2
+1165,emotional,2
+2450,multicultural identity,2
+1826,toxic relationships,2
+526,traumatic loss,2
+1977,teen,2
+1315,asexual,2
+530,adolescence,2
+1152,transition,2
+1313,weight management,2
+969,nightmares,2
+535,recovery support,2
+2133,health care workers,2
+1974,social justice issues,2
+2292,transpersonal,2
+1013,emotional overeating,2
+1836,trauma focused,2
+1616,adult attachment,2
+1839,compulsive behaviors,2
+1295,interracial couples,2
+751,reunification,2
+2289,breast cancer,2
+517,hair pulling and skin picking,2
+515,adult adhd,2
+481,spiritual issues,2
+2113,musicians,2
+482,asian american issues,2
+483,c-ptsd,2
+2408,children of divorce,2
+1989,body neutrality,2
+411,sibling conflict,2
+1338,empaths,2
+949,incest,2
+780,quarter life crisis,2
+1336,minority stress,2
+779,covid-19 crisis,2
+1139,work-related stress,2
+1171,mindfulness meditation,2
+2143,health issues,2
+1170,hiv,2
+775,queerness,2
+951,private couples workshops,2
+578,process addictions,2
+167,clinical hypnotherapy,2
+1022,toxic shame,2
+772,reunification therapy,2
+1557,gender identity issues,2
+1556,kap-ketamine-assisted psychotherapy,2
+512,early childhood trauma,2
+133,premenstrual dysphoric disorder,2
+820,pregnancy and infant loss,2
+556,clinical supervision and consultation,2
+853,forensic assessment,2
+1218,midlife,2
+1221,panic & agoraphobia,2
+257,shame resilience,2
+678,etc.),2
+1453,postpartum depression & anxiety,2
+1057,indian,2
+848,child abuse,2
+847,forensic,2
+1093,multicultural dynamics,2
+255,interracial relationships,2
+304,performance,2
+252,toxic relationship recovery,2
+1056,couples & families,2
+2030,polyamorous relationships,2
+1457,adverse childhood experiences,2
+306,psychological assessment,2
+305,executive,2
+1240,filipino,2
+2062,bdsm/kink,2
+86,sport psychology,2
+1235,blended family dynamics,2
+905,epilepsy,2
+646,medical concerns,2
+333,career transition,2
+1913,self-exploration,2
+898,therapy for other therapists,2
+868,legal stress,2
+80,co-dependence,2
+340,consulting,2
+1085,religious issues,2
+1905,somatic psychotherapy,2
+82,people-pleasing,2
+872,body dysmorphia,2
+2201,chronic health issues,2
+856,employee assistance,2
+1088,life purpose,2
+1730,adult children of narcissistic parents,2
+319,qme,2
+54,postpartum anxiety and depression,2
+877,hsp,2
+1743,acceptance,2
+369,depersonalization,2
+841,life transition,2
+396,intersex,2
+295,grief/loss,2
+1408,kink and bdsm,2
+1051,disabilities,2
+1494,inner critic,2
+891,teen issues,2
+1216,dating challenges,2
+888,academic coaching,2
+1050,self acceptance,2
+829,polyamory/non-monogamy,2
+1466,self empowerment,2
+2194,caregiver support,2
+289,childhood abuse,2
+1497,energy psychology,2
+2526,life coach,2
+1759,asexuality,2
+2016,public speaking,2
+104,fears and phobias,2
+1388,performance anxiety,2
+408,acting out,2
+1215,abuse recovery,2
+1463,pregnancy and postpartum,2
+294,gambling addiction,2
+300,family issues,2
+382,sex positive,2
+884,college students,2
+282,young professionals,2
+1697,sexual issues,2
+379,oppression,2
+238,anxiety and depression,2
+633,childhood emotional neglect,2
+1471,self identity,2
+658,existential crises,2
+837,sensitivity,2
+634,abuse,2
+982,pansexual,2
+385,custody issues,2
+1461,male sexual abuse,2
+1924,catholic/christian,1
+1962,coping with changes and issues arising since covid,1
+2109,spiritual abuse/ high control groups,1
+1966,lgbtq-poc,1
+1963,assisted reproduction & third party consult/evals,1
+1965,life complexities & quandaries,1
+1967,race-based stress and fatigue (poc),1
+2110,motherhood issues,1
+1964,therapeutic abortion,1
+1925,parent/child conflicts,1
+1922,money issues and limiting beliefs about money,1
+2111,holistic nutrition,1
+1968,intercultural marriage/relationship,1
+1923,self-worth and trauma around self-worth,1
+1940,habitual sin,1
+1926,consultations for therapists,1
+1944,neurofeedback and biofeedback,1
+2105,suicide prevention,1
+1948,ease with others,1
+1947,social anxiety and isolation,1
+1933,insomnia/focus and concentration,1
+2104,teeth grinding;,1
+1934,ritual abuse and mind control,1
+2103,finding deeper meaning in life and work,1
+1946,video and phone sessions available,1
+1945,early attachment deficits,1
+2102,social medias,1
+1927,supervision for amfts,1
+1943,mental health interventions,1
+2099,body symptoms,1
+1935,and school performance,1
+1936,generational and family dynamics,1
+1942,sexual fluidity,1
+1941,lack of desire,1
+1937,relationship,1
+2101,brca & navigating genetic testing,1
+1938,discernment,1
+1949,relationship concerns of all types,1
+2106,wealth positive,1
+1950,nutritional influences on emotions,1
+1951,adults in academia,1
+1928,imposter syndrom,1
+1929,existential contemplation,1
+1961,military stress,1
+1930,personal development,1
+1931,infant/preschool mental health,1
+2108,academic or homework counseling,1
+1960,dating & relating in the modern age,1
+1932,mindfulness and biofeedback,1
+1959,immigration & acculturation,1
+1958,trauma work with emdr,1
+1957,interview skills,1
+1956,decision-making conflict/assertiveness,1
+1939,scrupulosity,1
+2098,focus,1
+1955,resume writing,1
+2107,career growth,1
+1954,family and intergenerational trauma,1
+1953,systemic,1
+1952,mid-life issues,1
+2100,perfectionism & artistic/creative personalities,1
+2084,concerns of the gifted,1
+1969,purity culture trauma,1
+2021,conflict resolution & stress management,1
+2031,covid 19,1
+2029,entertainment/sports industry professionals,1
+2028,i am a certified imago therapist,1
+2027,serious illness,1
+2063,fatherhood,1
+2064,hardship waivers for immigration,1
+2026,coaching,1
+2025,nutrition and mental health,1
+2065,asylum evaluations and hardship for immigration,1
+2024,gender non-conforming youth & family,1
+2023,pediatric cancer,1
+2022,trauma history,1
+2020,psychoeducational assessments,1
+2033,military and veteran family issues,1
+2019,highly sensitive people/empaths,1
+2018,yoga for trauma,1
+2015,coping with fame,1
+2014,aging and loss,1
+2066,custody related issues,1
+2013,immigration and acculturation stress,1
+2012,issues related to ethical & consensual nonmonogamy,1
+2011,cross cultural couples and families,1
+2067,race-based trauma,1
+2010,post-pandemic stress,1
+2009,neuropsychological evaluations,1
+2068,loneliness and isolation,1
+2032,sex addiction and compulsivity,1
+2034,rape,1
+2069,play therapy is on hold until covid crisis is over,1
+2043,addiction to p*rnography / social media,1
+2052,identity development and exploration,1
+2051,multiracial identity & interracial couples/family,1
+2050,conscious uncoupling,1
+2049,mutual awakening,1
+2053,social justice and decolonization,1
+2054,oppression-based trauma,1
+2048,adolescents and young adults,1
+2047,christian faith issues,1
+2046,breavement,1
+2045,migrants,1
+2055,wellness and resiliency,1
+2044,young children (0-5yrs),1
+2056,decision-making,1
+2035,male incest,1
+2057,college student,1
+2058,healthcare provider and medical issues support,1
+2042,religious trauma & cult recovery,1
+2041,gender therapy for youth and adults,1
+2040,lgbtq+ community,1
+1921,changes,1
+2038,choice theory,1
+2037,partner difficulties,1
+2059,people of color mental health,1
+2060,test anxiety and test enhancement,1
+2061,executive coaching mixed with psychotherapy,1
+2036,faith deconstruction,1
+2008,transitions through life stages,1
+2007,communication and conflict,1
+2097,lgbt related issues,1
+2091,covid-19 stressors,1
+2087,spiritual/life crisis,1
+2088,emotional challenges,1
+1988,harm reduction around substance use,1
+1987,ketamine assisted therapy for depression,1
+1986,creativity coaching,1
+1985,compulsive eating,1
+2089,merging cultural values,1
+1984,medical issues & complications,1
+1983,psychogenic pain (tms),1
+1982,understanding dementia behavior,1
+1981,case manager for elderly,1
+2090,phobias/fears,1
+2092,languges; aware of difficulties w/ cul. difference,1
+2086,high conflict divorce,1
+1980,certified eft therapist,1
+1978,young adult therapy,1
+2093,cultural issues: i lived in 12 countries; speak 6,1
+2094,and loss,1
+1976,stepfamilies,1
+1975,money/bereavment/self-esteem,1
+1973,multipule issues that overlap,1
+2095,child custody/divorce,1
+1972,first responder trauma/ ptsd,1
+2096,recent traumatic events,1
+1971,incarcerated family members,1
+1970,deconstructing,1
+1990,adhd coaching & chronic disorganization,1
+1991,time management,1
+2070,family counseling,1
+2077,immigration evaluations (hardship,1
+2071,interpersonal growth,1
+2072,certified discernment counseling,1
+2073,racial issues,1
+2005,insecure attachment,1
+2074,intersectionality,1
+2004,pornography and love addiction,1
+2003,multi-racial identity,1
+2002,immigrant,1
+2075,factors of minority stress,1
+2001,cross cultural,1
+2000,self fulfillment,1
+1999,multi-cultural counseling,1
+1998,kink-awareness,1
+2085,post-seperation abuse,1
+1997,poly and enm related issues,1
+1996,vaginal pain,1
+2078,visa-u,1
+1995,sexual pain,1
+2079,vawa),1
+1994,and health,1
+2080,college | phase of life,1
+2081,immigration extreme hardship evaluations,1
+1993,physical illness,1
+1992,ketamine assistedpsychotherapy,1
+2082,undergraduate and graduate school stress,1
+2083,immigration diagnostic evaluations,1
+2039,young adults 18-25,1
+1812,considering parenthood,1
+1920,also work  difficulties,1
+1695,moral/ethical,1
+1688,physical intimacy therapy with couples only,1
+1689,couple communication,1
+1690,political and environmental concerns,1
+1691,sexual health and wellbeing,1
+1692,social,1
+1693,forensic evaluations emdr,1
+1694,spiritual-religious,1
+1696,young children 0-5 years,1
+1686,launching adult children into independence,1
+1698,non-monogamy/polyamory,1
+1699,issues with relationship and communication,1
+1700,asian generational households,1
+1702,military special forces,1
+1703,deployment,1
+1704,combat ptsd,1
+1705,military transitions,1
+1687,families with young children,1
+1685,men’s issues,1
+1707,caregiver burnout or stress,1
+1675,execs,1
+1668,geek therapy,1
+1669,complex and developmental trauma,1
+1670,infant-parent relationship: infertility,1
+1671,emdr & se,1
+1672,cultural & intergenerational stressors,1
+1673,existential struggles,1
+1674,entrepreneurs,1
+1676,attorneys,1
+1684,muslims,1
+1677,career and professional,1
+1678,energy medicine,1
+1679,insight driven exploration of identity,1
+1680,support for loved ones struggeling with sud,1
+1681,south asian families,1
+1682,arab families,1
+1683,bariatric surgery evaluations,1
+1706,medlegal psychological testing and evaluation,1
+1708,support for creativity practices,1
+1666,cultural assimilation,1
+1738,non-categorized  all aspects,1
+1731,phobias (emetophobia),1
+1732,survivors of conversion therapy,1
+1733,postpartum issues,1
+1734,trauma in infancy,1
+1735,organizational improvement,1
+1736,ptsd fire police corrections,1
+1737,and ptsi,1
+1739,all sexuality and racial identities,1
+1728,step-parent,1
+1740,"a sense of ""stuckness"" in an area(s) of life",1
+1741,preparing for / post- empty nest,1
+1742,resentment,1
+1744,achievement pressure,1
+1745,adults recovering from childhood abuse,1
+1746,alcoholism,1
+1747,career anxiety,1
+1729,terrorism/world events,1
+1727,active and retired military,1
+1709,immigration / cultural issues,1
+1717,surgery support,1
+1710,impact of cultural/psychologic norms,1
+1711,cultural bias of defined gender roles,1
+1712,women’s divorce groups,1
+1713,foster-care adoptions,1
+1714,pregnancy loss and infant death,1
+1715,creative struggles,1
+1716,chronic health conditions,1
+1718,existential inquiry,1
+1726,couples relationship issues,1
+1719,adolescents & teens,1
+1720,first responders (law enforcement & fire),1
+1721,assertive communication skills,1
+1722,co-parenting; custody / communication,1
+1723,discernment counseling - commitment  (stay/go?),1
+1724,life transtions,1
+1725,walk & talk therapy,1
+1667,first generation american,1
+1665,multi cultural,1
+1749,empowerment and community engagement,1
+1614,grief due to pet loss,1
+1607,military related stressors (i.e. deployment),1
+1608,college coaching,1
+1609,mixed race couples,1
+1610,conscious parenting,1
+1611,gang involvement,1
+1612,fears of change,1
+1613,lack of motivation,1
+1615,highly sensitive persons (hsp) www.hsperson.com,1
+1605,including microaggressions,1
+1617,divorce mediation & parenting plans,1
+1618,immigration assessment,1
+1619,end of life issues,1
+1620,pre and post-surgery,1
+1621,workplace dysfunction & organizational change,1
+1622,social anxiety & agoraphobia,1
+1623,legal issues,1
+1606,racism-related trauma,1
+1604,numb,1
+1625,asian clients,1
+1594,amends,1
+1587,jungian dream work,1
+1588,telemedicine - facetime,1
+1589,expert witness for mental health issues,1
+1590,somatic symptom disorders,1
+1591,eating disorder,1
+1592,poly friendly,1
+1593,deepen understanding,1
+1595,restructuring bonds,1
+1603,shut down,1
+1596,conflict and repair,1
+1597,emotion-focused therapy,1
+1598,former cult members,1
+1599,insight building,1
+1600,stuck in flight/fligh,1
+1601,feeling frozen support,1
+1602,dysregulated nervous system,1
+1624,anger mgmt,1
+1626,indian-american,1
+1664,certified sex offender provider,1
+1655,animal-assisted interventions and therapy,1
+1648,giftedness & 2e,1
+1649,young adult transition (18-25),1
+1650,telehealth (online counseling),1
+1651,financial challenges,1
+1652,re-entry and adjustment,1
+1653,internal family system,1
+1654,pet bereavement and anticipatory pet loss,1
+1656,pituitary tumor patients,1
+1646,mindfullness meditation transpersonal,1
+1657,neurodivergent affirmative practice (d-at),1
+1658,intergenerational trauma/ systemic abuse,1
+1659,binge eating,1
+1660,suffering and christian faith,1
+1661,bicultural issues,1
+1662,forming meaningful relationships,1
+1663,separation & divorce,1
+1647,executive function issues,1
+1645,adhd testing for children and adults,1
+1627,infant death,1
+1635,bringing baby home,1
+1628,dental phobia and tmd,1
+1629,certified clinical anxiety treatment professional,1
+1630,writers' block & creativity,1
+1631,on-site anxiety,1
+1632,management,1
+1633,work with actors,1
+1634,transgender or gender dysphoria,1
+1636,treating individuals with chronic lyme's disease,1
+1644,certified mother daughter coach,1
+1637,authentic self expression,1
+1638,critical incident/crisis intervention,1
+1639,sexual orientation and gender identity,1
+1640,parentified child,1
+1641,gender issues,1
+1642,12 step philosophy,1
+1643,mother daughter relationships,1
+1748,personal growth and development,1
+1750,first episode psychosis,1
+1919,toxic masculinity,1
+1868,and parenting,1
+1861,dissociation    •attachment issues,1
+1862,cancer support and recovery,1
+1863,psychological assessments,1
+1864,therapeutic hiking - healing in nature,1
+1865,launching young adults into adult,1
+1866,pain,1
+1867,pleasure,1
+1869,peak corporate / military performance,1
+1859,ecopsychology,1
+1870,recovering from a religious cult experience,1
+1871,immigration assessments,1
+1872,espanol,1
+1873,sex positive therapist,1
+1874,coaching for coaches,1
+1875,energy healing,1
+1876,entrepreneur coaching,1
+1860,dream-work,1
+1858,minfulness,1
+1878,fertility counseling-highly specialized,1
+1847,exploration,1
+1840,religious abuse/recovery,1
+1841,adults abused as child,1
+1842,third culture issues,1
+1843,working with creative/entertainment people,1
+1844,mind set,1
+1845,complex and specific traumas,1
+1846,biracial/interracial issues,1
+1848,major adjustments/changes,1
+1857,inner child work,1
+1849,hospice and palliative care,1
+1850,anticipatory grief,1
+1851,medical issues,1
+1852,child therapy,1
+1853,adult industry,1
+1854,eap,1
+1856,healing sexual abu,1
+1877,transgenerational,1
+1879,anti- racist,1
+1837,imposter syndrome; career stress,1
+1909,post partum anxiety,1
+1901,dating and relationships,1
+1902,late life depression,1
+1903,geriatric psychotherapy,1
+1904,assertive communication,1
+1906,sensitivity as temperament trait (hsp),1
+1907,acculturation and migration,1
+1908,purpose & meaning,1
+1910,adult children of alcoholics (acoa),1
+1899,young adult development,1
+1911,and growth,1
+1912,empaths and hsps (highly sensitive person),1
+1914,test taking,1
+1915,writer's block (creativity),1
+1916,self-knowledge,1
+1917,fidelity/infidelity,1
+1918,foster care and early loss,1
+1900,active duty and veterans,1
+1898,faith-based issues,1
+1880,binge eaters,1
+1888,attachment issues & trauma,1
+1881,artists and writers,1
+1882,co-parenting couseling,1
+1883,custody agreements,1
+1884,self worth,1
+1885,person growth and transformation,1
+1886,issues around acculturation,1
+1887,shadow work,1
+1889,cultural identity & immigrant identity,1
+1897,stepfamilies/blended families,1
+1890,college transition-parents and students,1
+1891,counseling that effects a child’s education,1
+1892,psychoeducational testing,1
+1893,cross-cultural themes,1
+1894,climate grief,1
+1895,gender transitions,1
+1896,specialty in acute/chronic medical illness,1
+1838,compassion fatigue/burnout; veterinary/animal care,1
+1835,twice-exceptional,1
+1751,fear of abandonment,1
+1780,social isolation & lonliness,1
+1773,did and systems,1
+1774,performance coaching,1
+1775,cultural-related issues,1
+1776,stalking,1
+1777,abortion and miscarriages,1
+1778,loss / life changes,1
+1779,tween issues,1
+1781,dyslexia testing,1
+1771,breast cancer diagnosis,1
+1782,gifted testing,1
+1783,dui court mandated counseling,1
+1784,integration of altered states of consciousness,1
+1785,psychological testing and evaluation,1
+1786,creativity for artists,1
+1787,adult issues,1
+1789,aca/co-dependence,1
+1772,trans & non binary people and their partners,1
+1770,well versed in combat trauma and complex ptsd,1
+1791,and life changes,1
+1760,compassion fatigue & burnout recovery,1
+1752,discovering life purpose,1
+1753,certified family wellness instructor by fwa,1
+1754,llc,1
+1755,certified anger management specialist by nama,1
+1756,hiv/aids and serious illness,1
+1757,identity rejection trauma,1
+1758,polyamorous and non-monogamous couples,1
+1761,transracial adoptee & prospective adoptiveparents,1
+1769,inner child specialist,1
+1762,severe mental illness,1
+1763,children and adolescents with disabilities,1
+1764,educational planning/ iep/ 504 plan,1
+1765,marginalization trauma,1
+1766,serving the independent school world,1
+1767,cancer treatment and survivorship,1
+1768,sexually integrity,1
+1790,premarital,1
+1792,adult self-harm,1
+1834,body image/food issues,1
+1824,sexual health & identity,1
+1817,low desire,1
+1818,emotional health,1
+1819,learning differences,1
+1820,dating issues for shy people,1
+1821,relationship coaching for couples and individuals,1
+1822,family recovery from addiction,1
+1823,therapy for creative individuals,1
+1825,sexual confidence,1
+1815,shame & vulnerability,1
+1827,job dissatisfaction,1
+1828,sibling relations,1
+1829,alternative life-styles,1
+1830,third culture kids,1
+1831,individuals,1
+1832,families of persons with severe mental illness,1
+1833,families of persons with substance addiction,1
+1816,bfrbs trichotillomania & skin picking,1
+1814,sexual boredom and dissatisfaction,1
+1793,suicidality,1
+1802,religious life transition,1
+1794,job loss,1
+1795,iui,1
+1796,work difficulties,1
+1798,somatic and sensorimotor processing issues,1
+1799,cultural identity & ancestral healing,1
+1800,sexual dysfunction in relationships,1
+1801,workaholism,1
+1803,life stress management,1
+1813,sex and substance use fusion,1
+1805,professional development,1
+1806,dating in the digital age,1
+1807,if you don't see your issue,1
+1808,call me,1
+1809,multicultural psychology/diversity,1
+1810,ifs,1
+1811,trauma professional,1
+2112,elite sports- high school and college,1
+2259,spiritual trauma/emerging extrasensory perception,1
+2114,writers,1
+2534,law enforcement population,1
+2517,medication consultation,1
+2518,social phobia,1
+2519,therapists,1
+2520,career-related stressors,1
+2521,stepfamily issues,1
+2522,heartmath mentor,1
+2523,animal connection and wellbeing,1
+2524,wedding officiant,1
+2525,spiritual coach,1
+2527,ritual abuse & mind control survivors,1
+2528,immigrant/biculturality,1
+2529,gender and identity,1
+2530,creating a different life story,1
+2531,body/mind psychology,1
+2532,sexual orientation/identity,1
+2516,empty nest issues,1
+2515,psychological impact of menopause,1
+2514,burn-out for care providers,1
+2505,gender specialist for youth and adults,1
+2499,special education consultation,1
+2500,psycho-educational evaluations,1
+2501,504 plans,1
+2502,iep's,1
+2503,writers-creative blocks,1
+2504,complex trauma-race & trauma,1
+2506,break-ups and dating,1
+2513,affairs in relationships,1
+2507,individual child,1
+2508,adolescent and family,1
+2509,gottman couples therapy,1
+2510,separation,1
+2511,foster parenting,1
+2512,early childhood ages 0-6,1
+2533,spiritual trauma,1
+2535,teenage pregnancy,1
+2497,public safety,1
+2536,dementia caregiving,1
+2555,women in life transition,1
+2556,indigenous praxis,1
+2557,capitalism trauma,1
+2558,radical/revolutionary community,1
+2559,racial justice,1
+2560,complex trauma (abuse,1
+2561,neglect,1
+2562,domestic violence),1
+2563,body image disturbance,1
+2564,co-morbid ocd & eating disorder,1
+2565,relationship coach/marriage coach,1
+2566,grief and loss. . ....death of a spouse,1
+2567,kinship families,1
+2568,lgbtqi,1
+2569,meaning and work,1
+2554,break-up support,1
+2553,dating difficulty,1
+2552,rebuilding trust within a relationship.,1
+2543,emotional affairs,1
+2537,dealing with a loved one's illness,1
+2538,mind body integration,1
+2539,shifts,1
+2540,color therapy,1
+2541,immigration evaluations trained,1
+2542,couples communication and resentment recovery,1
+2544,covid-19 isolation,1
+2551,teletherapy in california,1
+2545,chronic illness (cancer,1
+2546,heart disease),1
+2547,launching your twenty year old child,1
+2548,empowerment/personal growth,1
+2549,**pet loss**,1
+2550,men’s group therapy,1
+2498,older adutls,1
+2496,military & veteran families,1
+2422,workplace hostility,1
+2459,sexual identity or shame,1
+2442,cults/religious transitions,1
+2443,poly relationships,1
+2444,nervous system regulation,1
+2445,attachment style challenges,1
+2446,cognitive behavioral skills,1
+2447,mindfulness-based stress reduction,1
+2448,ketamine assisted psychotherapist,1
+2449,adult growth and development,1
+2451,gender identity. poly,1
+2452,self- acceptance,1
+2453,exec. functioning & processing deficits,1
+2454,co-occurring chronic pain and depression,1
+2455,psychedelic integration therapy,1
+2456,climate and eco-anxiety,1
+2457,sex & your relationship,1
+2441,survivorship,1
+2440,oppositional-defiant,1
+2439,trafficked/prostituted,1
+2430,avoidant restrictive food intake disorder (arfid),1
+2424,gastrointestinal distress - ibd/ibs focus,1
+2425,early attachment,1
+2426,recovery from narcissistic abuse,1
+2427,impostor syndrome,1
+2428,premarital - prepare/enrich,1
+2429,business & relationship coaching,1
+2431,surf therapy,1
+2438,moving ahead,1
+2432,attachment/parent-child relationship,1
+2433,early childhood (ages birth-5),1
+2434,fertility issues,1
+2435,relationships (love and work),1
+2436,cancer & coping with chronic illness,1
+2437,mind-body connectedness,1
+2458,race-based stress,1
+2460,polyamory or non-monogamy,1
+2495,marginalization + oppression,1
+2461,pre-teens and teens,1
+2480,body shame,1
+2481,music industry stressors,1
+2482,entertainment & creative stressors,1
+2483,adult caregivers,1
+2484,reentry from incarceration,1
+2485,website: dbtclb.com,1
+2486,adult survivors of childhood emotional abuse,1
+2487,business consultation & speaking,1
+2488,certified trauma treatment specialist,1
+2489,caregiver stress/compassion fatigue,1
+2490,immigration/cross-cultural issues,1
+2491,agency staff performance improvement,1
+2492,certified mbti master practitioner: collage/career,1
+2493,bi-cultural,1
+2494,queer and lgbtq issues,1
+2479,hoarding & cluttering,1
+2478,life transitions and aging,1
+2477,gay male identity,1
+2468,emotional aspects of medical illness,1
+2462,children of alcholics,1
+2463,bipolar spectrum disorders,1
+2464,non binary,1
+2465,under-performance at work/self-sabotage,1
+2466,fight/flight/freeze response,1
+2467,creative process  and aging issues,1
+2469,adjustment to life transitions,1
+2476,career related issues,1
+2470,adult victims/childhood sexual abus,1
+2471,health issues & diagnoses,1
+2472,interfaith/intercultural couples,1
+2473,serious medical challenges and self healing,1
+2474,meditation and intuitive development,1
+2475,perinatal trauma,1
+2570,prenatal and perinatal psychology health,1
+2571,consultant level emdr trauma specialist,1
+2572,unlearning racism,1
+2682,career management,1
+2666,bisexuality,1
+2667,custody and collaborative divorce,1
+2668,work/career issues,1
+2669,career burnout,1
+2670,lactation,1
+2671,alcoholics anonymous,1
+2672,12-step,1
+2673,narcotics anonymous,1
+2674,twin parenting support,1
+2675,goal attainment,1
+2676,life improvement,1
+2677,lgtbq allied,1
+2678,career uncertainty,1
+2679,teletherapy services,1
+2680,adjustment to aging and medical conditions,1
+2665,2 spirit,1
+2664,questioning,1
+2663,cultural negotiation,1
+2654,somatic specialization,1
+2647,internationals,1
+2648,immigration stress,1
+2649,academic and cultural adjustment,1
+2650,international students,1
+2651,organizers,1
+2652,intersex experience,1
+2655,multicultural bi/multiracial identity,1
+2662,grief and loss of pet,1
+2656,breast canter,1
+2657,working through nightmares,1
+2658,caretaker support,1
+2659,supporting mental health professionals,1
+2660,finding fulfillment in life,1
+2661,aging concerns,1
+2681,cognitive rehabilitation,1
+2683,life goals,1
+2573,highly sensitive children and adults,1
+2684,body-focused repetitive behaviors (bfrb),1
+2703,new mom,1
+2704,adjusting to motherhood,1
+2705,first responders (e.g.,1
+2706,police,1
+2707,emt),1
+2708,military veterans and families,1
+2709,parenting a child born prematurely,1
+2710,social justice and equality (and self-care),1
+2711,young adult - transitional aged youth,1
+2712,group and/or individual,1
+2713,biblical/spiritual,1
+2714,lgbtq issues,1
+2715,attachment and regulation,1
+2716,dating anxiety,1
+2717,teen/adolescent issues,1
+2702,college,1
+2701,online therapy to rural areas,1
+2700,sleeping,1
+2691,self fullfillment,1
+2685,child-centered play therapy,1
+2686,evaluations for sat/act accommodations,1
+2687,educational consultations,1
+2688,social skills/peer relationships,1
+2689,caregiving and care-receiving,1
+2690,discovering creativity,1
+2692,remote autism evaluations,1
+2699,senior care management,1
+2693,adult autism evaluations,1
+2694,couple midlife transitions,1
+2695,melancholy,1
+2696,self confidence,1
+2697,occupational stress,1
+2698,sexuality & identity issues,1
+2646,exploring gender identity,1
+2645,lgbt issues in the military,1
+2644,political anxiety,1
+2643,tele-therapy,1
+2592,marital,1
+2593,culturally responsive treatment,1
+2594,offender cases,1
+2595,co-parenting classes,1
+2596,couples therapy & groups,1
+2597,specializing in emotion-focused approach,1
+2598,cult issues,1
+2599,gender nonconforming,1
+2600,parent child therapy,1
+2601,hiv and cancer related mental health issues,1
+2602,private alcohol/addictions out-patient treatment,1
+2603,private marriage/couples workshops,1
+2604,latino/spanish counseling,1
+2605,climate change anxiety and environmental grief,1
+2606,interpersonal trauma/ intimate partner violence,1
+2591,court mandated anger management program,1
+2590,pre-marital and marital,1
+2589,managing school challenges,1
+2580,marital & premarital couples issues,1
+2574,infant-family early childhood mental health,1
+2575,recovery/growth after displacement,1
+2576,creative dance psychology,1
+2577,bfrb's,1
+2578,fetal loss/grief,1
+2579,enuresis/bedwetting,1
+2581,caregiving aging parents,1
+2588,building self-confidence,1
+2582,memory and capacity,1
+2583,non-ordinary consciousness integration,1
+2584,pre-marital counseling using prepare/enrich,1
+2585,cancer treatment and terminal cancer,1
+2586,complex post traumatic stress disorder - cptsd,1
+2587,narcissistic abuse syndrome,1
+2607,oncology,1
+2608,nerd culture,1
+2609,sex positive/kink friendly,1
+2635,healthy relationships/sexuality,1
+2629,dialectical behavioral therapy,1
+2630,experience working with immigrants,1
+2631,learning disabilites/adhd,1
+2632,language delays,1
+2633,pmdd premenstrual dysphoric disorder & pme,1
+2634,spiritual emergencies,1
+2636,intuitive guidance,1
+2627,daily life stuggles and issues. somatic issue,1
+2637,animal behavioral healer,1
+2638,couples counselng,1
+2639,asian american related issues,1
+2640,family members of people with mental health issues,1
+2641,narcissistic abuse survivors,1
+2642,work-life issues,1
+2628,stress-related health issues,1
+2626,relationship issues after children,1
+2610,energy work,1
+2617,lgbt-friendly,1
+2611,women empowerment,1
+2612,mindfulness training,1
+2613,gender non-conforming/non-binary,1
+2614,people with autism in relationships,1
+2615,personality adjustment,1
+2616,rape crisis,1
+2618,mentorship | professional facilitation,1
+2625,academic success,1
+2619,emotional wellness,1
+2620,first responder resiliency,1
+2621,transgender gender affirmation letters,1
+2622,hearing voices,1
+2623,"young adults & ""transition-age youth""",1
+2624,consensual nonmonogamy/polyamory,1
+2423,spiritual and existential questions,1
+2421,parenting gate children,1
+2115,lawyers,1
+2232,overwhelmed,1
+2216,midlife transitional issues,1
+2217,christianity and lgbtq,1
+2218,divorce issues,1
+2219,midlife 50+,1
+2220,narcissistic abuse (complex ptsd),1
+2221,hypnotic dream work (tm),1
+2222,step-parenting and adoption,1
+2223,adult children of dysfunctional families,1
+2224,pregnancy and postpartum issues,1
+2225,couple conflict resolution,1
+2226,veterans and first responders,1
+2227,empath,1
+2228,phobia's,1
+2229,young adult/college issues,1
+2230,private alcohol/addictions workshops,1
+2215,emdr and flash & clinical hypnosis,1
+2214,special education/iep,1
+2213,self-realization,1
+2204,ambiguous loss/grief,1
+2197,culturally sensitive & lgbtqai affirming,1
+2198,neurolopsychological assessment,1
+2199,attachment distributions,1
+2200,parenting after trauma,1
+2202,mind-body psychotherapy,1
+2203,chronic sexual pain,1
+2205,parental alienation and estrangement,1
+2212,cultural conflicts,1
+2206,cancer-related issues,1
+2207,autism spectrum discorder,1
+2208,artist issues,1
+2209,lack of intimacy,1
+2210,emotional immaturity,1
+2211,generational issues (first and second generation),1
+2231,confidence,1
+2233,helping creative personalities,1
+2195,school-related,1
+2234,parent/child issues,1
+2255,older adult,1
+2256,caregiver,1
+2257,williams syndrome,1
+2258,sexual abuse victim,1
+1585,depth psychology & understanding dr,1
+2260,childhood trauma & self love deficiency,1
+2261,gender identity/transgender issues,1
+2262,self care & burnout prevention,1
+2263,psychodiagnostic testing and evaluation,1
+2264,academic testing and evaluation,1
+2265,strategic business coaching,1
+2266,parenting teens,1
+2267,poly and/or kink relationships,1
+2268,covid-19 related symptoms,1
+2269,coping w/chronic illnesses (fibro/cfs),1
+2254,i provide clinical supervision,1
+2253,dissociative identity disorder,1
+2252,c-ptsd/childhood trauma,1
+2242,attention,1
+2235,communication and self esteem,1
+2236,death/loss,1
+2237,low self esteem abuse,1
+2238,south asain community,1
+2239,couples/marital,1
+2241,writing,1
+2243,third party reproduction,1
+2251,spiritual transitions,1
+2244,medical hypnosis,1
+2245,transracial/transcultural adoption,1
+2246,creativity mobilization,1
+2247,social skill coaching,1
+2248,creativity/creative blocks,1
+2250,food and body-image issues,1
+2196,ambitious professionals& healthcare professionals,1
+2193,workplace/career issues,1
+2420,sex trafficking,1
+2155,value and worth,1
+2138,emotional distress,1
+2139,twice-exceptional children (2e),1
+2140,care-giver support issues,1
+2141,multicultural counseling,1
+2142,feminist therapy,1
+2144,caregiver burn out,1
+2145,lgbtq issues / empowerment,1
+2146,post immigration integration & adjustment struggle,1
+2147,emdr certified and a consultant for trauma/ptsd,1
+2148,stress resilence,1
+2149,behavior problems and anger,1
+2150,learning difficulty,1
+2151,navigating a gender identity transition,1
+2152,mid-life crises,1
+2153,social skills group,1
+2137,military personnel,1
+2135,police staff,1
+2134,pre-employment psychological evaluations & ffdes,1
+2123,spiritual abuse; self-growth; enneagram,1
+2117,lgbtq+ population,1
+2118,pre and post placement adoption issues,1
+2119,shame and low self-esteem,1
+2120,narcissistic abuse victims,1
+2121,issues relating to military lifestyle,1
+2122,teen relationship violence,1
+2124,sex and intimacy,1
+2132,employment stress,1
+2125,stage of life transition,1
+2126,grand parenting,1
+2127,body image and disordered eating,1
+2128,traumatic birth,1
+2130,highly sensitive people and empaths,1
+2131,foster parenting/foster youth,1
+2154,inner child/attachment wounds,1
+2156,self-love,1
+2192,south asian mental health,1
+2157,faith-based,1
+2177,families of choice and blended families,1
+2178,school based services,1
+2179,at risk youth,1
+2180,transitional age youth,1
+2181,infancy and early childhood,1
+2182,latino mental health,1
+2183,millennial issues,1
+2184,latine/latinx,1
+2185,hakomi-rc-s,1
+2186,re-creation of self,1
+2187,couples conflict,1
+2188,masters program required therapy,1
+2189,"professional ""burnout""; career goal coaching",1
+2190,mft interns,1
+2191,first generation immigrants,1
+2176,utilizing jungian psychology & buddhist psychology,1
+2175,specializing in people in transition,1
+2174,psychedelic preparation & integration,1
+2164,dept. child & family services cases,1
+2158,sand play therapy,1
+2159,entertainment / music professionals,1
+2160,problems with motivation,1
+2161,shamanic practices,1
+2162,eft work with couples,1
+2163,brainspotting & emdr for trauma/anxiety/addictions,1
+2165,test/performance anxiety,1
+2172,testing for gender reassignment,1
+2166,drug addiction of loved ones,1
+2167,asps,1
+2168,circadian rhythm disorders: dsps,1
+2169,jet lag,1
+2170,circadian rhythm disorders: shift work,1
+2171,and poly relationships,1
+2270,life coaching/transitions,1
+2271,gifted students and adults,1
+2272,recovery from religious trauma,1
+2383,open,1
+2367,issues related to culture & immigration,1
+2368,clergy,1
+2369,psych assessment bariatric,1
+2370,professional and creative blocks,1
+2371,families and caregivers,1
+2372,victims of crime provider,1
+2373,family work-life balance,1
+2374,parenting children with disabilities,1
+2375,neuropsychological testing,1
+2376,postpartum ptsd,1
+2377,postpartum anxiety,1
+2378,trauma resolution,1
+2379,multicultural concerns,1
+2380,self growth,1
+2381,graduate school stress,1
+2366,neurodivergency,1
+2365,life purpose and direction,1
+2364,foster care issues/placement,1
+2355,lack of faith,1
+2349,somatic symptoms,1
+2350,chronic illness & disease management,1
+2351,sexual trauma,1
+2352,teens who bully/bullied teens,1
+2353,improving self,1
+2354,issues with faith,1
+2356,youth and teens,1
+2363,juvenile delinquency,1
+2357,stop smoking,1
+2358,2e-; twice exceptional,1
+2359,working with the gifted student,1
+2360,testing: psychological & education,1
+2361,separation from the natural world,1
+2362,pre-teens & adolescents,1
+2382,tobacco use disorder,1
+2384,ethical non-monogamy (enm),1
+2273,women,1
+2385,lack of spontaneity,1
+2404,narrcissim,1
+2405,aging issues,1
+2406,veteran's issues,1
+2407,active duty military,1
+2409,online/video counseling,1
+2410,trauma sensitive yoga,1
+2411,pact couples therapy,1
+2412,blended/step family,1
+2413,life unfulfillment,1
+2414,childhood stress,1
+2415,processing past family,1
+2416,gifted/creative,1
+2417,professional women,1
+2418,certified in trauma-focused cbt,1
+2419,emdr for complex trauma,1
+2403,bpd,1
+2402,first responder post-trauma and moral injury,1
+2401,military connected post-trauma and moral injury,1
+2392,bariatric,1
+2386,single parents,1
+2387,psychological screenings for egg donors/surrogates,1
+2388,attachment issues/trauma,1
+2389,leadership/management development,1
+2390,aging & retirement,1
+2391,tf-cbt,1
+2393,transitioning,1
+2400,gynecomastia,1
+2394,puzzling fantasy and dreams,1
+2395,existential ennui & dread of the future,1
+2396,intrusive thoughts,1
+2397,individual counseling,1
+2398,confidence building,1
+2399,communication problems,1
+2348,pnes,1
+2347,pseudo seizures,1
+2346,functional neurological symptom disorder (fnsd),1
+2345,brainspotting therapist,1
+2294,1st generation,1
+2295,workplace wellness,1
+2296,parents of multiples,1
+2297,recovery coaching,1
+2298,intercultural relationships and identity,1
+2299,coaching for singles,1
+2300,multiple chemical sensitivity,1
+2301,traditional japanese reiki (energy healing),1
+2302,betrayal,1
+2303,self esteem issues,1
+2304,biblical counseling,1
+2305,non traditional relationship issues,1
+2306,cultural discourse,1
+2307,adjusting to a different culture,1
+2308,holocaust,1
+2293,bi-racial/bi-cultural,1
+2291,intention setting & integration therapy,1
+2290,neuropsychological rehabilitation treatment,1
+2280,sexual dysfunction and impotence,1
+2274,adventure therapy,1
+2275,sexual confusion,1
+2276,obsessions,1
+2277,sudden loss of a family member,1
+2278,veteran,1
+2279,specialize in art therapy,1
+2281,coping.communication skills,1
+2288,acculturation/immigration issues,1
+2282,birth to five mental health,1
+2283,internalized homophobia,1
+2284,aging adult,1
+2285,divorce recovery,1
+2286,healing from being victimized by anti black racism,1
+2287,cross-cultural couples,1
+2309,ketamine assisted therapy,1
+2310,psychedelic therapy integration,1
+2311,periods of reorientation,1
+2337,grief and bereavement,1
+2331,entheogenic/psychedelic integration,1
+2332,kink-affirm,1
+2333,existential dread,1
+2334,alternative sexual relationships,1
+2335,faith crisis,1
+2336,eating problems,1
+2338,trauma-focused cognitive behavioral therapy cert,1
+2329,food and eating concerns,1
+2339,gottman method level 1,1
+2340,multicultural/systemic,1
+2341,mindfulness-based therapy,1
+2342,guidance for parents of children in entertainment,1
+2343,singers,1
+2344,young adult life transitions,1
+2330,holistic coaching,1
+2328,coming out/transitioning,1
+2312,neglect issues,1
+2319,adult child of alcoholic & parent of drug addict,1
+2313,psychotherapy for mental health professionals,1
+2314,enhancing creative performance,1
+2315,first responders’ issues,1
+2316,financial anxiety,1
+2317,self injury,1
+2318,lgbtqia affirming,1
+2320,covid losses,1
+2327,tic disorders,1
+2321,lgbtq welcoming,1
+2322,social emotional learning,1
+2323,executive functioning (organization,1
+2324,planning),1
+2325,relaxation,1
+2326,and teen and young adult issues,1
+1586,zoom,1
+1359,neuropsychological evaluation,1
+1584,purpose,1
+681,1st and 2nd generation immigrant experiences,1
+673,commercial sexual exploitation,1
+675,mindful sexuality,1
+676,overthinking,1
+677,religious trauma - (organized religion/jw's,1
+679,applied sports & health psychology,1
+680,cancer or other terminal illness,1
+683,forensic & immigration evals: expert testimony,1
+671,chronic medical conditions,1
+684,counseling specifically for neurotypical couples,1
+685,infidelity affair recovery,1
+686,bipoc mental health,1
+687,psychedelic preparation and integration,1
+689,guilt,1
+690,women issues,1
+672,certified in emdr,1
+669,college stress,1
+645,specialization in family mediation,1
+656,divorce/separation with or without children,1
+650,military members and their families,1
+651,divorce coaching & collaborative divorce mediation,1
+652,mid-life women's issues,1
+653,experience working with artists/actors/writers,1
+654,medically-related anxiety,1
+655,first responders (police/fire),1
+657,family system issues,1
+668,adult children of narcissistic families,1
+660,identify issues,1
+661,airline industry,1
+662,nutrition counseling,1
+663,adults conceived through artificial insemination,1
+666,donor sperm and egg consultations,1
+667,teen and young adults,1
+692,career/professional challenges,1
+695,goal achievement for professionals,1
+697,only child dynamics,1
+731,special needs and unique situations,1
+723,flow,1
+724,connection,1
+725,balance,1
+727,self-determination,1
+729,spanish speaking therapist,1
+730,sports - performance anxiety,1
+732,help with life changes and transitions,1
+699,treatment of negative psychadelic experience,1
+733,court-ordered assessments,1
+734,work life balance,1
+735,ingenuity,1
+736,healthy living,1
+737,harassment,1
+738,personal coaching,1
+722,in-home decluttering help,1
+721,health at any size; detransitioners,1
+720,philosophical (stoicism),1
+719,college & career adjustment,1
+717,sexual behavior problems,1
+716,intimacy problems,1
+715,yoga for mental health issues,1
+713,open relationships & kink,1
+711,cnm,1
+707,law enforcement service related trauma,1
+706,military service related trauma,1
+705,i am offering my services at a discounted rate,1
+704,certified in working with first responders,1
+703,dermatillomania (skin-picking),1
+702,life transitions and changes,1
+701,young adults: finding yourself,1
+700,self-assertion,1
+647,values/meaning,1
+644,family and parenting coaching,1
+741,collaborative divorce coaching,1
+582,childhood trauma and combat ptsd,1
+572,financial depression and financial wellness,1
+573,financial stress and anxiety,1
+576,dyspraxia,1
+579,spiritual conflict,1
+580,single women's issues,1
+581,assisted reproductive technology (art),1
+583,supervision for asw's who need lcsw supervision,1
+570,meth/sex addiction,1
+584,image consulting,1
+585,corona virus covid-19 anxieties and concerns,1
+586,thyroid problem issues and support,1
+587,foster youth and families,1
+588,military culture,1
+590,habit development,1
+571,bipolar conditions,1
+568,adult and parent counseling,1
+643,accountability & motivation,1
+555,young survivors of cancer,1
+544,i ching,1
+546,culture shock,1
+548,sex positivity,1
+551,and lgbtq friendly,1
+552,paganism,1
+554,tay/former foster youth,1
+557,childhood attachment and bonding,1
+566,dot return to duty evaluations,1
+558,pre-postpartum issues,1
+560,criminal/juvenile justice,1
+561,people trying to find their purpose,1
+562,self-sabotaging behavior,1
+563,overcoming creative blocks,1
+565,therapist for helping professionals,1
+592,lgbtq affirmative care,1
+593,first generation students,1
+594,neurodivergance,1
+631,parental support and psychoeducation,1
+619,12-step familiar,1
+624,groups and conferences,1
+625,hardship immigration evaluations,1
+626,spanish classes,1
+629,care provider stress,1
+630,adjusting to changes in life due to the pandemic,1
+632,lectures,1
+596,cultivating intimacy,1
+637,men in family life,1
+638,foster care parents,1
+639,transitional life issues,1
+640,relationships (dating,1
+641,co-habitation,1
+642,singles),1
+618,affected by loved one’s addiction,1
+617,highly sensitive persons (hsp),1
+616,resilience training,1
+614,lyme/chronic illness literate,1
+613,neuropsychology informed,1
+612,couple conflict,1
+610,life confusion,1
+609,couples on the brink of divorce,1
+608,confusion about relationships or career,1
+607,vegan friendly,1
+605,positive psychology / strength-based,1
+604,cultural humility,1
+603,divorce prevention,1
+602,pelvic pain & birth trauma,1
+600,parents of adult children and relational issues,1
+599,anger management issues,1
+598,also court ordered,1
+740,parenting coordination / special master,1
+742,racial discrimination,1
+943,skillful enough to work with anyone,1
+880,attachement and intimacy dissorder,1
+870,communication skills/assertiveness,1
+871,fat acceptance,1
+873,academic disabilities and special education,1
+875,stage of life issues,1
+876,introversion,1
+879,first responder,1
+882,repetitive interpersonal patterns,1
+865,post-cult trauma,1
+883,persona/shadow work,1
+886,co-narcissism,1
+887,the feminine,1
+889,personal and professional development,1
+890,coping with major transitions,1
+893,multiple counselors with years of experience,1
+869,immigration/acculturation issues/stressors,1
+864,chronic health problems,1
+842,death anxiety,1
+852,abandonment,1
+844,life/career/executive/relationship coaching,1
+845,and diversity issues,1
+846,expert witness; qualified medical evaluator (qme),1
+849,intimacy and attachment,1
+850,partner trauma,1
+851,parental incarceration,1
+854,school/peer pressure,1
+863,positive parenting,1
+855,mindfulness-based practices for well-being,1
+857,millennials,1
+859,highly sensitive people (hsps) and empaths,1
+860,infidelity/affairs,1
+861,"traditional and ""nontraditional"" relationships",1
+862,child abuse/neglect,1
+894,working with a variety of challenges,1
+896,online therapy,1
+899,dei in tech / corporate culture,1
+930,twins,1
+921,weight loss surgery education + support,1
+922,c-ptsd and ptsd for non-binary and queer clients,1
+923,dissociative identity disorder/osdd,1
+924,clinical consultation,1
+925,parenting skills training,1
+929,research and writing blocks,1
+931,life's transitions,1
+900,addressing micro-aggressions & systemic oppression,1
+933,work/career issues: executive coaching,1
+934,life transitions for former professional athletes,1
+935,medical/neurological conditions,1
+939,wheel-chair bound,1
+940,sci,1
+941,rapid trauma resolution therapy. see my website,1
+920,adult children of alcoholics (aca),1
+918,aging related issues,1
+917,lgbtqqiaap,1
+916,sexual and gender minority stress,1
+915,integration,1
+914,embodiment,1
+913,christian counseling - seventh-day adventist,1
+912,micro-nutrition and mental health,1
+911,isolation and loneliness,1
+910,gender(s) and sexualities,1
+908,internet compulsivity,1
+907,faith-related betrayal and shame,1
+906,neurological conditions,1
+904,seizures,1
+903,dysfunctional family systems,1
+902,suicide prevention and intervention,1
+901,experience in crisis work,1
+843,speaker for lgbt,1
+839,couple psychotherapy coparent counseling,1
+743,non-binary gender identities,1
+777,eap (employee assistance referral),1
+769,cross-cultural therapy,1
+770,and hypnosis,1
+771,parenting young children,1
+773,conscious non-monogamy and polyamory,1
+774,sexuality and,1
+776,or gender,1
+778,psychological testing and monitoring,1
+767,business coaching,1
+781,holistic health,1
+782,teens & children,1
+783,sex/sexuality,1
+784,nonmonogamy/relationship issues,1
+785,dealing with the stress of a cancer diagnosis,1
+786,i work with many on the performance arts world,1
+768,reiki healing,1
+766,cognitive decline-depression/anxiety-grief,1
+838,fatigue,1
+754,mangier's,1
+744,lgbtq identities,1
+745,imago couples therapy,1
+747,tinnetus,1
+748,endometriosis,1
+750,court ordered therapy,1
+753,functional,1
+756,somatic awareness,1
+765,fully trained in emdr,1
+758,balancing work and raising young children,1
+759,emotional connection,1
+760,caregiver issues,1
+761,men in mid-life,1
+762,coping with personal or familial health diagnosis,1
+763,post partum depression and anxiety,1
+789,gender queer & non-conforming,1
+792,assimilation / acculturation issues,1
+794,children and teens,1
+826,emdr psychotherapist certified by emdria,1
+819,differential diagnosis,1
+821,intergenerational cultural trauma,1
+822,relatives of addicts,1
+823,southeast asian,1
+824,middle-east,1
+825,acculturation: asian,1
+827,phase of life issue,1
+795,sobriety/recovery,1
+828,widowhood/partner loss,1
+830,abortion/termination,1
+833,giftedness in children and adults,1
+834,emotion regulation and coping,1
+835,multiracial couples,1
+836,burnout prevention,1
+818,school - bullying,1
+815,first generational issues,1
+814,cultural and generational issues,1
+813,divorce parenting plans,1
+812,cancer. pet loss,1
+811,attachment exploration,1
+810,complex/developmental trauma,1
+809,twice exceptional (gifted + challenge),1
+808,space treatment for anxious youth,1
+807,social cognitive issues,1
+806,inner critic artist issues,1
+804,caregiving burnout & compassionate fatigue,1
+801,sleep problems,1
+800,self-discovery,1
+799,polyamorous relationship issues,1
+797,cance,1
+796,binge eating without purging,1
+543,bach flower remedies,1
+542,multicultural familes,1
+541,terapia en español,1
+241,spiritual awakening,1
+232,gifted and twice exceptional,1
+233,adult psychoanalytic psychotherapy,1
+235,please our center for children and teen at,1
+236,www.mychildadhd.com,1
+239,dating at midlife. fearfull but not impossible,1
+240,dating after divorce; single 40+,1
+243,poly/open relationship difficulties,1
+229,putting others' needs before your own,1
+247,unplanned pregnancy,1
+256,perfection struggles,1
+258,multiethinic/multiracial identity,1
+260,working with adolescents and young men,1
+261,rituals for self-care,1
+263,self-actualization process for young adults,1
+230,self-defeating behaviors,1
+223,grief and loss/depression/inner child issues,1
+200,nature deficit disorder,1
+212,birth,1
+203,culture,1
+204,cancer in the family,1
+205,high sensitivity/sensory processing sensitivity,1
+206,healing emotional pain with yoga,1
+208,workplace grief/performance/incidence,1
+209,multiracial idenity + relationships,1
+213,authentic parenting,1
+222,adult transition/ life stages/ spirituality,1
+214,challenging transitions,1
+215,whining,1
+216,tantrums,1
+217,power struggles,1
+220,separation and divorce,1
+221,asian-american intergenerational conflict,1
+264,bilingual in spanish or afrikaans for all issues,1
+266,polyamourous relationships,1
+267,adolsecence and young adulthood,1
+310,unblocking creativity,1
+299,divorced family issues,1
+301,change of life issues,1
+303,leadership coaching,1
+307,sleep training/challenges,1
+308,school/iep support,1
+309,toilet training,1
+312,general anxiety,1
+268,phase of life/development,1
+313,24/7 laser coaching,1
+314,free-e-bookself-care/boundaries@kathydigiacomo.com,1
+315,deaf,1
+316,hard of hearing and coda culture,1
+317,divorce and blended family isues,1
+318,disability and pre-surgical evaluations,1
+298,al-anon etc,1
+297,na,1
+296,support with 12 step recovery: aa,1
+292,日本語,1
+291,transgender identity,1
+290,adult child-parent and adult sibling relationships,1
+288,neglect and loss,1
+286,cultural/racial/sexual/life issues,1
+285,general well-being and maintenance,1
+284,academic troubles,1
+283,body positive- mental health care for all bodies,1
+281,climate change,1
+280,ecoanxiety,1
+279,clinical supervision for amft/asw/apccs,1
+274,neurodevelopmental disorders,1
+272,many of my clients are therapists themselves,1
+269,tics and tourette's syndrome,1
+202,college/grad students,1
+197,work related trauma,1
+540,adult children of alcoholics/narcissists,1
+127,test taking anxiety,1
+112,stresses of daily living changing behav,1
+113,pre-bariatric evaluations/post bariatric support,1
+114,mindfulness practice,1
+115,youth,1
+119,elders,1
+126,boundary and expectation issues,1
+128,performance issues,1
+107,ritual/cultic abuse,1
+129,infant and child loss,1
+130,thought disorders,1
+134,abandonment trauma,1
+135,highly sensitive people (hsp's),1
+137,multicultural understanding,1
+141,children & adolescents,1
+110,loneliness mindfulness,1
+106,executive/corporate/workplace issues,1
+195,evaluations for gastric bypass surg,1
+88,clinical/medical / hypnosis,1
+14,generational truama,1
+75,long standing family alienation issues,1
+77,interpersonal boundary issues,1
+78,young adult launching & life transitions,1
+85,inner critic issues,1
+87,athletic retirement transitions,1
+91,male survivors of sexual abuse,1
+103,auto-immune,1
+92,forensic assessment and evaluation,1
+94,pandemic support,1
+96,creatives,1
+97,and entertainment industry,1
+100,shame and perfectionism,1
+102,hypno-birthing,1
+142,parenting support,1
+143,emdr w/ infants,1
+145,cultural competency,1
+185,life line therapy and hyponsis training,1
+176,relationship disconnect,1
+177,self-doubt,1
+178,healing the mother/ daughter dynamic,1
+179,self care strategies for women,1
+183,coping with pandemic loneliness and limitations,1
+184,adulting,1
+186,accelerated personal development,1
+146,ieps,1
+187,nlp,1
+188,female empowerment,1
+189,video-therapy,1
+190,welcome atmosphere to lgbtqia2s+,1
+191,black lives matter,1
+192,transition/considerations about retirement,1
+174,socio-political stress,1
+173,intersectional identities,1
+172,men's psychology,1
+171,graduate students' required treatment hours,1
+170,life decisions,1
+166,lgbt*q+,1
+165,covid related stress,1
+162,academic problems,1
+161,teen issues: social issues,1
+160,interpersonal,1
+158,coming out process,1
+157,cultural isses,1
+156,psychedelic medicine integration work,1
+155,low sexual desire,1
+153,infant mental health,1
+151,early childhood (birth-age 5),1
+150,covid-19 support,1
+320,post pre-employment appeals,1
+321,overwhelm,1
+322,insecurities,1
+473,coping with a medical illness,1
+464,certification training in perinatal mood disorders,1
+467,food and mood,1
+468,concierge psychology,1
+469,teen health,1
+470,sexual compulsive disorders,1
+472,couples therapy: trained in eft,1
+474,fear,1
+462,vawa,1
+475,adult children of alcohol or other dysfunction,1
+476,supervision for asw licensees,1
+477,mindfulness based cognitive therapy certified,1
+478,emdr therapy,1
+479,couples sexuality issues,1
+485,specializing in sexuality concerns,1
+463,evaluaciones para imigracion/ uvisas,1
+461,immigration/acculturation stressors,1
+323,pressure,1
+445,adults with severe childhood trauma,1
+437,families of high-conflict divorce,1
+439,child welfare,1
+440,marrital crisis such as infidelity,1
+441,relationship distress,1
+442,caregiver fatigue,1
+443,pandemic fatigue,1
+448,spiritual,1
+460,daca,1
+451,arranged marriages (and hidden dating),1
+452,marriage and family issues,1
+454,relationship rescue,1
+456,imago relationship therapy,1
+457,focus oriented art therapy,1
+459,i am committed to being anti-racist,1
+486,violent loss/complicated grief,1
+487,lgbtqai sexual orientation and gender questioning,1
+488,hormone replacement therapy,1
+529,immigration (monolingual/bilingual needs),1
+521,attachment and relationship issues caregiver,1
+522,behavior support,1
+523,bi-cultural issues,1
+524,nutrition planning,1
+525,surviving infidelity,1
+528,fear/phobia-public speaking-motivation,1
+531,ho'oponopono,1
+490,end of life care,1
+533,independent education exams; forensic exams,1
+534,neuropsychological exam; brain injury; concussion,1
+536,forensic psychology:  criminal and personal injury,1
+537,parents of autistic children,1
+538,lgbtq+ concerns,1
+539,veteran issues/reintegration to civilian life,1
+520,see website for thorough review,1
+514,adult autism spectrum disorder,1
+511,relapse prevention for addicitive behaviors,1
+510,individuals working in the entertainment industry,1
+509,somatic experiencing trauma resolution,1
+508,buddhist spiritual development,1
+507,sexual dysfunctions,1
+503,decision making,1
+501,therapists who treat other therapists,1
+500,stage of life change for seniors,1
+499,specialty groups,1
+498,exposure treatment,1
+497,enneagram,1
+496,naturopathic/holistic/natural/mind-body,1
+495,teens and young adults,1
+494,nutrition & integrative medicine for mental health,1
+493,school mental health consultant,1
+431,memory loss / cognitive changes,1
+430,faith integration - christian,1
+428,deafness,1
+355,childhood and adolescent trauma,1
+348,work - life issues,1
+349,burnout  and compassion fatigue,1
+350,couples therapy/ life changes,1
+351,boundary setting in relationships,1
+352,attachment related issues,1
+354,parent child relationship/parenting skills,1
+357,cancer issues,1
+373,nutrition & herbs,1
+359,racial stress,1
+360,emdr and brainspotting,1
+361,fundamental religious/ cult trauma,1
+367,harm obsessive compulsive disorder (ocd),1
+368,derealization,1
+370,difficulties with adult children,1
+347,behaviors,1
+346,self-defeating attitudes,1
+345,creativity and performance enhancement,1
+343,creative professionals/ entertainment industry,1
+342,geeks/ nerds,1
+339,group treatment using the arts,1
+338,human sexuality issues,1
+337,caregiver concerns,1
+336,qualified us dot substance abuse professional,1
+335,animal-assisted / esa support  / pet grief & loss,1
+334,veteran and military family therapy,1
+331,imposter syndrome for mandarin speakers,1
+330,early psychosis among teens,1
+327,immigrants and those with immigrant parents,1
+326,healthcare professional-work life balance,1
+325,cultural sensitivity,1
+324,spanish speaking,1
+371,aging and/or chronic illness,1
+374,managing natural medicine,1
+426,memory disorders,1
+412,same-sex/gender parents,1
+403,intensive outpatient drug rehabs san diego,1
+404,gender identity/gender expression/differentness,1
+405,chronic pain/invisible pain,1
+407,workplace challenges,1
+409,social issues,1
+410,lying,1
+413,same-sex/gender families,1
+375,integration of healthcare & self care,1
+414,non-binary/genderqueer,1
+416,poor/working class,1
+418,bi/multiracial,1
+419,life after being diagnosed with cancer,1
+420,covid19 related issues,1
+422,fetishes,1
+402,inpatient and iop drug rehabs san diego,1
+401,0-5 parent child psychotherapy,1
+400,breakup recovery,1
+398,pregnancy and postpartum related,1
+397,dream analysis,1
+395,mind-body,1
+392,twice exceptional (2e),1
+391,incorporate mindful meditation,1
+390,belonging or feeling different,1
+389,504 accommodation/modification,1
+388,parent/student advocacy,1
+387,sex and sexuality,1
+386,survivors of human trafficking,1
+383,perinatal concerns/postpartum depre,1
+381,fat positive,1
+378,de-colonization process,1
+377,ifs informed,1
+942,we are relationship experts,1
+944,body-mind wellness,1
+1583,& identity crisis,1
+1378,work/llife balance,1
+1372,educational and psychological testi,1
+1373,losses due to suicide. spiritual bypass,1
+1374,workers compensation,1
+1375,parenting classes and groups,1
+1376,mental health/ministry workers,1
+1377,aapi mental health,1
+1379,court-involved/coparenting/reunification,1
+1370,team interventions,1
+1380,middle-eastern/south asian/pakistani families,1
+1381,shame/guilt,1
+1382,adjustment difficulties,1
+1383,artistic and creative processes,1
+1384,acculturation and immigration,1
+1385,executive dysfunction,1
+1371,polyamory/ethical non-monogamy,1
+1369,conflict mediation,1
+1350,spirituality confusion,1
+1360,mixed race identity,1
+1352,adults coping with childhood trauma,1
+1353,organizational/business coaching,1
+1354,food and eating disorders,1
+1355,first generation asian american struggles,1
+1356,kink/ alt sex,1
+1357,alt relationships & polyamory,1
+1361,family trauma,1
+1368,transgenerational transmission of trauma,1
+1362,faith deconstructions,1
+1363,marital couples avoiding divorce,1
+1364,financial stress,1
+1365,abuse and anxiety,1
+1366,social media use,1
+1367,peer attachment and parenting,1
+1386,resolution counseling,1
+1387,emdr therapy / (emdr couple retreats available),1
+1389,orgasm,1
+1416,adults abused as children,1
+1410,ayurveda wellness coaching,1
+1411,peristeam facilitator,1
+1412,spirituality (exploration,1
+1413,doubt,1
+1414,exploring identity,1
+1415,marriage and relationship issues,1
+1417,emdr certified for trauma work,1
+1391,arousal,1
+1418,career issues/work stress,1
+1419,creative block. hsp,1
+1420,criminal behaviors,1
+1421,hardship evaluations for immigration,1
+1422,firefighter challenges,1
+1423,officer challenges,1
+1409,birth to five,1
+1407,self-parenting your emotional wounds,1
+1406,development of your selfhood!,1
+1405,pregnancy & new parenthood,1
+1404,military deployments,1
+1403,nutritional counseling for food/weight/body image,1
+1402,u visa,1
+1401,cancellation of removal,1
+1400,601 waiver,1
+1399,immigration evaluations for vawa,1
+1398,capacity assessment,1
+1397,geriatrics/dementia,1
+1396,lack of direction and purpose,1
+1395,lgbtq specific issues,1
+1394,musicians and executives,1
+1393,erections,1
+1392,desire disorders,1
+1351,seeking insight of past psychological labels,1
+1349,adult children of addicted parents,1
+1426,reunification family therapy,1
+1298,parenting a child with special needs,1
+1291,family of addicts,1
+1292,caregiver/child attachment issues,1
+1293,late-life depression,1
+1294,transition to surviorship,1
+1296,executive and leadership related coaching,1
+1297,including midlife,1
+1300,accessing joy & play,1
+1289,immigration & acculturation issues,1
+1301,infidelity issues,1
+1302,heart rate variability biofeedback,1
+1303,gottman level 3 certified,1
+1304,kink affirming,1
+1305,polyamorous/enm affirming,1
+1306,sleep health,1
+1290,increasing emotional maturity in relationships,1
+1288,surrogacy relationships,1
+1348,consensual or ethical non monogamy (cnm or enm),1
+1279,wanting a happier,1
+1273,infant/toddler sleep expertise,1
+1274,trauma  (tre®),1
+1275,astrology,1
+1276,tarot,1
+1277,jungian depth therapy,1
+1278,i incorporate dreams,1
+1280,more fulfilling life with joy,1
+1287,egg donor,1
+1281,laughter and a peaceful heart,1
+1282,stress on successful/gifted people,1
+1283,former foster youth,1
+1284,adult children of toxic parents,1
+1285,developmental model of couples therapy,1
+1286,gottman method couples therapy,1
+1307,behavioral sleep medicine,1
+1308,medical-legal evaluations for court,1
+1309,workers compensations /psychological treatment,1
+1339,forgiveness & resentment,1
+1331,creative challenges,1
+1332,body focused repetitive behaviors (bfrb's),1
+1333,all responders,1
+1334,1st-2nd generational experiences,1
+1335,low self-esteem/boundaries,1
+1337,human & sex trafficking survivors,1
+1340,mediation services,1
+1310,children of narcissistic/borderline parents,1
+1341,emdr training hours,1
+1342,cross-cultural adaptation issues,1
+1343,standardized testing accommodations assessment,1
+1345,porn dependency,1
+1346,compulsion,1
+1347,adult sibling conflict resolution,1
+1330,aca),1
+1329,alanon,1
+1328,12-step recovery (aa,1
+1327,trauma recovery (children and adults),1
+1326,anxiety (children and adults),1
+1325,sex crime allegations & court/probation,1
+1324,size acceptance/haes,1
+1323,spiritual psychology,1
+1321,integrative mental health,1
+1320,psychiatric nutrition,1
+1319,prevention,1
+1318,superior court approved provider,1
+1317,substance abuse assessment,1
+1316,i am a master hypnotherapist,1
+1314,health & wellness,1
+1312,women's health - cancer,1
+1311,medical illness in self or family,1
+1424,gender and sexuality exploration,1
+1427,court,1
+945,parent/child relationships,1
+1534,career/work concerns,1
+1528,high pressure occupations,1
+1529,sex offender treatment,1
+1530,self identity counseling,1
+1531,swinging,1
+1532,cybersex,1
+1533,intercultural and intergenerational relationships,1
+1535,unfulfilled lives,1
+1526,application of healthy boundaries,1
+1536,peak performance: overcoming slumps,1
+1537,blocks,1
+1538,internal family systems therapy,1
+1539,i support poc clients,1
+1540,healthy assertiveness,1
+1541,quit smoking,1
+1527,couples and individuals,1
+1525,i work with transgender clients as well,1
+1508,adult family therapy,1
+1516,interratial relationships,1
+1510,non-traditional relationship structures,1
+1511,life transitions such as mid-life crisis,1
+1512,parent-child relationship conflict,1
+1513,attachment-related concerns,1
+1514,lgbt issues. multicultural psychology,1
+1515,12-step recovery,1
+1517,forensic court assessments,1
+1524,food issues,1
+1518,strong people tend not to reach out for help,1
+1519,racial and ethnic identity,1
+1520,gender and sexual identity,1
+1521,menopausal transition,1
+1522,past life regression,1
+1523,emdr trained.  culturally sensitive,1
+1542,goals,1
+1544,artists/creative people,1
+1545,high conflict custody and reunification,1
+1575,resolving self doubt,1
+1569,monogamous,1
+1570,ptsd post traumatic eat dis addicti,1
+1571,relationship enhancement expert,1
+1572,real 'adult' life: work and relationships,1
+1573,wellbeing coaching; financial wellness,1
+1574,resolving the past,1
+1576,post-abortion trauma,1
+1547,gifted/twice exceptional,1
+1577,grief and loss (loved ones & fertility),1
+1578,virginia-telehealth only,1
+1579,trust issues & communication,1
+1580,wellness and healthy self care,1
+1581,pet loss recovery grief specialist,1
+1582,stress arising from covid and vaccine issues,1
+1567,non-traditional,1
+1566,health and wellbeing,1
+1565,mindfulness. aging,1
+1564,psychedelic support,1
+1563,creative frustration,1
+1561,military individual/couples/family challenges,1
+1560,dream exploration,1
+1559,ineffective communication,1
+1558,compulsive behavior,1
+1555,anxiety - depression,1
+1554,mid life transitions,1
+1553,only california based clientele,1
+1552,only telemental health,1
+1551,artistic/creative blocks,1
+1550,neurodivergence/ neurodiversity,1
+1549,certified addictions specialist,1
+1548,cultural adaptation; intergenerational conflict,1
+1509,sex & relationships,1
+1507,relationships in the workplace,1
+1428,holistic health and meditation,1
+1454,quit vaping-hypnosis,1
+1447,couples' communication,1
+1448,race-based stress and traumatic injury,1
+1449,elderly parent care,1
+1450,premarital therapy,1
+1451,children of alcoholics,1
+1452,psychological evaluations for immigrants,1
+1455,problem gambling,1
+1445,caretaking family members,1
+1456,transracial adoptees,1
+1458,couple/partner,1
+1459,feeling overwhelmed with life,1
+1460,non-monogamous/open/poly relationships,1
+1462,body psychotherapy,1
+1464,duis,1
+1446,problem resolution,1
+1444,neurocognitive testing,1
+1506,problems with change,1
+1435,nutritional consulting,1
+1429,developing resources for greater satisfaction,1
+1430,telehealth available,1
+1431,human trafficking individual and group sessions,1
+1432,entrepreneurship/ wealth principles,1
+1433,ethical non monogamy,1
+1434,health & psychological issues,1
+1436,social skills groups,1
+1443,treatment of physical cutting,1
+1437,hispanic communities,1
+1438,multi-cultural issues,1
+1439,parent and child relationship problems,1
+1440,safety sensitive employee's dot violations,1
+1441,dui in or out of state/court order compliancy,1
+1442,tinnitus,1
+1465,court-ordered counseling & assessments,1
+1467,verbalabuse/executivecoaching/mediation,1
+1468,grieving,1
+1496,trouble with boundaries,1
+1489,verbal abuse life transitions,1
+1490,transpersonal psychology,1
+1491,racial and internalized oppression,1
+1492,military/veterans,1
+1493,issues confronting young adults,1
+1495,psychedelic-assisted psychotherapy,1
+1498,desire & intimacy development,1
+1470,adult adhd assessment,1
+1499,lgtb,1
+1500,comercial sexual exploitation of childre,1
+1501,terminal illness,1
+1503,body dymorphic disorder,1
+1504,iep & section 504 evaluations,1
+1505,ketaminetherapy,1
+1488,transgender mental health care,1
+1487,experiences of discrimination,1
+1486,human trafficking and incarceration,1
+1485,life-balance,1
+1484,trauma recovery,1
+1483,creative types,1
+1482,marital sexual issues,1
+1481,educational disabilities,1
+1480,compulsive overeating,1
+1479,work place difficulties,1
+1478,vocational issues,1
+1477,confidence self-esteem worthiness youthful aging,1
+1476,fulfillment,1
+1475,social dynamics,1
+1474,aculturation,1
+1473,trauma.  identity,1
+1472,ancestral healing,1
+1272,trans affirming,1
+1271,child abuse & neglect,1
+1270,online dating/relationship coaching,1
+1064,managing being an empath and/or an hsp,1
+1058,south asian,1
+1059,punjabi,1
+1060,blended family/step-parenting issues,1
+1061,sap (dot) qualified,1
+1062,life transitions mind body therapy,1
+1063,trichotillomania and excoriation,1
+1065,search for meaning in life and work,1
+1054,conscious coupling and uncoupling for couples,1
+1066,adolescent concerns,1
+1068,stress aca,1
+1069,adoption and foster care,1
+1070,loss of an infant or child,1
+1071,parenting gender-expansive child/teen,1
+1072,non-traditional families & relationships,1
+1055,brainspotting for adults,1
+1053,non 12-step and 12 step-step counseling,1
+1031,marriage specialty,1
+1041,environmental justice / political action,1
+1033,chronic illness and cancer,1
+1034,loss and life transitions,1
+1036,college/grad school adjustment,1
+1037,life limiting illness,1
+1039,men,1
+1040,parent child interaction therapy,1
+1042,existential / spiritual crisis,1
+1052,moderation approaches,1
+1043,effective comm skills,1
+1044,self-care plan,1
+1045,spiritual support,1
+1046,caregiver stress—-burn-out,1
+1047,death and dying—-counseling,1
+1049,self compassion,1
+1073,masculine spirituality,1
+1074,12-steps support,1
+1075,gender diversity,1
+1104,parenting kids with complex medical needs,1
+1098,ambiguous loss- estrangement/disappearance,1
+1099,strong focus on lack of identity and self-esteem,1
+1100,issues with children,1
+1101,affirming of lgbtq+ but not my specialty,1
+1102,teens & young adults,1
+1103,parenting neurodiverse children,1
+1105,burn-out/compassion fatigue/imposter syndrome,1
+1076,panic and phobic disorders,1
+1106,career changes,1
+1107,health psychology & stress management,1
+1108,entertainment industry challenges,1
+1109,religious trauma recovery,1
+1110,expat/tck issues,1
+1112,african american mental health,1
+1097,creative,1
+1096,artistic,1
+1095,and performance issues,1
+1094,reproductive health,1
+1092,dream work and creative blocks,1
+1091,perinatal mental health - psi trained,1
+1090,all ocd-subtypes,1
+1089,self actualization,1
+1087,general discontent and malaise,1
+1086,performing arts,1
+1084,self hypnosis,1
+1083,stress at home & at work,1
+1082,coping with autoimmune disease,1
+1081,,1
+1080,financial and creative underachievement,1
+1079,aapi concerns,1
+1078,corporate grief counseling,1
+1032,people pleasing & communication,1
+1030,relationship anxiety,1
+1269,interview prep,1
+981,teens/preteens,1
+971,specializing in trauma with emdr therapy,1
+972,specializing in havening techniques for anxiety,1
+975,population: medical personnel and first responders,1
+976,cultural and systemic oppression,1
+978,difficulty conceiving,1
+979,and abortions,1
+984,immigration hardship evaluations,1
+965,ocd/panic disorder,1
+985,military family life stressors,1
+986,gender & sexual identity,1
+987,mid-life crisis and mid-life identity issues,1
+988,therapy services for entertainers and artists,1
+989,evaluation for autism spectrum in adults,1
+990,court letters for substance dependency,1
+967,certified havening techniques® practitioner,1
+964,grief from suicide loss,1
+1029,personal and spiritual growth,1
+954,harm reduction therapy: see my website!,1
+946,aca,1
+947,al-anon,1
+948,ace,1
+950,career and workplace/professional challenges,1
+952,private alcohol treatment workshops,1
+953,relapse prevention counseling,1
+955,reunification with parent as an adult,1
+962,first gens ages 18-25,1
+956,trauma and ptsd (emdr certification),1
+957,marriage/couples therapy,1
+958,divorce mediation and coaching,1
+959,trans affirming!,1
+960,neuro diverse affirming!,1
+961,undocumented community,1
+991,chronic disease,1
+992,new parents/parent's of teens,1
+993,stress in tech,1
+1020,job/work stress,1
+1014,12 step process,1
+1015,inner child (acoa),1
+1016,specialize in treating lgbtq communitys,1
+1017,emotional support animal,1
+1018,trichotillomania and brfbs,1
+1019,young adults transitioning to adulthood,1
+1021,substance abuse,1
+994,"seeking arrangements” apps,2
+professional sexual misconduct,2
+cam girls,2
+sex offenses,2
+privilege,1
+whiteness,1
+maternal ambivalence,1
+fear of success,1
+cultural & identity,1
+cerebral palsy,1
+bariatric evaluation,1
+psychological evaluation,1
+stress and anger management,1
+transitions,10
+vaginismus,2
+ed and low desire issues,1
+pmdd,1
+swingers & other lifestyles,1
+dissociative identy disorders,1
+queer issues of gender identity,1
+body dysmorphic disorder,6
+housing solutions,1
+latinx wellness,1
+holistic wellness,1
+support for family caregivers,1
+child/adult chronic illness,1
+gifted/talented issues,1
+adult children of narcissism,1
+energy psych.,1
+employment issues,1
+immigration stress and trauma,1
+multicultural,3
+multicultural & multilingual counseling,1
+down syndrome,1
+brain bringerompers syndrome,1
+ddx 3x,1
+parent consultation,1
+sexual and gender identity,2
+intersecting social identities,1
+highly sensitive nature,1
+teen/young adult,1
+mid-life,2
+peri/menopause,1
+self-epowerment,1
+personal growth & development,1
+healthy boundaries,2
+attachment wounds,2
+latino acculturation,1
+ethnic issues,1
+unmarried /single fathers,1
+managing divorce for men,1
+emdr trained,3
+parent education,1
+stepfamilies and blended families,1
+ipt young children,1
+victims of crime,10
+betrayals,2
+cheating,2
+vocational guidance,1
+interpersonal trauma,1
+forgiveness,4
+intimacy and sexuality,1
+somatic disorders,2
+on-line counseling,1
+telehealth,2
+equestrian sports,1
+hypnotherapy,2
+terminal and chronic illness,1
+lgbtqia+ issues,1
+dealing with life transitions,1
+licensed to supervise,1
+creative/entertainment industry,1
+maternal mental health,5
+parents of gender questioning youth,1
+parents of highly sensitive children,1
+care giver support,1
+lgbtq support,1
+teen pregnancy/parenti,1
+self exploration,1
+launching,1
+pregnancy loss/difficulties,1
+emotion regulation,3
+cisds,1
+cult-related trauma,1
+pet loss & grief; anticipatory grief & euthanasia,1
+my methodology is based on my 7 powerful practices,1
+1.5/2nd generation asian americans,1
+forensic evaluations,2
+asylum,2
+forensic mental health assessment,1
+u-visas,1
+biofeedback neurofeedback,1
+post partum depression,3
+narcissistic/emotional abuse,1
+interpersonal issues,1
+ketamine-assisted psychotherapy,3
+interracial marriage issues,1
+bariatric surgery psychological evaluations,1
+nicotine / smoking addiction,1
+empaths/highly sensitive people,1
+shame & silence in asian culture,1
+erectile issues,1
+life changes,5
+healthy lifestyle,1
+claustrophobia to cpap,1
+evaluaciones para imigracion,1
+psychological evaluations for immigration,1
+veteran of the armed forces (1986-1991),1
+excellent with law enforcement & veterans issues,1
+transpersonal states of consciousness,2
+iep advocacy,1
+academic issues,2
+pet-assisted therapy,1
+black trauma - cultural sensitivity,1
+lgbtq youth,1
+family estrangement,1
+emotionally-focused couples therapy,1
+co-parenting and custody mediation,1
+please see my website,1
+family systems & family therapy,1
+foster care and adoption,1
+sexual harrassment,1
+boundaries and attachment,1
+traumatic childhood,1
+miscarriage & ivf,1
+lgbtq and glbtq affirmative and friendly,1
+intergenerational conflict,2
+acculturation stress/immigration,1
+adult children of alcoholics,7
+feeling different,1
+intensity,1
+indecisive,1
+first responder challenges,1
+marriage/premarital counseling,1
+relationship help,1
+anxiety related to food allergy,1
+childhood sexual abuse/sexual assau,1
+i offer sessions outdoors as well in nature,1
+finding meaning,2
+marginalized trauma,1
+meaning making,1
+death loss,1
+couple therapy,5
+therapeutic visitation,1
+irritable bowel syndrome (ibs),1
+non-binary gender identity,1
+healthy body and self-image for females,1
+sexual orientation and healthy sexuality,1
+culturally sensitive therapy,1
+racial and ethnic issues,1
+head injuries,1
+blended family,2
+self-confidence,5
+setting healthy boundaries,1
+queer trans people of color (qtpoc),1
+people of color (poc),1
+highly creative individuals,1
+transformational experiences,1
+non ordinary states of consciousness support,1
+expressive arts,1
+women in tech & science,1
+medical doctors & medical professionals,1
+work/life balance,6
+dialectical behavior therapy skill group,1
+dating/single,1
+trichotillomania/skin picking,1
+psychedelic integration work,1
+brain injury,2
+stroke,1
+culturally-specific services (filipino),1
+system (crim. justice)  involved youth and adults,1
+acculturation/multicultural issues,2
+asian-american,2
+thai,1
+asian,2
+the real talk shop life skills workshops,1
+fears,1
+creative expression,2
+eeg neurofeedback,1
+rejection sensitivity dysphoria (rsd),1
+smith-magenis syndrome,1
+maladaptive perfectionism,1
+emotional overcontrol,1
+intimacy disorders,1
+life/career empowerment,1
+over-exercise,1
+self-evolving,1
+reiki treatments,1
+narcissistic abuse survivor recovery,1
+mid-life crisis,1
+family patterns,2
+family of origin,4
+artists & creative arts-related work,1
+chronic illness and dying,1
+pre/post surgery preparation,1
+non-ordinary experience/consciousness,1
+life transitions career growth,1
+working with other therapists/helping professional,1
+working with creatives,1
+child custody evaluations,2
+blockage of creative expression,1
+major life transitions,1
+generational stress,1
+educational deficits around addiction/recovery,1
+self-compassion/self-love,1
+positive psychology/ emotional wellbeing/wellness,1
+life stressors and adjustment,1
+career stressors,1
+interpersonal wounding / relationships,1
+cultural and societal influences,1
+sexual misconduct,1
+sexual abuse survivors or mothers of sa survivors,1
+secondary traumatic stress/vicarious trauma,1
+probation and asylum cases,1
+pre-trail,1
+trich.,1
+identity issues,7
+lgbtq identity,2
+accelerated resolution therapy,2
+executive phase of life,1
+retirement,2
+crisis assessment,1
+memory training,1
+decreased sex drive,1
+low libido,1
+blended family issues,3
+life stageissues,1
+child and teen issues,1
+migration trauma,1
+cultural identity,6
+past life regression/therapy,1
+entertainment professionals,1
+entertainment industry,3
+academic distress,1
+miscarriage/stillbirth,1
+gifted and creative adults,1
+midlife crisis,2
+adjustment issues,2
+cancer/cancer survivorship,1
+families with asd,1
+muslim family relationships,1
+criminal justice issues,1
+lgbtq+ issues,4
+minority/multicultural stress,1
+adhd testing,1
+adjustment disor,1
+adult development,1
+sports therapy,1
+complicated grief,2
+type 1 diabetes,2
+pelvic floor dysfunction,1
+interfaith issues,2
+work place conflict,1
+adolescents therapy,1
+interventions,3
+private alcohol/addictions couples workshops,1
+private couples/marriage workshops,2
+workplace bullying,2
+developmental/ relational trauma,1
+vegan,1
+coronavirus anxiety,1
+executive functioning issues,1
+affairs/infidelity,1
+performance psychology,1
+overcoming phobias,1
+tech industry,1
+sexual identity,4
+sex  addiction/porn addiction,1
+giftedness assessment and consult,1
+phobia,2
+climate anxiety,2
+military family challenges,1
+athletes,3
+learning challenges,2
+education,1
+test anxiety,1
+low academics,1
+intergenerational trauma and family dynamics,1
+asian american cultural issues,1
+nature therapy,1
+plant medicine/psychedelic journey integration,1
+complex post traumatic stress disorder (c-ptsd),1
+muslim,1
+perinatal loss,3
+diversity,2
+guided imagery,2
+infant & toddler concerns,1
+mindfulness facilitation,1
+men's issues: gay,1
+unlabeled,1
+straight,2
+integration from expanded states of consciousness,1
+post 2nd opinion evaluation,1
+sexuality,8
+foster care,6
+transracial adoption,1
+people of color,3
+child adjustment,1
+infant and early childhood mental health,1
+pet grief,1
+ketamine therapy integration,1
+midlife transitions,1
+health related,1
+fire life safety workers,1
+isolation,2
+health & economic threats caused by pandemic,1
+medical,2
+individuals impacted by incarceration,1
+covid related issues,1
+alternative lifestyles,2
+spinal cord stimulator evaluations,1
+opioid abuse/dependency,1
+family business,1
+lgbtqqia+,1
+nonmonogamy,2
+alt,2
+walk and talk therapy,1
+emotionally focused couples therapy,2
+adaptation,2
+christian psychoanalysis/counseling,1
+near death experiences,1
+new moms,1
+self-care,3
+caregivers,1
+transitions with college students,1
+intimacy avoidance,1
+emotional intimacy,1
+parenting in recovery,1
+motherhood & recovery,1
+pathological/pervasive demand avoidance,1
+specialize in working with first responders,1
+third donor assessment letters,1
+qt bipoc issues,1
+bicultural; being an immigrant; immigration issues,1
+diabetes management,1
+clinical health psychology,1
+spiritual direction,1
+transgender and sexual identity,1
+significant others,1
+emergency responders & spouses,1
+work burnout,1
+performance anxiety (work or sport),1
+cutting,1
+sat act stress suicidality,1
+friends,1
+internet gaming disorder,1
+phone addiction,1
+multiple partners,1
+aca / acoa,1
+gifted individuals,1
+infant-parent and early childhood mental health,1
+trauma related issues,1
+highly sensitive persons,3
+spirit releasement/pastlife & interlife regression,1
+faith-based counseling,1
+problem gambling program,1
+critical incident stress mngmnt  (c,1
+immigrants and refugees,2
+hollywood industry culture - ca tech culture,1
+motivation,3
+goal setting,1
+gay,3
+relationship breakdowns,1
+bariatric surgery evaluations/therapy,1
+'finding meaning' and 12-step support,1
+immigrant families and identity,1
+birth parent support,1
+interracial and interfaith relationships,1
+eastern immigrants,1
+law enforcement & military,1
+neurological disorders,1
+psycho-oncology,2
+women's sexual development,1
+separation anxiety,1
+youth in group homes/treatment facilities,1
+infidelity or betrayal concerns,1
+surrogacy,1
+corporate counseling,2
+peak performance,2
+effective communication skills,1
+dysfunctional/traumatic family background,1
+co parenting,1
+toddler and early childhood mental health,1
+professional growth,1
+personal empowerment,1
+creative growth,1
+emotion dysregulation,3
+critical incident stress management,2
+family caregiving,2
+step parents,1
+narcissistic abuse recovery (complex ptsd),1
+cancer diagnosis,4
+navigating dating challenges,1
+issues with creative blocks,1
+forensic consultation - legal issues,1
+youth transitioning to adult,1
+military background,1
+chronic and life threatening illness,1
+consultation,1
+blind / low vision,1
+coping with disability,1
+polyamory & open relationships,1
+gender fluid/gender non-conforming/non-binary,1
+teens and college age young adults,1
+bipoc,6
+gender-affirming care and advocacy letters,1
+equine assisted psychotherapy,1
+binge eating disorder,2
+first generation american/ assimilation,1
+women of color,2
+painful emotions,1
+somatic,3
+veteran related issues,1
+abortion support,1
+gender confirmation procedures & surgeries,1
+rape/sexual assault,1
+adolescents and adults,1
+military counseling,1
+religious trauma/adverse religious experiences,1
+weight control,1
+acoa,1
+jealousy,1
+i specialize in couples work and communications,1
+coporate counsulting and training,1
+complex ptsd and trauma,1
+narcissistic abuse recovery,4
+eating and body image concerns,1
+professional editing,1
+workplace stress,2
+identity concerns (racial,1
+gender,5
+sexual),1
+post-partum depression,1
+2e (gifted with learning differences),1
+individuation,3
+assertiveness,1
+esteem,1
+miscarriage,6
+neurodiversity,6
+failure to launch,3
+self-worth,2
+acculturation / middle eastern issues,1
+agoraphobia,2
+i provide supervision for mft associates,1
+covid-19 stress,2
+late adolescent issues (15-19),1
+complex medical diseases,1
+identity/intimacy,1
+work related issues,3
+certified brain health; amen university - 2022,1
+couples and singles skill building,1
+level 1 ifs trained,1
+health and medical issues,1
+post-traumatic growth,1
+attachment disorder,1
+certified clinical trauma professional,2
+burnout prevention & recovery,1
+adolescents & young adults,1
+managing illness,1
+integrative,1
+can counsel  in lieu of treatment,1
+assessments for folks who have recieved a dui,1
+college mental health,2
+identity exploration,2
+brain health analysis,1
+motherhood,2
+birth trauma,4
+issues in aging,1
+immigration and acculturation issues,2
+organizational development,1
+business,1
+and caregiving stress,1
+incarceration ptsd,1
+developmental trauma,7
+cultural and racial identity support,1
+co-parenting mediation,1
+cross-cultural issues,3
+bariatric surgery,1
+acculturation issues,8
+foster care realted,1
+teen transitions,1
+immigrants and ethnic minorities,1
+adolescent psychotherapy,1
+i work with hsp's also surrogates,1
+low self-esteem,2
+mindfullness meditation,1
+neurodiverse couples,1
+faith issues,2
+i specialize in working with teens and young adult,1
+ethnic/cultural identity,1
+spiritual abuse,4
+recovery from religion,1
+ambivalence of mother/fatherhood,1
+intrusive thoughts of harming your baby,1
+d.o.t. substance abuse professional,1
+oppression&health,1
+stigma challenges,1
+coparenting,2
+divorce and mediation services,1
+& conflict resolution,1
+specializing in rad in children/teens,1
+vocational stress,1
+medical family therapy,1
+organizational systems,1
+cancer/chronic medical issues,1
+pain management,2
+professional visitation supervisor,1
+aca codependency,1
+spirituality and religious conflict,1
+mid-life growth and balance,1
+eco-anxiety / climate anxiety,1
+burn-out prevention for activists,1
+symbis certified pre-marital counseling,1
+work place abuse,1
+meditation,5
+sports,2
+developmental,1
+shock & relation trauma using narm,1
+creativity/ artistic struggles,1
+autoimmune,1
+covid stress,1
+health care provider stress,1
+special needs,1
+critical incident stress debriefing,1
+heterosexual and lgbtq,1
+exploring the unconscious,1
+development of self,1
+depth psychology,1
+perfectionism/people pleasing,1
+long covid,1
+health at every size (haes) advocate,1
+pre and postpartum issues,1
+family systems,5
+assessment for legal problems,1
+cultural identity issues,2
+racial/ethnic issues,1
+military sexual trauma,3
+emotional regulation,4
+gifted children and teens,1
+aging and ageism,1
+formerly incarcerated,1
+financial issues,1
+transgender competencies and transitioning,1
+broad sexual education,1
+hsp (highly sensitive person),1
+first generation issues,1
+creative professional issues / writer's block,1
+health psychology & chronic illness,1
+postpartum depression and adjustmen,1
+critical thinking,1
+learn mindfulness,1
+emdr for trauma,2
+mental health and chemical dependency intervention,1
+phase-of-life,1
+bereavement,2
+sexual identity lgbta,1
+children from difficult beginnings/attachment diff,1
+eldercare / seniors,1
+search for meaning,1
+dreams,5
+spiritual crisis,2
+jungian analysis,1
+arguing,1
+trust issues,1
+gender non-conforming issues,1
+postpartum issues and panic disorder,1
+critical life transitions,1
+finding yourself,1
+path to individuality,1
+emdr certified,2
+grandparenting,1
+teletherapy,2
+women and underrepresented minorities in stem,2
+social anxiety and shyness,1
+existential and spiritual exploration,1
+acculturation abd immigration,1
+sibling and parenting issues around special needs,1
+reproductive loss,2
+reproductive mental health,1
+testing accommodations,2
+expert witness testimony,1
+personal identity issues,1
+mental skills,1
+social injustice and racial trauma issues,1
+cultural and identity issues,1
+complex trauma/ptsd,1
+childhood trauma,10
+sexual offending,1
+pandemic/social stress,1
+culture/generational concerns,1
+highly sensitive,2
+marital counseling,2
+parenting disabled children,1
+sports performance issues and mental health,1
+emotionally focused therapy - couples,1
+journey of motherhood,1
+out of control sexual behaviors,1
+imposter syndrome,7
+stress in high achieving young professionals,1
+creativity and women's issues,1
+self-development,2
+career difficulties,1
+break-up,1
+relational trauma/emotional abuse,1
+provide alpha stim (electro cranial stimulation),1
+emdr trained therapist for trauma,1
+provide supervision to msw and amft associates,1
+creative/spiritual,1
+justice involved,1
+hiv/aids counseling,1
+work stress;  aging issues,1
+latinx,1
+first generation,2
+existential angst,1
+stillbirth,2
+ivf & postpartum,1
+ptsd,8
+physical injury,1
+health,3
+break ups,1
+adult children of mentally ill parents,1
+unlocking creativity,1
+complex problem solving,1
+emotional dysregulation,3
+aging mid-life transition,1
+creative/performing artists,1
+complex ptsd (cptsd),1
+adjustment disorders,3
+play and art therapies,1
+sexual orientation,5
+covid-stress issues,1
+racial unrest,1
+self-compassion groups for teens!,1
+couple's counseling,1
+long term therapy 1yr+ vs short term therapy <1yr?,1
+short-term therapy,1
+problem solving therapy,1
+young children,1
+dating in the modern world,1
+physical disabilities,1
+children (10+ years),1
+adults,1
+spiritual deepening through structured journaling,1
+jungian: individuation and dream work,1
+loneliness/isolation,1
+veterinary counseling: compassion fatigue/trauma,1
+loss of libido,2
+erectile dysfunction,3
+health coaching,2
+lifestyle changes,1
+polyamory/open relationships,1
+early childhood mental health consultation,1
+consultation to other therapists and professionals,1
+therapists-in-training,1
+pre & post weight loss surgery counseling,1
+giftedness and 2e,1
+pre-adoptive psychological evaluations,1
+multicultural adjustment disorders,1
+mem's issues,1
+feeding disorders,1
+self-harm and suicidal ideation,1
+anxiety and eating,1
+depersonalization/derealization (dpdr),1
+dissociative disorders,1
+ocd,4
+eating disorders and couples,1
+emdr trained basic training,1
+gender identity and lgbtqia affirmative practice,1
+silicon valley lifestyle,1
+neurodivergent affirming,1
+school advocacy,1
+support for siblings/parents who are caregivers,1
+family conflict resolution,1
+physicians,1
+nurses and medical students,1
+individuals working in healthcare,1
+residents,1
+authentic self,1
+systemic oppression,1
+gender confusion,1
+functional neurological symptom disorder,1
+university student issues,1
+child abuse or neglect,6
+exposure-based ocd treatment,1
+stroke. cognitive rehab,1
+concussion,1
+behavioral treatment for sleep and pain,1
+all intimacy issues,1
+reintegration counseling,1
+emdr /brainspotting,1
+adolescent and young adult,2
+chronic illness and chronic pain,1
+happiness at home and happiness at work,1
+narcissistically wounded,1
+polyamory/open marriage,1
+families with a child with special needs,1
+suicide prevention and education,1
+highly sensitive/intuitive,1
+creative/performing artists' issues,1
+marital therapy,2
+parental alienation,1
+high profile/celebrity counseling,1
+irlen method for visual processing,1
+veteran's and victims of crime,1
+immigration/ acculturation,1
+prenatal and postpartum,1
+pet loss/grief support,1
+attachment and bonding,2
+and acculturation,1
+athletes and sports performance,1
+values clarification,1
+gastrointestinal health,1
+midlife-perimenopause/menopause,2
+men-building trust and intimacy,1
+teenager-parental issues,1
+happiness,1
+zen questions,1
+gender and sexual identity confusion,1
+spouses,1
+california drug rehabs,1
+drug rehabs san diego,1
+prescription medication drug rehabs san diego,1
+relationship recovery,1
+psychedelic wellness,1
+teenagers,1
+teen/adult siblings of people with a disability,1
+business development,1
+survivors of narcisstic abuse,1
+bipoc and lgbtqia,1
+emdr certified; emdr consultant in training,1
+trauma recovery/emdr®/cognitive beh,1
+traumatic recovery,1
+law enforcement,5
+love addiction/partners in betrayal,1
+adult children,2
+identity loss,1
+young adults and teens,1
+quarterlife issues,1
+lgtbq,1
+queer issues,2
+consultant for private attorneys,1
+dbt,4
+porn,2
+smoking,2
+inner child,2
+christian therapy,1
+hypnosis for anxiety,1
+group therapy,4
+acculturation issues & smooth team integration,1
+multicultural differences,1
+twinship,1
+intersectionalities,1
+sexism,1
+lyme-disease friendly,1
+the highly sensitive person (hsp),1
+regret,1
+body,1
+mind and spirit health,1
+private alcohol workshops,1
+military veterans,1
+clinical psychopharmacology,1
+coping and adjustment,1
+single parenting issues,1
+coping with illness,1
+caregiver stress,2
+couple counseling,1
+we provide psychological and acadmic evaluations,1
+therapy dog available by request: jessie,1
+traumatic incidents,1
+trans-generational trauma,2
+organizational conflict,1
+tbi,1
+covid-19,1
+specializing in work with teens and young adults,1
+chronic worry and depression,1
+health at every size: body positive,1
+women's sexuality and sex therapy,1
+emotion focused couple's therapy,1
+family problems,1
+issues relating to covid,1
+money issues,2
+financial budgeting/planning,1
+military families,2
+child and adolescents,1
+sex positive therapy,1
+couple's specialization,1
+integrative medicine,1
+somatic explorations,1
+family relational trauma,1
+adult children from,1
+dysfunctional families,1
+parent coaching,6
+autism spectrum,1
+hollywood industry - ca tech industry culture,1
+misokinesia,1
+misophonia,1
+optimal sports performance,1
+vegan related,1
+post-lds/ex-mormon,1
+career transitions,3
+counseling for lawyers / clients in litigation,1
+artists/writers/film industry,1
+cross cultural and criminal justice system,1
+performance anxiety - fear of public speaking,1
+stage fright - auditions/interviews,1
+pandemic,2
+internalized homophobia/heterosexism,1
+forensic testimony/child custody,1
+cross-cultural adaptation,1
+veterans and military families,1
+emotional support animal letters,1
+understanding/transforming the experience of stuck,1
+emotional trauma,1
+racisim,1
+generational issues,1
+hypnosis,1
+psychodrama,1
+sandplay,1
+bi-racial and multiracial identity,1
+academic and athletic stress,1
+shyness,1
+impaired creativity athletic injury,1
+family coping with a loved one's mental illness,1
+child safety,1
+gender & sexuality military issues,1
+negative memories,1
+rehabilitation,1
+new parent support,1
+any form of abuse,1
+highly sensitive persons/empaths,1
+gifted & talented (twice exceptional),1
+empaths survival skills and relationship skills,1
+self actualization and enlightenment,1
+highly sensitive adults & teens,1
+teen mothers,1
+depression and isolation,1
+fear and anxiety over covid-19,1
+confidence & senior memory care,1
+coming out,5
+gender-affirming surgery assessments,1
+mindfulness for personal development & self-growth,1
+church trauma,1
+multicultural/bicultural identities,1
+bi-cultural & inter-generational family dynamics,1
+loss of meaning,1
+unresolved childhood emotional pain,1
+cognitive disorders,1
+immigration-related concerns,1
+work and academic performance,1
+career development,2
+cancer & illness issues,1
+teen stress,2
+psychoanalysis,1
+trans,1
+mold illness / chronic fatigue syndrome,1
+lyme disease,2
+crises of faith,1
+transcultural,1
+fire survivor,1
+prolonged illness / disability,1
+autoimmune diseases,2
+chronic health challenges,1
+artists/creative professional issues,1
+sense of self,1
+alternative sexuality & lifestyles,1
+neuropsychological tests,1
+psychoeducational tests,1
+forensic psychological testing,1
+suicide,1
+adolecences and young adult grief counseling,1
+burn-out,1
+anger,1
+female adolescent struggles,1
+new or expecting parents,1
+new or expecting fathers,1
+spiritual emergence and emergency,1
+life pattern difficulties,1
+forensic/legal issues,2
+family of origin/childhood issues,1
+adult manifestations of childhood trauma,1
+intimacy disorder,2
+generational conflict,1
+lyme literate,1
+emotional/narcissistic abuse recovery,1
+pansexuality,2
+gnc,1
+polyamorous,2
+adult survivors of child abuse,1
+genderfluid,1
+non monogamy,1
+lgtqia,1
+relational attachments,1
+teletherapy available,1
+lgtbqia+,1
+identity crisis,1
+relationship training for singles,1
+intervention consultation,1
+death,1
+bfrbs (i.e. picking,1
+hair pulling),1
+therapy for therapists,3
+self compassion and mindfulness,1
+immigration and acculturation,2
+mama trauma,1
+sexual fetishes,1
+professional burnout,4
+work-life imbalance,1
+hearing impairment and other physic,1
+custody mediation,1
+emotion disregulation,1
+perinatal mood anxiety disorders,1
+reentry/ recidivism program,1
+supervised/monitored visits,1
+unwanted patterns of behavior,1
+blocks to creativity,2
+burn out,1
+ketamine assisted psychotherapy (kap),1
+teen and young adult mental health services,1
+betrayal from partner or spouse,1
+transitioning to parenthood,1
+foster care/legal guardianship related issues,1
+adoptive families,1
+executive coaching and coach supervision,1
+0-5 age children with regulation issues,1
+cultural adaptation,1
+individuation process,1
+lgbtqiats+,1
+intergenerational stress,1
+leadership,1
+family business coaching,1
+medical & health issues,1
+communication skills,6
+parenting struggles,1
+couples therapy. bi-cultural couples included,1
+post-partum challenges,1
+life-threatening illness,1
+relationship with self,1
+psychedelic experience integration,1
+adults molested as children,2
+online therapy available,1
+first responder ci & work stress,1
+self-disparagement,1
+research and mental health awareness,1
+painful sex,2
+personal development coaching,1
+cultural adjustments,1
+development of potential,1
+bilingual (spanish),1
+relationship between physical and mental health,1
+challenges of the entertainment industry,1
+parenting issues post covid,1
+frontline workers,1
+essential,1
+cultural diversity issues,1
+survivors of natural disasters,1
+psychosomatic issues,1
+intergenerational family issues,1
+negative spiritual/religious experiences,1
+safe cannabis use,1
+new thought alternative lifestyles,1
+work-life balance,1
+fetishism/bdsm (kink-aware*),1
+tourette syndrome,3
+caregiving issues,1
+insomnia treatment,1
+effective communication skills; dating skills,1
+psychology integrated with christianity,1
+personalized stress management,1
+self development and performance,1
+holocaust survivor families,1
+parole,1
+justice-system involved,1
+probation,3
+psychological evaluation letter,1
+asexual identity,1
+mood d,1
+gifted children,3
+cognitive behavioral therapy,1
+clinical supervision of asw,1
+recovery from infidelity,1
+road rage / driving anger,1
+generalized anxiety disorder,1
+first generation latinx challenges,1
+women's empowerment,2
+work with teenagers and young adults,1
+doctorate in clinical hypnotherapy,1
+gender identity disorder,1
+emerging/young adults,1
+integrating spirituality and psychotherapy,1
+postpartum for women and couples,1
+pandemic burnout,1
+couples therapy (every stage),1
+teenagers and parenting teenagers,1
+public figures,1
+sexual problems,1
+eggshell walkers,1
+low self-worth,1
+families of,1
+self-sabatoge,1
+self-enlightenment,1
+eco-grief/depression,1
+difficult life decisions,1
+severely mentally ill,1
+mother-daughter challenges,1
+alcohol & drug evaluations/ assessments,1
+tics/tourette's,1
+professional provider of supervised visitation,1
+clinical supervision for registered associates,1
+college preparedness,1
+social media,2
+traumas,1
+love addiction & love avoidance,1
+highly sensitive person (hsp),5
+pregnancy loss,5
+transgender people graduate students,1
+emotional abuse recovery,1
+verbal abuse recovery,1
+caregiver fatigue / burnout,1
+gender identitygender queer/nonconforming,1
+asian-american family,1
+multi-cultural family,1
+injuries,1
+relational skills,1
+self development,1
+divorce and family mediation,1
+chronic dieting,1
+compulsive exercise,1
+creative professionals,1
+body image acceptance,1
+health at every size,4
+body liberation,1
+cultural diversity,2
+academic stress,2
+caregiving for those with cognitive impairment,1
+existential end of life creative block,1
+stis,1
+youth transitions/residential treatment,1
+multiracial multicultural womenofcolor,1
+emdr and family business consultation,1
+suicide survivors (for loved ones left behind),1
+clergy sexual abuse,1
+group hypnosis (upon request),1
+lgbtqi+,1
+teen & young adult issues,1
+other media relating to mental health,1
+video games,1
+lgbtq+ and multi-culture diversity,1
+issues of creativity and creative blocks,1
+and women issues,1
+relaxation technique,1
+self esteem building,1
+retirement issues,2
+sap for department of transportation - dot,1
+firefighters/police/ems/dispatch/dr's/rn's,1
+childhood trauma - adults,1
+artist practice development,1
+mindfulness practice development,1
+asthma,1
+first responders & their families,1
+foster & probation youth & families,1
+coping skills required following trauma,1
+identifying values and goals,1
+bereavement & loss,1
+testing and evaluations,1
+growth through creativity,1
+immigration and assimilation,1
+cultural-values-conflict,1
+asian american identity,1
+asian american generational trauma,1
+cross cultural relationships/multi-ethnic identity,1
+emetophobia ( fear of vomiting ),1
+cultural/minority issues,1
+anxiety/depression,1
+schizophrenia,7
+assessment for hardship and u-visa,1
+learning disorders,2
+testing - gifted,1
+iq,1
+first generation issues/multicultural concerns,1
+finding your soul's purpose in this lifetime,1
+highly sensitive people,5
+clinical supervision - university students,1
+hair pulling,1
+career,5
+covid,1
+hiv/aids mental health,1
+productivity for businesses/employees,1
+brain training to raise sat/act scores,1
+parenting special needs children,1
+adhd coaching,1
+older teens/adults with adhd,1
+accepting new clients,1
+multiple sclerosis,2
+process & support groups,1
+veteran transition to civilian lifestyle,1
+spiritual awakening support and integration,1
+test taking strategies,1
+parental child relationships/behavioral concerns,1
+skin picking disorder,1
+lgbt+,1
+emotional vulnerability,1
+performance anxiety for performers,1
+meditation for mind/body/brain health,1
+stress-related illness,1
+individual therapy,3
+health and fitness coaching,1
+cancer support,1
+successful aging- for those age +,1
+family trauma and spiritual abuse,1
+historic trauma,1
+gifted adult; midlife/postmen60+; highly sensitive,1
+intern supervision,1
+bad habits,1
+organizational skill,1
+fear of success/failure,1
+couples www.couplesenrichmentcenter.com,1
+probation/parolee,1
+sexuality and relationship diversity,1
+self-reflection,1
+resiliency,1
+somatic approach,1
+spiritual and existential challenges,1
+trauma  attachment trauma,1
+dealing with narcissism,1
+trans community friendly,1
+perinatal mood and anxiety disorder,2
+self care,2
+aging and life transitions,1
+family building,1
+fostering,1
+interpersonal relations,1
+work bullying,1
+healthcare navigation coaching,1
+grief support following loss of a child,1
+enmeshed family patterns,1
+and pre-marital counseling,1
+high conflict couples,3
+we work with all ethnicities,1
+positive parenting skills,1
+infidelities/affairs,1
+porn addiction,3
+spending,1
+meaning & life purpose,1
+vocation,1
+creativity & imagination,1
+mental health creative writing,1
+relationship with yourself,1
+ecological grief/anxiety,1
+hospice,1
+palliative care,1
+caregiver burnout,3
+pelvic pain,1
+parenting issues,1
+entertainment industry related depression/anxiety,1
+cognitive challenges,1
+personality & mood concerns,1
+acculturation and immigration/transition,1
+social anxiety - learning disorders,1
+older adult issues,1
+job training and college prep,1
+social skills training,3
+hiv-stis,1
+self-actualization,2
+meaning-making,1
+relationship to self and others,1
+female writers,1
+the artist's path / creative recovery,1
+eco-anxiety,2
+buddhism,1
+spiritual exploration,1
+sex workers,3
+polyamory  / kink,1
+health and wellness,2
+memory & cognition,1
+nu qi gong,1
+ethnogeriatrics,1
+healthy aging,1
+detur,1
+chemical and behavioral addictions,1
+registered addiction specialist / ketamine therapy,1
+gottman certified couples therapist,1
+issues related to covid-19 (anxiety,1
+depression),1
+lgbtq-ia,1
+perinatal,2
+high achieving creative women,1
+good therapy can address most issues,1
+life transition online,1
+drug testing available,1
+non 12-step and 12-step counseling,1
+parent education and consultation,1
+case management,2
+phased trauma treatment,1
+complex,1
+and single issue ptsd s&s,1
+servicios en español,1
+coaching for adults with add,1
+terminal illness/hospice,1
+care giver fatigue,1
+adolescent issues,3
+mind/body,2
+lgbtqia+,1
+cptsd,1
+act,1
+mindfullness,1
+compassion,1
+pastoral counseling,1
+d.o.t. substance abuse professionals,1
+plant medicine integration,1
+parent-child relationship issues,1
+dysgraphia,1
+and dyscalculia,1
+cannabis abuse,1
+integrative psychology,1
+generalized anxiety,2
+family consultation older adults,1
+gerontology,1
+career transition / academic development,1
+adult child of alcoholic,1
+cross-cultural issues anxiety/sadness,1
+personalized and alternative recovery treatment,1
+infant,1
+maternal health,2
+early childhood,1
+poc,2
+inner criticism,1
+highly sensitive persons (hsps),1
+adolescence and young adulthood,1
+dysregulation,1
+childhood relational trauma,1
+childhood issues,1
+transition from partial hospitalization,1
+grief and suicide loss,1
+medical issues & stress management,1
+npe (not parent expected) dna discovery,1
+couples (emotionally focused therapy),1
+compulsive skin-picking,1
+supervision,4
+attachment ruptures,1
+psychotic disorders,2
+work injuries/workers' compensation,1
+comedy psychotherapy,1
+early trauma/ptsd,1
+parenting stress,1
+open relationships/polyamory,1
+personal growth/authentic self,1
+adolescents 15+,1
+cross cultural struggles,1
+anger and stress management,1
+families dealing with addiction or depression,1
+profound change,1
+orthodox jewish community,1
+pre-marital and marital counseling,1
+existential concerns,3
+child custody,1
+autism and asperger's disorders,1
+family separation and reunification,1
+incarceration and rectification,1
+young adult speciality,1
+adolescent speciality,1
+boundary setting,3
+crosscultural,1
+sex,3
+pact for couples,1
+kink-identified clients,1
+ethical non-monogamy and polyamory,1
+couple/relationship/family therapy,1
+adjusting to life in college,1
+singlehood issues,1
+mixed marriage couples,1
+inclusion and inclusive practices,1
+skin picking/hair pulling,1
+social emotional needs of the gifted,1
+body image & empowerment,1
+weight-neutrality/body-positivity,1
+partners or family members of narcissists,1
+shamanic counseling,1
+divorce/separation mediation,1
+highly successful professionals/creative artists,1
+life challenges during college years,1
+high stress jobs,1
+immigration and cultural integration,1
+adult children of alcoholic / narcissistic parents,1
+family of origin dysfunction,1
+life transitions/couples therapy,1
+muslim mental health,1
+drug and alcohol prevention,1
+offer office or video sessions in redondo beach ca,1
+offer video sessions for massachusetts clients,1
+lgbtqia couples and family issues,1
+boundary-setting,2
+self-authenticating,1
+anxiety and trauma,1
+ancestral trauma,1
+quantum mechanics,1
+law of attraction,1
+rumination and perfectionism,1
+genderfluid/genderqueer/trans*/gnc,1
+neuropsych,1
+nerd/geek-friendly,1
+fat-friendly and body glorifying,1
+dealing with trauma or loss,1
+lbgtq couples therapy,1
+sexual health,2
+latinx and bipoc family systems,1
+writer's block,1
+osa treatment compliance,1
+seniors,1
+unschooling,1
+college prep anxiety,1
+homeschooling,1
+goal achievement,1
+addictions in families,1
+discernment counseling for couples on the brink""",1
+1023,feelings of vulnerability; self-criticism,1
+1024,dealing with difficult coworkers & bosses,1
+1025,stress mgmt,1
+1026,institutional injustice,1
+1027,mind-body connection and trauma-informed yoga,1
+1028,assessment and psychological testing,1
+1012,inter-faith,1
+1010,young adult launching/independence,1
+1009,intuitive counseling & family dymanics,1
+1008,men's issues: anger,1
+1007,selective mutism; www.counselingforchildren.net,1
+1006,women in tech,1
+1005,moderation & abstinence support,1
+1004,court mandated,1
+1003,dui,1
+1002,family addiction,1
+1001,lack of connection,1
+1000,entertainment industry workers,1
+999,affair recovery,1
+998,leo,1
+997,successful badassery,1
+996,baby boomers/ life transitions,1
+995,social anxiety disorder,1
+1113,skin-picking,1
+1114,hair-pulling,1
+1115,transitions for fathers and non-birth partners,1
+1224,men with sexual abuse histories,1
+1214,college student issues,1
+1217,finding purpose,1
+1219,artistic struggles,1
+1220,tourette syndrome & tics,1
+1222,multicultural influences on self and relationships,1
+1223,work stress or life purpose,1
+1225,hitech leaders & the super-intelligent,1
+1212,astrological chart incorporation,1
+1226,first responders: fire,1
+1227,ems,1
+1228,emotional support animal evaluations,1
+1229,dispatch,1
+1230,pd,1
+1231,chp,1
+1213,custody mediation/parenting plans,1
+1211,grief and loss of pets,1
+1116,individual,1
+1202,couples and marriage counseling,1
+1195,family,1
+1196,eco-anxiety & grief,1
+1197,pre menstrual dysphoric disorder,1
+1198,suicide survivor who lost loved one with suicide,1
+1199,encopresis,1
+1200,school performance,1
+1203,communication and boundaries,1
+1210,hiv/aids - medical and behavioral,1
+1204,neurodivergent,1
+1205,achievement - blocks to best version of self,1
+1206,interfaith and interracial relationships,1
+1207,multiracial families,1
+1208,interacial couples,1
+1209,bariatric issues -surgical eval & pre/post therapy,1
+1232,e-therapy sessions possible too,1
+1233,executive functioning and memory coaching,1
+1234,threat assessment,1
+1261,family of those with mental illness,1
+1255,gang,1
+1256,ocd treatment,1
+1257,complacency,1
+1258,burnout and secondary trauma,1
+1259,kink-aware professional,1
+1260,mental health needs of caregivers,1
+1262,cultural/diversity issues,1
+1236,step parenting,1
+1263,family communication problems,1
+1264,workplace burnout,1
+1265,linkedin,1
+1266,resumes,1
+1267,career exploration / career assessments,1
+1268,job search,1
+1254,affiliated with teen,1
+1253,parenting preschoolers,1
+1252,court ordered therapy: dependency/family law court,1
+1251,divorce support for children and their families,1
+1250,couples and creative backgrounds,1
+1249,highly sensitive people (hsp),1
+1248,gender expression,1
+1247,coping with trauma,1
+1246,men's issues / veterans,1
+1245,alternatively lifestyles bdsm polyamory,1
+1244,culture and race in families and in,1
+1243,cultural assimilation/adjustment,1
+1242,boarding school survivors,1
+1241,transgender & gender diverse,1
+1239,native american indian,1
+1238,work- or caregiving-related stress,1
+1237,behavioral medicine,1
+1194,unworthiness,1
+1193,quarterlife crisis,1
+1191,post partum,1
+1143,consent,1
+1135,attachment therapy,1
+1137,relational betrayal trauma for partners of,1
+1138,infidelity/sexual betrayal. sexual health issues,1
+1140,communication challenges,1
+1141,families of lgbtq+ individuals,1
+1142,court referred counseling,1
+1144,anti-racism,1
+1153,relational support,1
+1145,personality assessment,1
+1146,psychological,1
+1147,neuropsychological assessment,1
+1148,child emotional regulation,1
+1149,child gender care,1
+1150,specialize in working with first responders & vets,1
+1134,self expression,1
+1133,incarceration / families of those incarcerated,1
+1132,i am trained in emdr,1
+1131,i offer parent coaching for families in crisis,1
+1129,male rape survivors; fetishism; sexual trauma,1
+1128,surrogate partner therapy,1
+1127,grief and loss associated with infertility,1
+1126,surrogacy counseling and assessments,1
+1125,psychological evaluations,1
+1124,professional and leadership coaching,1
+1123,intellectualization,1
+1122,attorney mental health and wellness,1
+1121,counsel on medical diagnosis and complaints,1
+1120,emergency responder and public safety clinician,1
+1119,spiritual emergence/emergency,1
+1118,adult and adolescent psychotherapy,1
+1117,family treatment,1
+1151,children with different learning abilities and sup,1
+1154,elder care support,1
+1190,highly sensitive children,1
+1182,intrapersonal conflict,1
+1176,creative goals/ obstacles,1
+1177,financial/ career challenges,1
+1178,blocks in creativity,1
+1179,pre-engagement counseling,1
+1180,reunification; coparenting; parent/teen conflicts,1
+1181,forensic evaluation & testing; ime; call for rates,1
+1183,rainbow babies and their families,1
+1155,relationship skills,1
+1184,emerging adults,1
+1185,grief/loss (including pregnancy loss),1
+1186,grad psych student,1
+1187,expatriate,1
+1188,repatriate,1
+1189,and cultural adjustment,1
+1175,gender affirming care & sexual health,1
+1174,youth and young adults,1
+1173,fat experiences/ living in a larger body,1
+1172,coping with diabetes/chronic conditions,1
+1169,life purpose and fullfillment,1
+1168,immigration evals,1
+1167,fitness for duty evals,1
+1166,teletherapy sessions in california and florida,1
+1164,abuse: betrayal,1
+1163,narcissistic,1
+1162,precycle counseling for receiving donor gametes,1
+1161,positive psychology,1
+1160,strengths,1
+1159,child parent psychotherapy,1
+1158,trauma focused cognitive behavioral therapy,1
+1157,being a man in today's world,1
+1156,problem relationships,1
+2718,disability issues,1
